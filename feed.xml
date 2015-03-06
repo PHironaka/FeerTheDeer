@@ -3,19 +3,7 @@
   <channel>
     <title>TMC</title>
     <link>http://tmc.siteleaf.net</link>
-    <pubDate>Fri, 06 Mar 2015 00:48:33 +0000</pubDate>
-    
-    <item>
-      <title>Philo Finister Youthquake</title>
-      <link>http://tmc.siteleaf.net/works/features/philo-finister-youthquake</link>
-      <pubDate>Mon, 02 Mar 2015 11:26:00 -0800</pubDate>
-      <author>Peter Hironaka</author>
-      <guid>http://tmc.siteleaf.net/works/features/philo-finister-youthquake</guid>
-      <description>&lt;p&gt;Some say he was born in the woods and raised with Kodiak bear cubs. Others say he’s a glorified Boy Scout with particularly long limbs. Evidently, Chief Exploratory Officer Phillip T. Annand’s background is as mysterious as the journeys he embarks on. A scar on his left arm, in the shape of a cowbell, is said to reveal his true origins when prodded with tweezers drenched in rubbing alcohol. But that could also just be infection as a result of eating squirrels for the past two weeks.&lt;/p&gt;
-
-&lt;p&gt;Some say he was born in the woods and raised with Kodiak bear cubs. Others say he’s a glorified Boy Scout with particularly long limbs. Evidently, Chief Exploratory Officer Phillip T. Annand’s background is as mysterious as the journeys he embarks on. A scar on his left arm, in the shape of a cowbell, is said to reveal his true origins when prodded with tweezers drenched in rubbing alcohol. But that could also just be infection as a result of eating squirrels for the past two weeks.&lt;/p&gt;
-</description>
-    </item>
+    <pubDate>Fri, 06 Mar 2015 00:49:15 +0000</pubDate>
     
     <item>
       <title>Cosmic Exploration with Chet Brinkwater: Takara Bunyon</title>
@@ -199,6 +187,18 @@ These portraits represent the current stylings of Club members across the globe 
       <author>Peter Hironaka</author>
       <guid>http://tmc.siteleaf.net/works/holy-coast</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Philo Finister Youthquake</title>
+      <link>http://tmc.siteleaf.net/works/features/philo-finister-youthquake</link>
+      <pubDate>Sat, 02 Mar 2013 11:26:00 -0800</pubDate>
+      <author>Peter Hironaka</author>
+      <guid>http://tmc.siteleaf.net/works/features/philo-finister-youthquake</guid>
+      <description>&lt;p&gt;Some say he was born in the woods and raised with Kodiak bear cubs. Others say he’s a glorified Boy Scout with particularly long limbs. Evidently, Chief Exploratory Officer Phillip T. Annand’s background is as mysterious as the journeys he embarks on. A scar on his left arm, in the shape of a cowbell, is said to reveal his true origins when prodded with tweezers drenched in rubbing alcohol. But that could also just be infection as a result of eating squirrels for the past two weeks.&lt;/p&gt;
+
+&lt;p&gt;Some say he was born in the woods and raised with Kodiak bear cubs. Others say he’s a glorified Boy Scout with particularly long limbs. Evidently, Chief Exploratory Officer Phillip T. Annand’s background is as mysterious as the journeys he embarks on. A scar on his left arm, in the shape of a cowbell, is said to reveal his true origins when prodded with tweezers drenched in rubbing alcohol. But that could also just be infection as a result of eating squirrels for the past two weeks.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
