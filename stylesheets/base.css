@@ -1544,7 +1544,7 @@ header .center i.arrow-right {
   /* line 405, ../sass/modules/_header.scss */
   header .site-title {
     width: 12em;
-    margin-left: 21%;
+    margin-left: 17%;
   }
 }
 /* line 1, ../sass/modules/_footer.scss */
@@ -2011,35 +2011,44 @@ footer li a img {
   }
 
   /* line 278, ../sass/modules/_footer.scss */
+  h2.related {
+    font-size: 1.7em;
+  }
+
+  /* line 283, ../sass/modules/_footer.scss */
   #mc_embed_signup input[type="email"] {
     width: 72%;
   }
 
-  /* line 285, ../sass/modules/_footer.scss */
+  /* line 290, ../sass/modules/_footer.scss */
   article.related-posts li {
     width: 100%;
   }
-  /* line 289, ../sass/modules/_footer.scss */
+  /* line 292, ../sass/modules/_footer.scss */
+  article.related-posts li a {
+    font-size: 1.5em;
+  }
+  /* line 297, ../sass/modules/_footer.scss */
   article.related-posts p {
     display: none;
   }
 
-  /* line 295, ../sass/modules/_footer.scss */
+  /* line 303, ../sass/modules/_footer.scss */
   .logo {
     width: 100%;
   }
 
-  /* line 299, ../sass/modules/_footer.scss */
+  /* line 307, ../sass/modules/_footer.scss */
   .tmc-right-1, .tmc-right-2 {
     width: 100%;
   }
 
-  /* line 302, ../sass/modules/_footer.scss */
+  /* line 310, ../sass/modules/_footer.scss */
   .tmc-right-3 {
     margin-top: 0;
   }
 
-  /* line 308, ../sass/modules/_footer.scss */
+  /* line 316, ../sass/modules/_footer.scss */
   footer .logo {
     float: left;
     margin-left: 0em;
