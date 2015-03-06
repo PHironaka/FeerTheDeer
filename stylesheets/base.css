@@ -2015,40 +2015,46 @@ footer li a img {
     font-size: 1.7em;
   }
 
-  /* line 283, ../sass/modules/_footer.scss */
+  /* line 282, ../sass/modules/_footer.scss */
+  .divider {
+    margin-bottom: 2em;
+  }
+
+  /* line 287, ../sass/modules/_footer.scss */
   #mc_embed_signup input[type="email"] {
     width: 72%;
   }
 
-  /* line 290, ../sass/modules/_footer.scss */
+  /* line 294, ../sass/modules/_footer.scss */
   article.related-posts li {
     width: 100%;
+    margin-top: 1em;
   }
-  /* line 292, ../sass/modules/_footer.scss */
+  /* line 297, ../sass/modules/_footer.scss */
   article.related-posts li a {
     font-size: 1.5em;
   }
-  /* line 297, ../sass/modules/_footer.scss */
+  /* line 302, ../sass/modules/_footer.scss */
   article.related-posts p {
     display: none;
   }
 
-  /* line 303, ../sass/modules/_footer.scss */
+  /* line 308, ../sass/modules/_footer.scss */
   .logo {
     width: 100%;
   }
 
-  /* line 307, ../sass/modules/_footer.scss */
+  /* line 312, ../sass/modules/_footer.scss */
   .tmc-right-1, .tmc-right-2 {
     width: 100%;
   }
 
-  /* line 310, ../sass/modules/_footer.scss */
+  /* line 315, ../sass/modules/_footer.scss */
   .tmc-right-3 {
     margin-top: 0;
   }
 
-  /* line 316, ../sass/modules/_footer.scss */
+  /* line 321, ../sass/modules/_footer.scss */
   footer .logo {
     float: left;
     margin-left: 0em;
