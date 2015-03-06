@@ -1,5 +1,5 @@
 ---
-time: 1425672780
+time: 1425675601
 inventory:
   /index/index.html:
     md5: f72095551db27b9e6c5e879952df87b9
@@ -194,8 +194,8 @@ inventory:
     md5: a9dca813eba5758540e2db9d607b4243
     time: 1425672780
   /feed.xml:
-    md5: ad715616441b94c23e8e85a476dbac06
-    time: 1425672780
+    md5: ba345b7ec6291b226a415a9c5656b799
+    time: 1425675600
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
@@ -370,6 +370,9 @@ inventory:
   /stylesheets/reset.css:
     md5: 9d506627cfe1acf7458ce113ea66714b
     time: 1425588946
+  /base.css:
+    md5: 654f88122d69938984f81ee421ee912e
+    time: 1425675601
   /assets/FrontPage.jpg:
     md5: 828d5e7f4990591890897e3cdea21277
     time: 1425588946
