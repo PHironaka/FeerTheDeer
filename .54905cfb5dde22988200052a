@@ -1,5 +1,5 @@
 ---
-time: 1425668317
+time: 1425668441
 inventory:
   /index/index.html:
     md5: d420f441d4bfb130eeb78782e2d61a28
@@ -11,8 +11,8 @@ inventory:
     md5: 76fd903c77d2fb76dd710d3720f73528
     time: 1425666380
   /works/nike-air-collection/index.html:
-    md5: ee3099c5bf23bbfa576c6f25ef96cc59
-    time: 1425668311
+    md5: 4b817a05120a9af2b63b54c820b0c507
+    time: 1425668436
   /works/native-shoes/index.html:
     md5: 47a3bddfe73963505c33fdb2db5983ce
     time: 1425665879
@@ -191,11 +191,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: 1b10655bd12607cab258277966c0af57
-    time: 1425668316
+    md5: 44412bfce74be59dabd4e0e3443c8d32
+    time: 1425668441
   /feed.xml:
-    md5: 19e0fba14c6e0f5e03c88552c8dfa13b
-    time: 1425668316
+    md5: 33b6b1ab05efcd22a3f39ee6f2dbd930
+    time: 1425668441
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
