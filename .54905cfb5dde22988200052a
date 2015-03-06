@@ -1,5 +1,5 @@
 ---
-time: 1425605886
+time: 1425607583
 inventory:
   /index/index.html:
     md5: 78a992bdc244b2a4355c9753bd1fa128
@@ -11,8 +11,8 @@ inventory:
     md5: 4bcc8dffbf29ceb46863fd26c123378c
     time: 1425605815
   /works/native-shoes/index.html:
-    md5: 9bed2c058fab3df9af25c0d83c05c9ea
-    time: 1425605815
+    md5: bec48c459852dc1ffab6b60078f067df
+    time: 1425607576
   /works/native-shoes-cosmic-exploration-with-chet-brinkwater-presents-takara-bunyon/index.html:
     md5: d788f1be57a10787f463516402f23550
     time: 1425605815
@@ -40,36 +40,39 @@ inventory:
   /works/tags/index.html:
     md5: e34be7484f824d5dc6e7605d77229e36
     time: 1425602748
-  /works/tags/phillip-t-annand/index.html:
-    md5: bd98fc189960bb354b601caedf070176
-    time: 1425588898
-  /works/tags/peter-hironaka/index.html:
-    md5: 8457ce80ea8a3572f24c5e2cfcb240c4
-    time: 1425588898
-  /works/tags/ghits/index.html:
-    md5: 4b29ecd6468335bd155824622711a8c8
-    time: 1425588898
-  /works/tags/hyun-kim/index.html:
-    md5: 796ccb2218040f50699586dbf65b0d68
-    time: 1425588898
   /works/tags/works/index.html:
-    md5: bc1352fdf7da5a2a5b6a6a662bd81e1e
-    time: 1425588898
-  /works/tags/colors/index.html:
-    md5: d323f236109959196f6e6cf02fc57e43
-    time: 1425588898
+    md5: 68c3a752ece3b52ba452a05c3574ac04
+    time: 1425607577
   /works/tags/chukka/index.html:
-    md5: ddd80d2c4674018b11c41714c44495f8
-    time: 1425588898
+    md5: 06177fde9a68d50a46a3e319c6269248
+    time: 1425607577
+  /works/tags/native/index.html:
+    md5: e5ee397eaaee21b7cc626631b906c541
+    time: 1425607577
+  /works/tags/phillip-t-annand/index.html:
+    md5: f7dedfbbe0e201b8fa9dbfce264db573
+    time: 1425607577
+  /works/tags/peter-hironaka/index.html:
+    md5: 94ed7ee77433b3225a56431bf86b2e05
+    time: 1425607577
+  /works/tags/ghits/index.html:
+    md5: 9263ce4e7c1599c9410e6be1037d1673
+    time: 1425607578
+  /works/tags/hyun-kim/index.html:
+    md5: 6b45496104735ccc3ff89bbd3d569583
+    time: 1425607578
+  /works/tags/colors/index.html:
+    md5: 1eb5d7c9e0fda114278d705c3fa9edc8
+    time: 1425607578
   /works/tags/phillip-annand/index.html:
-    md5: 07ae54861dbf1aa1510d3deaf433b07a
-    time: 1425588898
+    md5: 5d003585b9bd7b761e7f025121d2d3d1
+    time: 1425607578
   /works/tags/greatest/index.html:
-    md5: 3b6fae90769896c77792606f432fe35d
-    time: 1425588898
+    md5: 065c906995a610520661d071ae8b3870
+    time: 1425607578
   /works/tags/chuckka/index.html:
-    md5: ba5f00be742214eca675ca205a3e150d
-    time: 1425588898
+    md5: 500f7e83797a5ffaf35ca3d6cb0c28eb
+    time: 1425607578
   /works/set/index.html:
     md5: 5b4ed3a468897760dd7bc5b244d4d666
     time: 1425602749
@@ -185,11 +188,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: 514876668c0040018022102161eaed72
-    time: 1425605819
+    md5: 4dec5ea0122c9d40253b9057acf83c13
+    time: 1425607581
   /feed.xml:
-    md5: 258c90a5e8495edbda5e50e7d9833354
-    time: 1425605886
+    md5: 5b94aedc562d741b3238cce004cca7ee
+    time: 1425607581
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
