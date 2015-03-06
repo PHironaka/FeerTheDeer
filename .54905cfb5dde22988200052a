@@ -1,5 +1,5 @@
 ---
-time: 1425603603
+time: 1425603657
 inventory:
   /index/index.html:
     md5: 7849c1c8e1eb7c0b552ee889d40bd5fa
@@ -146,8 +146,8 @@ inventory:
     md5: e92b6f1acd946a836e2b70dc82b121a0
     time: 1425602751
   /works/features/philo-finister-youthquake/index.html:
-    md5: 51357c62f3474a4c9d44d987d14845d0
-    time: 1425603601
+    md5: 6cc2cf9bd262fe95117d5d1686afab16
+    time: 1425603656
   /works/features/archive/index.html:
     md5: f92c5078c9ba45c908b89194cb96be4d
     time: 1425602751
@@ -185,8 +185,8 @@ inventory:
     md5: 84e8d83d0dfabd615844055b6745c7cc
     time: 1425603471
   /feed.xml:
-    md5: 7af7ea3bf006297a94e9e269c58b26fc
-    time: 1425603602
+    md5: 4b8a2e73a1a946d8cf441d51fcf2276d
+    time: 1425603657
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
