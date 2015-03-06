@@ -1,5 +1,5 @@
 ---
-time: 1425675601
+time: 1425675678
 inventory:
   /index/index.html:
     md5: f72095551db27b9e6c5e879952df87b9
@@ -194,8 +194,8 @@ inventory:
     md5: a9dca813eba5758540e2db9d607b4243
     time: 1425672780
   /feed.xml:
-    md5: ba345b7ec6291b226a415a9c5656b799
-    time: 1425675600
+    md5: f2ce7045f30362f7b6bd320ef2661fff
+    time: 1425675678
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
