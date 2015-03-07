@@ -1,5 +1,5 @@
 ---
-time: 1425755868
+time: 1425756054
 inventory:
   /index/index.html:
     md5: 7797f6578b075d705e8ecbc762a4dae7
@@ -8,11 +8,11 @@ inventory:
     md5: 7797f6578b075d705e8ecbc762a4dae7
     time: 1425755855
   /works/index.html:
-    md5: 0503914c4b18c6eacedb62096df02999
-    time: 1425755855
+    md5: 2d5c2a3f8e97cb859155a85945476f4b
+    time: 1425756045
   /works/nike-snkr-app-launch/index.html:
-    md5: 1ba09fa5f591c8c8fd9b34baab6fd801
-    time: 1425755855
+    md5: 0b4b43ae3f9bbd10b7828ad375a30b44
+    time: 1425756045
   /works/nike-sportswear-instagram/index.html:
     md5: 29abccfa3ee7102404ac7851e75b2f39
     time: 1425755856
@@ -245,11 +245,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: da9969dca7ca018936d1e9d00d351d0d
-    time: 1425755862
+    md5: 2ded9fb3814125fcfeea183ffef1bba2
+    time: 1425756051
   /feed.xml:
-    md5: c2ccad9226cb2af8299bafa210c05351
-    time: 1425755862
+    md5: bf8c2149d34d846c43c4890eb3452ca7
+    time: 1425756051
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
@@ -442,6 +442,9 @@ inventory:
   /assets/TONE_2013_TMC_PingPongAd_005.jpg:
     md5: 5f8ecac249a807390e499a5a1b326f40
     time: 1425755863
+  /assets/NBB_Final.jpg:
+    md5: a7e9d6367ceb53dd775920a088aa983e
+    time: 1425756051
   /assets/FrontPage.jpg:
     md5: 828d5e7f4990591890897e3cdea21277
     time: 1425588946
@@ -508,6 +511,9 @@ inventory:
   /assets/TONE_2013_TMC_PingPongAd_002.jpg:
     md5: 755a8b9715ee176c4d2bb929cff04398
     time: 1425755863
+  /assets/VP_TMC_NSW_SNKRS_02.10.2015_0097-Edit.jpg:
+    md5: 3ae7373e813aae43370095ec6947b30c
+    time: 1425756052
   /assets/ruggedcali.jpg:
     md5: b5326833e68a8d567a752a9e6296feca
     time: 1425588953
@@ -562,6 +568,9 @@ inventory:
   /assets/TMCCC.jpg:
     md5: 2c52d0b02daac89754678bdb70556cea
     time: 1425755864
+  /assets/VP_TMC_NSW_SNKRS_02.11.2015_0093-Edit-Edit.jpg:
+    md5: e5b738354f214e711696b274a99c1f7e
+    time: 1425756052
   /assets/1335970936THERM3.jpg:
     md5: d8f50ceb64dcf304cdced3854e79e97d
     time: 1425588959
