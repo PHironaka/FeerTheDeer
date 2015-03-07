@@ -616,8 +616,8 @@ ul.bio {
   display: inline-block;
   padding-right: 1.35765%;
   width: 32.7457%;
-  margin: 3em 0;
-  float: left;
+  margin: 1em 0 1.5em;
+  vertical-align: top;
 }
 /* line 367, ../sass/modules/_global-styles.scss */
 .tmc-3 h1 {
