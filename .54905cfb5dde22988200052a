@@ -1,45 +1,48 @@
 ---
-time: 1425678423
+time: 1425701662
 inventory:
   /index/index.html:
-    md5: f72095551db27b9e6c5e879952df87b9
-    time: 1425672708
+    md5: 9e3c4667b8c493649a00dfc895e84bd0
+    time: 1425701651
   /index.html:
-    md5: f72095551db27b9e6c5e879952df87b9
-    time: 1425672708
+    md5: 9e3c4667b8c493649a00dfc895e84bd0
+    time: 1425701651
   /works/index.html:
-    md5: 7c1d1acf22bfd9519432972fa0c76492
-    time: 1425672709
+    md5: 36571fbaadf97e15867096fe8589dc02
+    time: 1425701651
+  /works/nike-sportswear-instagram/index.html:
+    md5: fa0a3200aaf298b4dbce7d4f6d17be73
+    time: 1425701651
   /works/nike-air-collection/index.html:
-    md5: c45b5cd97432bd885974d7eec6e305e5
-    time: 1425672775
+    md5: 0566d84b6a7dec512f10c56bb4b37d13
+    time: 1425701651
   /works/native-shoes/index.html:
-    md5: 742943981f4b2a80b16319d0add5a791
-    time: 1425672709
+    md5: a829d596a6eb594254a28cd713ee4264
+    time: 1425701651
   /works/native-shoes-cosmic-exploration-with-chet-brinkwater-presents-takara-bunyon/index.html:
-    md5: 042484c96adb4263e2129c0a953bd66d
-    time: 1425672709
+    md5: ee4fedf65f100f58e675e9a66da65d0a
+    time: 1425701651
   /works/nike-basketball-instagram/index.html:
-    md5: a1a7ae1d251cbceb590f0ace1429b59b
-    time: 1425672709
+    md5: c49123fe55cd0cc0fdbb87505ac23c21
+    time: 1425701652
   /works/holy-coast-1/index.html:
-    md5: f13868a58e73ca1a80407cf84677c385
-    time: 1425672709
+    md5: 540e879f7bf26d74c0e6241c36d051f0
+    time: 1425701652
   /works/native-ss15-moon-mission/index.html:
-    md5: d83f982bcaea1e4a0e7b94561273bada
-    time: 1425672710
+    md5: dcd228a28d72abf0259c50e6657165f1
+    time: 1425701652
   /works/gravity/index.html:
-    md5: 00063f26b1499ea2786f1329833d0199
-    time: 1425672710
+    md5: 5c0c0ebeb758af7429ca6a639515a498
+    time: 1425701652
   /works/2011-summer-retreat/index.html:
-    md5: 1724af27783fc4d81afbe04bbd994a20
-    time: 1425672710
+    md5: 47cbde1d4a234bf28483bbcc3ae5de9e
+    time: 1425701652
   /works/holy-coast/index.html:
-    md5: 0f1ce73ce8917aef2c57b7c75da70131
-    time: 1425672710
+    md5: 794aa3fd36612152e0f3a9c23cffe8a4
+    time: 1425701652
   /works/archive/index.html:
-    md5: 8a67054d03b9b54bf58b54132646c025
-    time: 1425672710
+    md5: a6d4f20dd6c4fd5ae7a1c1eca60a12b2
+    time: 1425701653
   /works/tags/index.html:
     md5: 0b2897a5eabbfbe1845dfda4654c26b1
     time: 1425672710
@@ -191,11 +194,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: a9dca813eba5758540e2db9d607b4243
-    time: 1425672780
+    md5: 988c7260966ef52ffab35213e4eac168
+    time: 1425701656
   /feed.xml:
-    md5: 5429636c829e6f44e05c1801c1f675cb
-    time: 1425678422
+    md5: 82bbb48b0e309ef15d1ecdab55324df1
+    time: 1425701656
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
@@ -370,6 +373,9 @@ inventory:
   /stylesheets/reset.css:
     md5: 9d506627cfe1acf7458ce113ea66714b
     time: 1425588946
+  /assets/VP_TMC_NSW_01.24.2015_0596.jpg:
+    md5: b1f95650ecae0b4f7f2b293b7c6bfdc9
+    time: 1425701656
   /assets/FrontPage.jpg:
     md5: 828d5e7f4990591890897e3cdea21277
     time: 1425588946
@@ -418,6 +424,9 @@ inventory:
   /assets/VP_TMC_TechPackScout_01.14.2014_0001.jpg:
     md5: 3f6e56a55251a3e0f54f32ab53c2a404
     time: 1425665543
+  /assets/VP_TMC_NSW_03.28.2014_1374.jpg:
+    md5: ad6a598aeabc6d5e0c91d0e5b02374bc
+    time: 1425701656
   /assets/ruggedcali.jpg:
     md5: b5326833e68a8d567a752a9e6296feca
     time: 1425588953
@@ -454,6 +463,9 @@ inventory:
   /assets/VP_TMC_TechPackScout_01.14.2014_0016.jpg:
     md5: 330b5ea20e85f08857d179577cd1882b
     time: 1425665543
+  /assets/TMC_VP_NSW_Magista_Chukka_5.12.14_OnFoot_001.jpeg:
+    md5: 3f6251eeed722c432e6cb34acc5e6877
+    time: 1425701657
   /assets/1335970936THERM3.jpg:
     md5: d8f50ceb64dcf304cdced3854e79e97d
     time: 1425588959
@@ -487,6 +499,9 @@ inventory:
   /assets/VP_TMC_TechPackScout_01.14.2014_0010.jpg:
     md5: c3c3cb5f4429da9bfcbe516db3e94362
     time: 1425665542
+  /assets/VP_TMC_NSW_01.05.2014_0006.jpg:
+    md5: 0f0bf559c98839f2a50e57e77d8979b1
+    time: 1425701658
   /assets/1335970956THERM5.jpg:
     md5: f99e48480e45acff699999f4c10a5f05
     time: 1425588963
@@ -517,6 +532,9 @@ inventory:
   /assets/1330533859phlomadbury5.jpg:
     md5: 05fb21cb2862c48b5ae36764ca9160a8
     time: 1425588969
+  /assets/VP_TMC_NSW_01.25.2015_0205.jpg:
+    md5: 34989b165836d5c120211cbff2dda0d9
+    time: 1425701658
   /assets/1335970948THERM4.jpg:
     md5: 6ad45b121e55b605a15dcfcf1e088522
     time: 1425588970
