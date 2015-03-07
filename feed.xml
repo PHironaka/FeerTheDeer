@@ -3,7 +3,7 @@
   <channel>
     <title>TMC</title>
     <link>http://tmc.siteleaf.net</link>
-    <pubDate>Sat, 07 Mar 2015 04:34:08 +0000</pubDate>
+    <pubDate>Sat, 07 Mar 2015 04:38:06 +0000</pubDate>
     
     <item>
       <title>Nike Sportswear Instagram</title>
@@ -11,7 +11,15 @@
       <pubDate>Fri, 06 Mar 2015 19:15:00 -0800</pubDate>
       <author>Peter Hironaka</author>
       <guid>http://tmc.siteleaf.net/works/nike-sportswear-instagram</guid>
-      <description></description>
+      <description>&lt;style&gt;.ig-b- { display: inline-block; }
+.ig-b- img { visibility: hidden; }
+.ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
+.ig-b-48 { width: 48px; height: 48px; background: url(//badges.instagram.com/static/images/ig-badge-sprite-48.png) no-repeat 0 0; }
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+.ig-b-48 { background-image: url(//badges.instagram.com/static/images/ig-badge-sprite-48@2x.png); background-size: 60px 178px; } }&lt;/style&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://instagram.com/nikesportswear?ref=badge&quot; class=&quot;ig-b- ig-b-48&quot;&gt;&lt;img src=&quot;//badges.instagram.com/static/images/ig-badge-48.png&quot; alt=&quot;Instagram&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
