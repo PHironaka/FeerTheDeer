@@ -1,5 +1,5 @@
 ---
-time: 1425703466
+time: 1425703897
 inventory:
   /index/index.html:
     md5: 9e3c4667b8c493649a00dfc895e84bd0
@@ -17,8 +17,8 @@ inventory:
     md5: 421e82fafb0c8113b9ba780e7415191e
     time: 1425703456
   /works/native-shoes/index.html:
-    md5: e55a301c05c55df2c4a90b9c5076aff9
-    time: 1425703456
+    md5: bb4ddfbcce316d8fbd46c1ec43696f0e
+    time: 1425703891
   /works/native-shoes-cosmic-exploration-with-chet-brinkwater-presents-takara-bunyon/index.html:
     md5: dc6d00d7bbfb8e55cec6a233eef44a36
     time: 1425703456
@@ -203,11 +203,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: 1d28baaf4e1815bff0b17333d34cb241
-    time: 1425703461
+    md5: 56ffdc4fc1f4fce735c82da450982af4
+    time: 1425703896
   /feed.xml:
-    md5: 3ab50505fc8539cbc475c29a3bb26080
-    time: 1425703461
+    md5: f44fceab79d7a69019fa66f8322117c9
+    time: 1425703896
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
@@ -277,9 +277,6 @@ inventory:
   /assets/VP_TMC_NSW_01.25.2015_0205-1.jpg:
     md5: 8e0122d39cfde7720e7d2971659db11a
     time: 1425702109
-  /config.ru:
-    md5: af7025fab73b4511cdf1b5461875df06
-    time: 1425603991
   /img/deer.png:
     md5: 1e45c82fc9c7484b0325cb91efdfa8aa
     time: 1425588923
@@ -374,8 +371,8 @@ inventory:
     md5: 43a0719cd6a7eef1fecff91f68b3ea61
     time: 1425588929
   /stylesheets/base.css:
-    md5: 7b4f61fe41f2404f0b2bc47fa43a4899
-    time: 1425678422
+    md5: fe48af14dca5a7476d876070ef8ff929
+    time: 1425703897
   /stylesheets/reset.css:
     md5: 9d506627cfe1acf7458ce113ea66714b
     time: 1425588946
