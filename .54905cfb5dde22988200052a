@@ -1,5 +1,5 @@
 ---
-time: 1425702464
+time: 1425702569
 inventory:
   /index/index.html:
     md5: 9e3c4667b8c493649a00dfc895e84bd0
@@ -11,8 +11,8 @@ inventory:
     md5: 363ae201fd5ef5580f9d1c785b3b719d
     time: 1425702103
   /works/nike-sportswear-instagram/index.html:
-    md5: 8de24d7b4873a3f727261f3a66407e5e
-    time: 1425702458
+    md5: bf1d5834665c8c3257a7b679da3e9dba
+    time: 1425702563
   /works/nike-air-collection/index.html:
     md5: aabc9ddc2f7c3b278fb0f6dc5a0d03a2
     time: 1425701670
@@ -206,8 +206,8 @@ inventory:
     md5: be3460ae0cffb473e87caf3946bdbbc3
     time: 1425701985
   /feed.xml:
-    md5: c44731b5bd7ef1e8c598afdc0e5e4535
-    time: 1425702463
+    md5: 0fb5cdfcea93f5ae37f98a7b9e4600a2
+    time: 1425702568
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
@@ -583,6 +583,9 @@ inventory:
   /assets/1330541247phlomadbury6.jpg:
     md5: 33c05248ce530e9a3df35199090b761b
     time: 1425588974
+  /assets/VP_TMC_NSW_01.24.2015_0596.jpg:
+    md5: b1f95650ecae0b4f7f2b293b7c6bfdc9
+    time: 1425702568
   /assets/SR10-1.jpg:
     md5: 328510131d67c5c82b94f5e17eadd1b8
     time: 1425588974
