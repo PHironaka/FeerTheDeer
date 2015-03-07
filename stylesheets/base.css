@@ -2071,7 +2071,6 @@ footer li a img {
 }
 /* line 50, ../sass/base.scss */
 figure img {
-  width: 100%;
   float: left;
   margin: 0 0 .5em;
   animation: fadein 1s;
@@ -2118,27 +2117,27 @@ figure img {
     opacity: 1;
   }
 }
-/* line 94, ../sass/base.scss */
+/* line 93, ../sass/base.scss */
 .content {
   margin: 25em 0 6em 0;
 }
 
-/* line 98, ../sass/base.scss */
+/* line 97, ../sass/base.scss */
 .product {
   margin: 22em 0 6em 0;
 }
 
-/* line 102, ../sass/base.scss */
+/* line 101, ../sass/base.scss */
 .post-content {
   margin: 22em 0 6em 0;
 }
 
-/* line 106, ../sass/base.scss */
+/* line 105, ../sass/base.scss */
 li, a {
   color: #333;
 }
 
-/* line 110, ../sass/base.scss */
+/* line 109, ../sass/base.scss */
 a:hover {
   color: #fff;
   -moz-transition: all .5s ease-out;
@@ -2147,13 +2146,13 @@ a:hover {
   transition: all .5s ease-out;
 }
 
-/* line 121, ../sass/base.scss */
+/* line 120, ../sass/base.scss */
 .fluid-width-video-wrapper {
   float: left;
   margin-bottom: 1em;
 }
 
-/* line 127, ../sass/base.scss */
+/* line 126, ../sass/base.scss */
 .tmc-16 {
   max-width: 100%;
   margin-left: auto;
@@ -2172,19 +2171,19 @@ a:hover {
   display: table;
 }
 @media screen and (max-width: 1100px) {
-  /* line 127, ../sass/base.scss */
+  /* line 126, ../sass/base.scss */
   .tmc-16 {
     max-width: 63.875rem;
   }
 }
 @media screen and (max-width: 460px) {
-  /* line 127, ../sass/base.scss */
+  /* line 126, ../sass/base.scss */
   .tmc-16 {
     padding: 0px 1.55555em;
   }
 }
 
-/* line 145, ../sass/base.scss */
+/* line 144, ../sass/base.scss */
 .tmc-8 {
   max-width: 100%;
   margin-left: auto;
@@ -2202,7 +2201,7 @@ a:hover {
   display: table;
 }
 @media screen and (max-width: 1100px) {
-  /* line 145, ../sass/base.scss */
+  /* line 144, ../sass/base.scss */
   .tmc-8 {
     max-width: 56.875rem;
   }

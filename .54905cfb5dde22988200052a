@@ -1,12 +1,12 @@
 ---
-time: 1425749667
+time: 1425754164
 inventory:
   /index/index.html:
-    md5: 757fa42043ecf514666a584974685341
-    time: 1425749660
+    md5: 887617b1ed9c5218e1ac3621897f22fe
+    time: 1425754127
   /index.html:
-    md5: 757fa42043ecf514666a584974685341
-    time: 1425749660
+    md5: 887617b1ed9c5218e1ac3621897f22fe
+    time: 1425754127
   /works/index.html:
     md5: 03559ea432e66e7fa1300b909453a8d5
     time: 1425747744
@@ -41,8 +41,8 @@ inventory:
     md5: e93229708d3d698003e3e7eafdaed3b1
     time: 1425747746
   /works/archive/index.html:
-    md5: d9f70c7882be38c2b824170619ec3bdf
-    time: 1425749662
+    md5: 3a9c67bb046b51bc4a85a14c333bf460
+    time: 1425754129
   /works/tags/index.html:
     md5: 2f68342a9d1e8070313290a237fb8965
     time: 1425703457
@@ -161,13 +161,16 @@ inventory:
     md5: bab3f0a1335d76a7b28254659e7e6ece
     time: 1425672714
   /works/features/index.html:
-    md5: 9203f4c4d96d0b17a78c3f05340234a6
-    time: 1425672714
+    md5: 53c2f55f54894762bd20b342288076c5
+    time: 1425754131
+  /works/features/nylon-expeditions-a-madbury-editorial-experiment/index.html:
+    md5: 80b1de9f62f6fe90b78a979a2cf11625
+    time: 1425754131
+  /works/features/moonstompin-a-planetary-recon/index.html:
+    md5: e673c15200dad6a1fa7353991d21b12f
+    time: 1425754132
   /works/features/roosevelt-surveyance/index.html:
     md5: 3b4bcd4634f3e7fa8017ea478740c0ba
-    time: 1425672714
-  /works/features/philo-finister-youthquake/index.html:
-    md5: 10a12990cc4e57d8a144bc8b91f60458
     time: 1425672714
   /works/features/archive/index.html:
     md5: 8e5ecc77b439cae3554fbd0a7a9be269
@@ -178,27 +181,63 @@ inventory:
   /works/features/tags/phillip-t-annand/index.html:
     md5: 801995be6d9e714a5351ee665657131f
     time: 1425672714
-  /works/features/tags/vinny-picone/index.html:
-    md5: 13682df5123e48f733da1b2ee73f3051
-    time: 1425747749
+  /works/features/tags/ellington-hammond/index.html:
+    md5: d48e348fe832994e0cec28b6a2cd4666
+    time: 1425754132
   /works/features/tags/bryan-stevenson/index.html:
     md5: 2789f20d58f6c186475c51c6eacdcbfa
+    time: 1425747749
+  /works/features/tags/holy-coast/index.html:
+    md5: f6f1eaf23114abc736941dbc3a36628e
+    time: 1425754132
+  /works/features/tags/tmc-production/index.html:
+    md5: 3ffd151cc4ab913a671c25bffd41a858
+    time: 1425754132
+  /works/features/tags/vinny-picone/index.html:
+    md5: 13682df5123e48f733da1b2ee73f3051
     time: 1425747749
   /works/features/tags/matty/index.html:
     md5: 229aecff8800cb92c65a0d4d698fcd15
     time: 1425747749
-  /works/features/tags/marcus-arman/index.html:
-    md5: 3f9ffc1799941f5a79116e8aa82e89bb
-    time: 1425747749
-  /works/features/tags/persia-stand-up/index.html:
-    md5: 74ae13728471de73bd0c956b625ee7e0
-    time: 1425747750
   /works/features/set/index.html:
     md5: 92c952de054279bd0ee367859008b953
     time: 1425672715
   /works/features/set/archives/index.html:
     md5: 58e40170fe2cb125c513bbbf975a253f
     time: 1425747750
+  /works/features/tag-set-name/index.html:
+    md5: 1cf88f6660c9b1b5c5b25e7930d44c1a
+    time: 1425754132
+  /works/spreads/index.html:
+    md5: d802e68660a3b201315f59f69d298fae
+    time: 1425754133
+  /works/spreads/crab-chowder-and-conversation-with-chip-tha-ripper/index.html:
+    md5: 82bbf15e48f8b4466de7b888ca0ba91a
+    time: 1425754133
+  /works/spreads/there-goes-the-neighborhood-tyler-the-creator-interview/index.html:
+    md5: d59db40dedec0a604b8f7800fa1fdc62
+    time: 1425754133
+  /works/spreads/archive/index.html:
+    md5: 32eb488f427f8d33dd1f557c80bc6095
+    time: 1425754133
+  /works/spreads/tags/index.html:
+    md5: 7a71cd23cd733a54936516ff2482d55a
+    time: 1425754133
+  /works/spreads/tags/madbury-music/index.html:
+    md5: d44944c356f9ec694ad88f7328e03fb7
+    time: 1425754133
+  /works/spreads/tags/marcus-arman/index.html:
+    md5: 5a3f1c97e994fc02ad9d8c21c6b25bba
+    time: 1425754133
+  /works/spreads/tags/phillip-t-annand/index.html:
+    md5: 861ea2c90f81cc37d2af213db1cab08f
+    time: 1425754133
+  /works/spreads/set/index.html:
+    md5: a03e1b63690edc1e1589cfdc388adaf9
+    time: 1425754133
+  /works/spreads/set/archives/index.html:
+    md5: 9a84ef36edc545e78e36f079830a34ed
+    time: 1425754133
   /CNAME:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
@@ -206,8 +245,8 @@ inventory:
     md5: 007df8b0d878121a516cccd754875e11
     time: 1425747750
   /feed.xml:
-    md5: fe7ed02777101742ad785e6597f45939
-    time: 1425749665
+    md5: abf9b7ad84619b32338df3d4db7ccb3b
+    time: 1425754134
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
@@ -277,6 +316,21 @@ inventory:
   /assets/VP_TMC_NSW_01.25.2015_0205-1.jpg:
     md5: 8e0122d39cfde7720e7d2971659db11a
     time: 1425702109
+  /assets/TMCMoonstomping5.jpg:
+    md5: d5018533d52360c1cdecd1893ca6b661
+    time: 1425754134
+  /assets/1340025481TY1.jpg:
+    md5: b44194797cb86145fbb9cfd795360662
+    time: 1425754135
+  /assets/1331568172ChipMadbury2.jpg:
+    md5: 5d196e7ecb2a8e20b123cccabd828844
+    time: 1425754135
+  /assets/MadburyNylon1.jpg:
+    md5: 2fd0bcd41fc589af25fbf4abef36de79
+    time: 1425754135
+  /config.ru:
+    md5: af7025fab73b4511cdf1b5461875df06
+    time: 1425754135
   /Gemfile:
     md5: 4724f808f2642dd10cfe1d41a7fbfd6c
     time: 1425749665
@@ -377,8 +431,8 @@ inventory:
     md5: 43a0719cd6a7eef1fecff91f68b3ea61
     time: 1425588929
   /stylesheets/base.css:
-    md5: 75c5c7b5ac368519a2d1e995ef4ae9bf
-    time: 1425749666
+    md5: f12030bdc73264b7cc23e8802c4cf226
+    time: 1425754136
   /stylesheets/reset.css:
     md5: 9d506627cfe1acf7458ce113ea66714b
     time: 1425588946
@@ -433,6 +487,18 @@ inventory:
   /assets/VP_TMC_NSW_03.28.2014_1374.jpg:
     md5: ad6a598aeabc6d5e0c91d0e5b02374bc
     time: 1425701656
+  /assets/TMCMoonstomping2.jpg:
+    md5: c249238f5209caa5316061dceda4a5ce
+    time: 1425754136
+  /assets/1340025490TY2.jpg:
+    md5: 3069b858a3d51dfb2316b7f2bbd142a7
+    time: 1425754136
+  /assets/1331568139ChipMadbury5.jpg:
+    md5: 6544bef979d2c1429368ee0958149ba0
+    time: 1425754137
+  /assets/MadburyNylon4.jpg:
+    md5: 68d1c9d77d010386171acd6ea5bbf50f
+    time: 1425754137
   /assets/ruggedcali.jpg:
     md5: b5326833e68a8d567a752a9e6296feca
     time: 1425588953
@@ -472,6 +538,18 @@ inventory:
   /assets/TMC_VP_NSW_Magista_Chukka_5.12.14_OnFoot_001.jpeg:
     md5: 3f6251eeed722c432e6cb34acc5e6877
     time: 1425701657
+  /assets/TMCMoonstomping1.jpg:
+    md5: 1e70ed1a060b070ecf52a0d46c33f0b1
+    time: 1425754137
+  /assets/1340025532TY7.jpg:
+    md5: 81ab3213b5a815289c8dbc4668a7b092
+    time: 1425754138
+  /assets/1331568030ChipMadbury8.jpg:
+    md5: ce70eb9f3d7461b67b998f9603d45178
+    time: 1425754138
+  /assets/MadburyNylon12.jpg:
+    md5: 73c78fb5dd41b0f55ab928e3b3c41260
+    time: 1425754138
   /assets/1335970936THERM3.jpg:
     md5: d8f50ceb64dcf304cdced3854e79e97d
     time: 1425588959
@@ -508,6 +586,18 @@ inventory:
   /assets/VP_TMC_NSW_01.05.2014_0006.jpg:
     md5: 0f0bf559c98839f2a50e57e77d8979b1
     time: 1425701658
+  /assets/TMCMoonstomping6.jpg:
+    md5: 010a122d2ef796d7d826e4fb5480d060
+    time: 1425754139
+  /assets/1340025523TY6.jpg:
+    md5: b4e508b30f21921e146d756df07ee32d
+    time: 1425754139
+  /assets/1331567580ChipMadbury9.jpg:
+    md5: 6c65f6c099cad723252196d955bf889c
+    time: 1425754139
+  /assets/MadburyNylon2.jpg:
+    md5: ffe0db2ec88243d58d12f7f7b6989ab3
+    time: 1425754139
   /assets/1335970956THERM5.jpg:
     md5: f99e48480e45acff699999f4c10a5f05
     time: 1425588963
@@ -541,6 +631,18 @@ inventory:
   /assets/TMC_VP_NSW_AM90GreenBreathe_3.31.14_Macro.jpg:
     md5: 375a4ffeda3c629696ab5cf333bd857b
     time: 1425702463
+  /assets/TMCMoonstomping3.jpg:
+    md5: 64d385c5353a8bfb51bba548f22b809e
+    time: 1425754140
+  /assets/1340025498TY3.jpg:
+    md5: 1767e06b51afd8bc50c4bd4dbfb4c51b
+    time: 1425754140
+  /assets/1331568022ChipMadbury88.jpg:
+    md5: be7d78ba0c43ed68dd410a49060e48b8
+    time: 1425754140
+  /assets/MadburyNylon3.jpg:
+    md5: 2a33f14f771ad57d6b67d9bf1d031939
+    time: 1425754141
   /assets/1335970948THERM4.jpg:
     md5: 6ad45b121e55b605a15dcfcf1e088522
     time: 1425588970
@@ -562,6 +664,18 @@ inventory:
   /assets/VP_TMC_NSW_NikeAir_05.21.2014_0036.jpg:
     md5: 19e591507c1c0e53e7c1e5726dbf4ea9
     time: 1425666385
+  /assets/TMCMoonstomping4.jpg:
+    md5: 0502b1c7043c201464d61a8833400939
+    time: 1425754141
+  /assets/1340025516TY5.jpg:
+    md5: 344c93ca9fa8ee65f1ba5df67072382b
+    time: 1425754141
+  /assets/1331568114ChipMadbury6.jpg:
+    md5: 2dd2a0a412a334cc4df8423540b76db6
+    time: 1425754142
+  /assets/MadburyNylon8.jpg:
+    md5: 44e6db5f243cc8cfd674929f1aefc987
+    time: 1425754142
   /assets/SR7.jpg:
     md5: caf5d59e9432c0a29e1deadd1f31eb69
     time: 1425588972
@@ -577,6 +691,15 @@ inventory:
   /assets/1330541247phlomadbury6.jpg:
     md5: 33c05248ce530e9a3df35199090b761b
     time: 1425588974
+  /assets/1340025506TY4.jpg:
+    md5: 6490be7598f37ad51cbea0802e4fbc65
+    time: 1425754143
+  /assets/1331568150ChipMadbury4.jpg:
+    md5: 1009a8197ecec2df80d4e68d66639e84
+    time: 1425754143
+  /assets/MadburyNylon6.jpg:
+    md5: bc88600380bad4db1c97de3f3540639d
+    time: 1425754144
   /assets/SR10-1.jpg:
     md5: 328510131d67c5c82b94f5e17eadd1b8
     time: 1425588974
@@ -586,6 +709,15 @@ inventory:
   /assets/1330541252phlomadbury7.jpg:
     md5: 37184d1be93a8412ae6c3a0734133b0d
     time: 1425588975
+  /assets/1340025539TY8.jpg:
+    md5: 7bcb3d7716f569e56aed5741f646d6be
+    time: 1425754144
+  /assets/1331568181ChipMadbury.jpg:
+    md5: de450780a17474339305c31da79c5891
+    time: 1425754144
+  /assets/MadburyNylon13.jpg:
+    md5: 01feec8d3611e711be7d44854d0fb211
+    time: 1425754144
   /assets/SR12-1.jpg:
     md5: f907d70e72896f83327166cb0f9df9ad
     time: 1425588976
@@ -595,3 +727,36 @@ inventory:
   /assets/1330887486phlomadbury88.jpg:
     md5: b4dfc3d07da5c4778ac28dff734a3061
     time: 1425588976
+  /assets/1340025547TY9.jpg:
+    md5: bb3a5fa5ddee5d94e996584c771556ee
+    time: 1425754145
+  /assets/1331568105ChipMadbury7.jpg:
+    md5: de7d0621da90be68c9d124d086782bc0
+    time: 1425754145
+  /assets/MadburyNylon7.jpg:
+    md5: d187f4a55658d3bbd5d992a2d41bd0d3
+    time: 1425754145
+  /assets/1331568159ChipMadbury3.jpg:
+    md5: cab8107f4f8b53c31e272c51b6639967
+    time: 1425754146
+  /assets/MadburyNylon5.jpg:
+    md5: 06d70b530db397baad93f55d74c04b8d
+    time: 1425754146
+  /assets/1331568130ChipMadbury55.jpg:
+    md5: 60a73c99c36410782d537b0841998e09
+    time: 1425754146
+  /assets/MadburyNylon11.jpg:
+    md5: d1699b41eef4f7d760b760906cdec3d7
+    time: 1425754147
+  /assets/MadburyNylon9.jpg:
+    md5: e1dcdf89af6465d8a2fdc9734d17f2c6
+    time: 1425754147
+  /assets/MadburyNylon10.jpg:
+    md5: 70ffedb4bf7661bbaa5001a9f507b763
+    time: 1425754147
+  /assets/MadburyNylon14.jpg:
+    md5: 6d3ec6c8fb80c45b1330cf858cbd11be
+    time: 1425754148
+  /assets/MadburyNylon15.jpg:
+    md5: d6b28266b400c09307feb2bcc4078344
+    time: 1425754148
