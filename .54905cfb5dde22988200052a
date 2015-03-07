@@ -1,48 +1,51 @@
 ---
-time: 1425754439
+time: 1425755868
 inventory:
   /index/index.html:
-    md5: 757fa42043ecf514666a584974685341
-    time: 1425754429
+    md5: 7797f6578b075d705e8ecbc762a4dae7
+    time: 1425755855
   /index.html:
-    md5: 757fa42043ecf514666a584974685341
-    time: 1425754429
+    md5: 7797f6578b075d705e8ecbc762a4dae7
+    time: 1425755855
   /works/index.html:
-    md5: 03559ea432e66e7fa1300b909453a8d5
-    time: 1425747744
+    md5: 0503914c4b18c6eacedb62096df02999
+    time: 1425755855
+  /works/nike-snkr-app-launch/index.html:
+    md5: 1ba09fa5f591c8c8fd9b34baab6fd801
+    time: 1425755855
   /works/nike-sportswear-instagram/index.html:
-    md5: 0c13cda0687a13aedc987a0773f59ee0
-    time: 1425747744
+    md5: 29abccfa3ee7102404ac7851e75b2f39
+    time: 1425755856
   /works/nike-air-collection/index.html:
-    md5: 8a533ab0d14e529b34dbabfe93070207
-    time: 1425747745
+    md5: 493b7df1b3b21ec3f072aae62dd64de6
+    time: 1425755856
   /works/native-shoes/index.html:
-    md5: a3c0d83ae0d806b1ce41be3708549108
-    time: 1425747745
+    md5: 7c9391a8bd596ee36420f8876e30012b
+    time: 1425755856
   /works/native-shoes-cosmic-exploration-with-chet-brinkwater-presents-takara-bunyon/index.html:
-    md5: 79c46a02f9414868c929563ac1237c66
-    time: 1425747745
+    md5: 7ab66f996ebaf7e482bdf2204960c29c
+    time: 1425755856
   /works/nike-basketball-instagram/index.html:
-    md5: c65b2b8824b28271785e3ea793476b3f
-    time: 1425747745
+    md5: b2380a2f1a8ff68f57ab4d21a005844e
+    time: 1425755856
   /works/holy-coast-1/index.html:
-    md5: fc1d9d6e59373a037f687b575918a9e1
-    time: 1425747745
+    md5: 2aca66519694b4c83421b2a3fc9d6d0c
+    time: 1425755856
   /works/native-ss15-moon-mission/index.html:
-    md5: 68b28a8b8edabf63782f97f23b77ecdb
-    time: 1425747745
+    md5: dba5c47d430339559097a019c6ebce0c
+    time: 1425755856
   /works/gravity/index.html:
-    md5: d2105dafc3ab6ae495ecd354e78ef075
-    time: 1425747745
+    md5: f3d31ed1242ba2d59cf2bda4fcd5005b
+    time: 1425755857
   /works/2011-summer-retreat/index.html:
-    md5: 0f824ead8d5805d4d998b02269017a1d
-    time: 1425747746
+    md5: 4646a0b8f5a55229ca9bf60e1ddfb0d4
+    time: 1425755857
   /works/holy-coast/index.html:
-    md5: e93229708d3d698003e3e7eafdaed3b1
-    time: 1425747746
+    md5: d6dc9ea5606227c205a3b46254f5943b
+    time: 1425755857
   /works/archive/index.html:
-    md5: 67410011f19467a2aea0dd4b7372d18f
-    time: 1425754432
+    md5: 9d225ee1d7426de2c9e347d301beb848
+    time: 1425755857
   /works/tags/index.html:
     md5: 2f68342a9d1e8070313290a237fb8965
     time: 1425703457
@@ -209,8 +212,8 @@ inventory:
     md5: 1cf88f6660c9b1b5c5b25e7930d44c1a
     time: 1425754132
   /works/spreads/index.html:
-    md5: d802e68660a3b201315f59f69d298fae
-    time: 1425754133
+    md5: 4278e65364829315dd66d25635abcd53
+    time: 1425755861
   /works/spreads/crab-chowder-and-conversation-with-chip-tha-ripper/index.html:
     md5: 82bbf15e48f8b4466de7b888ca0ba91a
     time: 1425754133
@@ -242,11 +245,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: 007df8b0d878121a516cccd754875e11
-    time: 1425747750
+    md5: da9969dca7ca018936d1e9d00d351d0d
+    time: 1425755862
   /feed.xml:
-    md5: 7bbe804d9c16e19409d328376467976d
-    time: 1425754438
+    md5: c2ccad9226cb2af8299bafa210c05351
+    time: 1425755862
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
@@ -436,6 +439,9 @@ inventory:
   /stylesheets/reset.css:
     md5: 9d506627cfe1acf7458ce113ea66714b
     time: 1425588946
+  /assets/TONE_2013_TMC_PingPongAd_005.jpg:
+    md5: 5f8ecac249a807390e499a5a1b326f40
+    time: 1425755863
   /assets/FrontPage.jpg:
     md5: 828d5e7f4990591890897e3cdea21277
     time: 1425588946
@@ -499,6 +505,9 @@ inventory:
   /assets/MadburyNylon4.jpg:
     md5: 68d1c9d77d010386171acd6ea5bbf50f
     time: 1425754137
+  /assets/TONE_2013_TMC_PingPongAd_002.jpg:
+    md5: 755a8b9715ee176c4d2bb929cff04398
+    time: 1425755863
   /assets/ruggedcali.jpg:
     md5: b5326833e68a8d567a752a9e6296feca
     time: 1425588953
@@ -550,6 +559,9 @@ inventory:
   /assets/MadburyNylon12.jpg:
     md5: 73c78fb5dd41b0f55ab928e3b3c41260
     time: 1425754138
+  /assets/TMCCC.jpg:
+    md5: 2c52d0b02daac89754678bdb70556cea
+    time: 1425755864
   /assets/1335970936THERM3.jpg:
     md5: d8f50ceb64dcf304cdced3854e79e97d
     time: 1425588959
