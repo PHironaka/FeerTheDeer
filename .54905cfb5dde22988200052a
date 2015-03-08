@@ -1,5 +1,5 @@
 ---
-time: 1425782025
+time: 1425782166
 inventory:
   /index/index.html:
     md5: c421ab11ed34d7a34445d9c60d03b0dd
@@ -49,60 +49,63 @@ inventory:
   /works/tags/index.html:
     md5: 2f68342a9d1e8070313290a237fb8965
     time: 1425703457
-  /works/tags/vinny-picone/index.html:
-    md5: 089f3f5b1e80bde0400eb1ba7cdf4a82
-    time: 1425756273
   /works/tags/ellington-hammond/index.html:
-    md5: 1764a4eb3abbf039812f29e6c5ea0727
-    time: 1425756273
+    md5: f950ee2d9d0129617e5ad98497d99927
+    time: 1425782150
   /works/tags/phillip-t-annand/index.html:
-    md5: f22d711c147e85f638ad857328d83bee
-    time: 1425756273
+    md5: 87d2287eec68a42280925c4845378e71
+    time: 1425782150
+  /works/tags/vincent-picone/index.html:
+    md5: af3204f4e3cc7b2e64d1f85d2d761004
+    time: 1425782150
   /works/tags/nike/index.html:
-    md5: badac3da5d86c3e15be927e41ae9ce0d
-    time: 1425756273
+    md5: a4021ef1d0e485591b95baa0cfa23007
+    time: 1425782150
   /works/tags/peter-hironaka/index.html:
-    md5: 823b01f8671b6350095e5236d686eb5a
-    time: 1425756273
+    md5: ae4683dc21ef8a80ea3106df7e1f49b8
+    time: 1425782150
   /works/tags/bryan-stevenson/index.html:
-    md5: c1509bcc26c0042de0affc72506927b8
-    time: 1425756273
+    md5: 4e309b36d9b26b54a732fde52db34512
+    time: 1425782150
+  /works/tags/vinny-picone/index.html:
+    md5: 7c76253f700981544593f8b37638f533
+    time: 1425782151
   /works/tags/hyun-kim/index.html:
-    md5: e197432cff864d13e63312b9cba322fc
-    time: 1425756273
+    md5: c5d717b2cdb9cc0212b5fff1174ece14
+    time: 1425782151
   /works/tags/tone/index.html:
-    md5: 2374aa8731834e98745cfe013fdc16aa
-    time: 1425756273
+    md5: b90dbe5b25830d389e1c06cae83926dd
+    time: 1425782151
   /works/tags/chukka/index.html:
-    md5: 2b0121d041c4ef834ef5f381da1761e7
-    time: 1425756273
+    md5: aa03724afe27f413d34c8e25e585cafd
+    time: 1425782151
   /works/tags/native/index.html:
-    md5: 35ff4c7c8db9ad7dda767c14f806e438
-    time: 1425756273
+    md5: 18f3c715720df340c012aca6e1e86eab
+    time: 1425782151
   /works/tags/colors/index.html:
-    md5: d6eb38dc57aa9c7c9b46404d7d1f5501
-    time: 1425756273
+    md5: 24600639fbf767ea47e6d4910b55aff7
+    time: 1425782151
   /works/tags/polerstuff/index.html:
-    md5: 2b7e606773b3586fa02642d0cf10f8b5
-    time: 1425756273
+    md5: 570ad59c924211c24090353abe1bb08d
+    time: 1425782151
   /works/tags/phillip-annand/index.html:
-    md5: ffa0f0286d4b1e113014c06d96fc8329
-    time: 1425756273
+    md5: d474b7622efe2043186b0491303565b6
+    time: 1425782152
   /works/tags/ghits/index.html:
-    md5: bd68c7083ef6f2e36a338cdd6c96bbd5
-    time: 1425756273
+    md5: f0eabc4d6e048c770015865d452a107f
+    time: 1425782152
   /works/tags/flatbush-zombies/index.html:
-    md5: 40bd9c2ebbb3b3e1d1ee3643313817e9
-    time: 1425756273
+    md5: 5f117f3ca4fa87cd82f3de5bfb5c1c86
+    time: 1425782152
   /works/tags/trammel/index.html:
-    md5: 51cdc978ee19f6e86e4f1dbdc15efd31
-    time: 1425756273
+    md5: 3347ed3cb5884f9b101a7eecce89a6cc
+    time: 1425782152
   /works/tags/tmc-production/index.html:
-    md5: 43d9f73f164cf382c4ec6ca1b2968549
-    time: 1425756273
+    md5: 6400d42d87c8893dd8c81bd3ff199d6a
+    time: 1425782152
   /works/tags/matty/index.html:
-    md5: b3613f2543f74302cbfcc66640c775c7
-    time: 1425756274
+    md5: 4468b50811fc923a22fcb8520cf380ad
+    time: 1425782152
   /works/set/index.html:
     md5: b5c55e5618c097038dbda6ab7ded8d5a
     time: 1425703458
@@ -137,8 +140,8 @@ inventory:
     md5: 676b2422a9844285c389fdc60f069594
     time: 1425781866
   /the-club/vincent-picone/index.html:
-    md5: cfb671786131c3ed1178560228e68168
-    time: 1425781866
+    md5: ee8afbcac0c80209485ffe3bd6050835
+    time: 1425782155
   /the-club/tone/index.html:
     md5: eb79cac0af6028598c5405364db05a39
     time: 1425781866
@@ -245,11 +248,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: ec431780839c5d52d8af39f7701d3bee
-    time: 1425780625
+    md5: 9a762ef40bef1ac2e683362b7915c812
+    time: 1425782163
   /feed.xml:
-    md5: a940022d992ed38dba949f912e2ca6f3
-    time: 1425781869
+    md5: dd465852a3afd5ab82a75e32ae4b760f
+    time: 1425782163
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
