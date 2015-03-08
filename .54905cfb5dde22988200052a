@@ -1,15 +1,15 @@
 ---
-time: 1425782166
+time: 1425782383
 inventory:
   /index/index.html:
-    md5: c421ab11ed34d7a34445d9c60d03b0dd
-    time: 1425756270
+    md5: 2334d7ada51b5ba2ec0ffed121e4279e
+    time: 1425782372
   /index.html:
-    md5: c421ab11ed34d7a34445d9c60d03b0dd
-    time: 1425756270
+    md5: 2334d7ada51b5ba2ec0ffed121e4279e
+    time: 1425782372
   /works/index.html:
-    md5: bb2d31efabb6489e225da9f0739f3d4d
-    time: 1425756090
+    md5: 03e9f06d2561f31f65a5a5ea15a9ad22
+    time: 1425782372
   /works/nike-snkr-app-launch/index.html:
     md5: be582b742acc08b45435e6b1801c96bc
     time: 1425756271
@@ -20,8 +20,8 @@ inventory:
     md5: 493b7df1b3b21ec3f072aae62dd64de6
     time: 1425755856
   /works/native-shoes/index.html:
-    md5: 7c9391a8bd596ee36420f8876e30012b
-    time: 1425755856
+    md5: be619fbc38db97a59e621051aad15dc4
+    time: 1425782373
   /works/native-shoes-cosmic-exploration-with-chet-brinkwater-presents-takara-bunyon/index.html:
     md5: 7ab66f996ebaf7e482bdf2204960c29c
     time: 1425755856
@@ -44,68 +44,65 @@ inventory:
     md5: d6dc9ea5606227c205a3b46254f5943b
     time: 1425755857
   /works/archive/index.html:
-    md5: 01337e2c8b1f35639a8296f93f8a25ff
-    time: 1425756272
+    md5: d7d707fd5ca933df59157ebd60bb93e4
+    time: 1425782374
   /works/tags/index.html:
     md5: 2f68342a9d1e8070313290a237fb8965
     time: 1425703457
   /works/tags/ellington-hammond/index.html:
-    md5: f950ee2d9d0129617e5ad98497d99927
-    time: 1425782150
+    md5: 16bcf43f1d9701ad691a9e94d1c0cc83
+    time: 1425782374
   /works/tags/phillip-t-annand/index.html:
-    md5: 87d2287eec68a42280925c4845378e71
-    time: 1425782150
+    md5: 6d4c3ec079f88e2c849911c2f2274d4f
+    time: 1425782374
   /works/tags/vincent-picone/index.html:
-    md5: af3204f4e3cc7b2e64d1f85d2d761004
-    time: 1425782150
+    md5: d0bf089fc935dcdcb12937bc2e25959e
+    time: 1425782374
   /works/tags/nike/index.html:
-    md5: a4021ef1d0e485591b95baa0cfa23007
-    time: 1425782150
+    md5: 488d7ef4d014aa4b9a976b009e4a7f2e
+    time: 1425782374
   /works/tags/peter-hironaka/index.html:
-    md5: ae4683dc21ef8a80ea3106df7e1f49b8
-    time: 1425782150
+    md5: d2c81e14b00842cb782aa40402aebbbc
+    time: 1425782374
   /works/tags/bryan-stevenson/index.html:
-    md5: 4e309b36d9b26b54a732fde52db34512
-    time: 1425782150
-  /works/tags/vinny-picone/index.html:
-    md5: 7c76253f700981544593f8b37638f533
-    time: 1425782151
+    md5: ad8ad3e72eb761ea461e4f51dd8765c2
+    time: 1425782374
   /works/tags/hyun-kim/index.html:
-    md5: c5d717b2cdb9cc0212b5fff1174ece14
-    time: 1425782151
+    md5: 49e3b2920492187775d2055b0a797b9d
+    time: 1425782375
   /works/tags/tone/index.html:
-    md5: b90dbe5b25830d389e1c06cae83926dd
-    time: 1425782151
+    md5: 66faad1eb71b1ffdb4e0e0866ae2e866
+    time: 1425782375
   /works/tags/chukka/index.html:
-    md5: aa03724afe27f413d34c8e25e585cafd
-    time: 1425782151
+    md5: 6c20b98093f5ac0d7d14c5638f055278
+    time: 1425782375
   /works/tags/native/index.html:
-    md5: 18f3c715720df340c012aca6e1e86eab
-    time: 1425782151
+    md5: 4d4d572ad53b77bf5b5c079a57b7f254
+    time: 1425782375
   /works/tags/colors/index.html:
-    md5: 24600639fbf767ea47e6d4910b55aff7
-    time: 1425782151
+    md5: 368db6116d1974c6fd90f519f288ffa5
+    time: 1425782375
   /works/tags/polerstuff/index.html:
-    md5: 570ad59c924211c24090353abe1bb08d
-    time: 1425782151
+    md5: ed00480af5a3c6ebadf273f76bdf8b1f
+    time: 1425782375
   /works/tags/phillip-annand/index.html:
-    md5: d474b7622efe2043186b0491303565b6
-    time: 1425782152
+    md5: 83783d0c16af0a0a6f64efce908a160b
+    time: 1425782375
   /works/tags/ghits/index.html:
-    md5: f0eabc4d6e048c770015865d452a107f
-    time: 1425782152
+    md5: 21aeb7c14e23396b7ea866b13fa3e8c5
+    time: 1425782375
   /works/tags/flatbush-zombies/index.html:
-    md5: 5f117f3ca4fa87cd82f3de5bfb5c1c86
-    time: 1425782152
+    md5: 4c37546f0d8d0400ebd60cd53261d6e9
+    time: 1425782375
   /works/tags/trammel/index.html:
-    md5: 3347ed3cb5884f9b101a7eecce89a6cc
-    time: 1425782152
+    md5: 497220e92adca938531c43eaf2aed2b6
+    time: 1425782375
   /works/tags/tmc-production/index.html:
-    md5: 6400d42d87c8893dd8c81bd3ff199d6a
-    time: 1425782152
+    md5: 1f2cb20c8d9c202d21df76586af04355
+    time: 1425782375
   /works/tags/matty/index.html:
-    md5: 4468b50811fc923a22fcb8520cf380ad
-    time: 1425782152
+    md5: ea2131b703232661f31058e2ef59f3b7
+    time: 1425782375
   /works/set/index.html:
     md5: b5c55e5618c097038dbda6ab7ded8d5a
     time: 1425703458
@@ -140,8 +137,8 @@ inventory:
     md5: 676b2422a9844285c389fdc60f069594
     time: 1425781866
   /the-club/vincent-picone/index.html:
-    md5: ee8afbcac0c80209485ffe3bd6050835
-    time: 1425782155
+    md5: 0d102ac6367b0f3054bf03cb21e4fa5a
+    time: 1425782377
   /the-club/tone/index.html:
     md5: eb79cac0af6028598c5405364db05a39
     time: 1425781866
@@ -149,8 +146,8 @@ inventory:
     md5: 068373e50335d91bbe501d30bc53463c
     time: 1425781866
   /the-club/bryan-stevenson/index.html:
-    md5: 764cda85170efd34cae21a75946654bc
-    time: 1425781866
+    md5: afec57a11f33719b0bcb5a2e742035d2
+    time: 1425782377
   /the-club/archive/index.html:
     md5: fc86ea515aab4d0f0e8ad907227a422f
     time: 1425781866
@@ -187,9 +184,6 @@ inventory:
   /works/features/tags/phillip-t-annand/index.html:
     md5: 801995be6d9e714a5351ee665657131f
     time: 1425672714
-  /works/features/tags/vinny-picone/index.html:
-    md5: 13682df5123e48f733da1b2ee73f3051
-    time: 1425747749
   /works/features/tags/bryan-stevenson/index.html:
     md5: 2789f20d58f6c186475c51c6eacdcbfa
     time: 1425747749
@@ -248,11 +242,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: 9a762ef40bef1ac2e683362b7915c812
-    time: 1425782163
+    md5: e6ed13d2e5767e6caf1ead485f28383d
+    time: 1425782380
   /feed.xml:
-    md5: dd465852a3afd5ab82a75e32ae4b760f
-    time: 1425782163
+    md5: 786b045afc69a7431b388f17f8d7f41b
+    time: 1425782380
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
