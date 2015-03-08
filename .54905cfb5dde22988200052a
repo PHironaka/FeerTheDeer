@@ -1,5 +1,5 @@
 ---
-time: 1425836221
+time: 1425836587
 inventory:
   /index/index.html:
     md5: 705174402beffca6fdea8456b2fdb9c8
@@ -155,8 +155,8 @@ inventory:
     md5: d500f442f100ea75e97aba01ae7c14b3
     time: 1425836216
   /the-club/phillip-t-annand/index.html:
-    md5: a21c3c10721dc44b12e6044d05b34b7c
-    time: 1425836217
+    md5: 9296d9ab2405be14fcfa0b5b0c8fc1e5
+    time: 1425836583
   /the-club/bryan-stevenson/index.html:
     md5: eda1a0008d07d2267a1fba6e7216527a
     time: 1425836217
@@ -224,8 +224,8 @@ inventory:
     md5: 82bbf15e48f8b4466de7b888ca0ba91a
     time: 1425754133
   /works/spreads/there-goes-the-neighborhood-tyler-the-creator-interview/index.html:
-    md5: d59db40dedec0a604b8f7800fa1fdc62
-    time: 1425754133
+    md5: 847dcede5c39637f89908fbd7bbd3bdb
+    time: 1425836585
   /works/spreads/archive/index.html:
     md5: 32eb488f427f8d33dd1f557c80bc6095
     time: 1425754133
@@ -233,14 +233,17 @@ inventory:
     md5: 7a71cd23cd733a54936516ff2482d55a
     time: 1425754133
   /works/spreads/tags/madbury-music/index.html:
-    md5: d44944c356f9ec694ad88f7328e03fb7
-    time: 1425754133
+    md5: 0dcdb7dc079d62d6a116aa22f33db48e
+    time: 1425836585
   /works/spreads/tags/marcus-arman/index.html:
-    md5: 5a3f1c97e994fc02ad9d8c21c6b25bba
-    time: 1425754133
+    md5: a5cf409b64e2cb9b9c71dbbb788f64e2
+    time: 1425836585
   /works/spreads/tags/phillip-t-annand/index.html:
-    md5: 861ea2c90f81cc37d2af213db1cab08f
-    time: 1425754133
+    md5: 30c5ed04f394fc73f7cd21acd042ce4c
+    time: 1425836585
+  /works/spreads/tags/trammell/index.html:
+    md5: 875ae3de7fa49e545e9de0bf3723bc6e
+    time: 1425836585
   /works/spreads/set/index.html:
     md5: a03e1b63690edc1e1589cfdc388adaf9
     time: 1425754133
@@ -254,8 +257,8 @@ inventory:
     md5: b3e943153f618d2f867cbd5abfa4ece8
     time: 1425835989
   /feed.xml:
-    md5: 1f65db093d7054f86b2840c693bebe48
-    time: 1425836220
+    md5: 81a771340350c072f970338730e9f506
+    time: 1425836586
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
