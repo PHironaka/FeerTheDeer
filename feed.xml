@@ -3,7 +3,16 @@
   <channel>
     <title>TMC</title>
     <link>http://tmc.siteleaf.net</link>
-    <pubDate>Sun, 08 Mar 2015 02:39:40 +0000</pubDate>
+    <pubDate>Sun, 08 Mar 2015 16:25:14 +0000</pubDate>
+    
+    <item>
+      <title>10 Deep Lookbook</title>
+      <link>http://tmc.siteleaf.net/works/10-deep-lookbook</link>
+      <pubDate>Sat, 07 Mar 2015 18:43:00 -0800</pubDate>
+      <author>Peter Hironaka</author>
+      <guid>http://tmc.siteleaf.net/works/10-deep-lookbook</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Nike SNKR App Launch</title>
@@ -204,17 +213,6 @@
       <author>Peter Hironaka</author>
       <guid>http://tmc.siteleaf.net/works/gravity</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>2011 Summer Retreat</title>
-      <link>http://tmc.siteleaf.net/works/2011-summer-retreat</link>
-      <pubDate>Tue, 30 Dec 2014 22:29:00 -0800</pubDate>
-      <author>Peter Hironaka</author>
-      <guid>http://tmc.siteleaf.net/works/2011-summer-retreat</guid>
-      <description>&lt;p&gt;These portraits represent the current stylings of Club members across the globe and nothing else. And while this description may seem overly serious, the approach to the styles documented here is anything but. Quarterly Observance on behalf of The Madbury Club. Winter 001. 2013.
-These portraits represent the current stylings of Club members across the globe and nothing else. And while this description may seem overly serious, the approach to the styles documented here is anything but. Quarterly Observance on behalf of The Madbury Club. Winter 001. 2013.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
