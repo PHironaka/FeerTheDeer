@@ -1,5 +1,5 @@
 ---
-time: 1425833348
+time: 1425835990
 inventory:
   /index/index.html:
     md5: 705174402beffca6fdea8456b2fdb9c8
@@ -137,29 +137,29 @@ inventory:
     md5: b82f9bc0891af5f6c9e6cd33a6015cb1
     time: 1425832908
   /the-club/marcus-arman/index.html:
-    md5: 86830e6c3b59d347fd99dd88753243b5
-    time: 1425832908
+    md5: 38f9e21acc748ed67cc78f6adcda47cb
+    time: 1425835985
   /the-club/peter-hironaka/index.html:
-    md5: 33aca20f50fdfbd23b44c52a82f1c6e3
-    time: 1425832908
+    md5: d9c69cc02e7043b2b8fcd9e5a269d233
+    time: 1425835985
   /the-club/darryl-richardson/index.html:
-    md5: 9056056e08e20d6d7ad20c27bcfda03e
-    time: 1425833303
+    md5: 650ec57ed068b0d81fb6d57653499bec
+    time: 1425835985
   /the-club/ellington-hammond/index.html:
-    md5: a304b71b36fe98dd222db5c20effee1d
-    time: 1425832908
+    md5: fbcab0651dcb828f60ac72c8b6ff8998
+    time: 1425835986
   /the-club/vincent-picone/index.html:
-    md5: c16b2ad02090e3ca34179ea6e004e5d0
-    time: 1425833303
+    md5: efc755dbcd8ef6c9c550b3955e4f3304
+    time: 1425835986
   /the-club/tone/index.html:
-    md5: e65992e669a0633979807a7b0c25c79b
-    time: 1425833303
+    md5: 554f23b8707bed33108d1e4f86c082ce
+    time: 1425835986
   /the-club/phillip-t-annand/index.html:
     md5: 37149aaa87fc8c1f6c3d4577f80dfa45
     time: 1425833304
   /the-club/bryan-stevenson/index.html:
-    md5: 88fbaae3ab84f66fc754cf73695eea4d
-    time: 1425832910
+    md5: d7ce9de1250594d02dde8ed5925f5be8
+    time: 1425835987
   /the-club/archive/index.html:
     md5: 7966c5d365bf67317e68f8e6f6962ad9
     time: 1425832910
@@ -169,9 +169,6 @@ inventory:
   /the-club/tags/hyun-kim/index.html:
     md5: f6c896c23956e3c7d8453da7e90f322e
     time: 1425832910
-  /the-club/tags/phillip-t-annand/index.html:
-    md5: 03df8e47a391101cd1d11255f96a3dff
-    time: 1425833305
   /factory/index.html:
     md5: 9f248ce439acd9f93e7b47e85cb2a347
     time: 1425781135
@@ -254,11 +251,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: 0ad2b4d48cb559141e41f977d384889d
-    time: 1425833344
+    md5: b3e943153f618d2f867cbd5abfa4ece8
+    time: 1425835989
   /feed.xml:
-    md5: e3fe1dbb3e836a319b037b261c6e2690
-    time: 1425833344
+    md5: 03be5a4e0e18968e539c67fca8bb051a
+    time: 1425835989
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
