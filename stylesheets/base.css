@@ -634,7 +634,7 @@ ul.bio {
 /* line 370, ../sass/modules/_global-styles.scss */
 .tmc-3 h1 {
   font-style: italic;
-  margin: 1em 0;
+  margin: .2em 0;
   font-size: 2.5em;
 }
 
@@ -794,7 +794,7 @@ h1.bio-header {
 }
 /* line 523, ../sass/modules/_global-styles.scss */
 .tmc-bio-work p {
-  margin: 2em 0;
+  margin: 0 0 2em;
 }
 
 /* line 530, ../sass/modules/_global-styles.scss */

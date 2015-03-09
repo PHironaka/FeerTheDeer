@@ -1,5 +1,5 @@
 ---
-time: 1425933806
+time: 1425934829
 inventory:
   /index/index.html:
     md5: a6214823ab7a126382f3c9da6875f953
@@ -466,6 +466,9 @@ inventory:
   /assets/tumblr_ne9pvhXRSH1qba77vo7_1280.jpg:
     md5: 1d442b22626665c1f799b9313c76c07d
     time: 1425927106
+  /assets/MG_6584.jpg:
+    md5: e62942c87c19b50bc700ea9ad4c924e3
+    time: 1425933787
   /config.ru:
     md5: af7025fab73b4511cdf1b5461875df06
     time: 1425754135
@@ -566,14 +569,11 @@ inventory:
     md5: 43a0719cd6a7eef1fecff91f68b3ea61
     time: 1425930650
   /stylesheets/base.css:
-    md5: ce01361b3d4fcb9dbb1f569ede3df1e3
-    time: 1425930650
+    md5: 74f1f3428b182b4dc652506c1428a39a
+    time: 1425934829
   /stylesheets/reset.css:
     md5: 9d506627cfe1acf7458ce113ea66714b
     time: 1425930650
-  /assets/MG_6584.jpg:
-    md5: e62942c87c19b50bc700ea9ad4c924e3
-    time: 1425933787
   /assets/FrontPage.jpg:
     md5: 828d5e7f4990591890897e3cdea21277
     time: 1425588946
