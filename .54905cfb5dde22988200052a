@@ -1,5 +1,5 @@
 ---
-time: 1425864703
+time: 1425875116
 inventory:
   /index/index.html:
     md5: 705174402beffca6fdea8456b2fdb9c8
@@ -47,8 +47,8 @@ inventory:
     md5: 5f247d06a87948b15ccdda2c0f6f5bba
     time: 1425833243
   /works/archive/index.html:
-    md5: 2fdc4537d5eb49a96da2a87df7bf4ddc
-    time: 1425864690
+    md5: 15a6c4848c8f00714c0ac72ecc79583b
+    time: 1425875084
   /works/tags/index.html:
     md5: 2f68342a9d1e8070313290a237fb8965
     time: 1425703457
@@ -134,38 +134,38 @@ inventory:
     md5: 2ba343cb52228d04823d10895ae8bf02
     time: 1425832514
   /the-club/hyun-kim/index.html:
-    md5: 53a248e74f04097c37555c9803cf264f
-    time: 1425864692
+    md5: 54bdeb7d2fe5e88954257e24ebd6f52a
+    time: 1425875086
   /the-club/marcus-arman/index.html:
-    md5: d5a0712b54e56001e6eb04542a0bba51
-    time: 1425864693
+    md5: b2d209da81ad08152eeee9c4a2663d6e
+    time: 1425875086
   /the-club/peter-hironaka/index.html:
-    md5: 17ca7590cc091b52e01d530fd095fa42
-    time: 1425864693
+    md5: 221ce31686c9b0ec64635fd05e0af7ef
+    time: 1425875087
   /the-club/darryl-richardson/index.html:
-    md5: c06c865769ef45289e89bb5aeb18cd77
-    time: 1425864693
+    md5: b0046f120fc5e9080562ea589e3f7f04
+    time: 1425875087
   /the-club/ellington-hammond/index.html:
-    md5: 1246272d2e405e895cce9a55ffff4c8c
-    time: 1425864693
+    md5: 5c3d25db55add087baa10aba85493923
+    time: 1425875087
   /the-club/vincent-picone/index.html:
-    md5: c17c0d566990e8b408e6d9fb3dcbcd18
-    time: 1425864694
+    md5: b719c258367b8684e1d3f3b14a6dcf62
+    time: 1425875088
   /the-club/tone/index.html:
-    md5: d44b106aadb65ac9465e320656c54d88
-    time: 1425864694
+    md5: ecd0c019dff225fd650b17f249220e62
+    time: 1425875088
   /the-club/phillip-t-annand/index.html:
-    md5: b0030272ad6edcde05002cea3a80ece5
-    time: 1425864695
+    md5: 2395fbda945913f7916e2b3c96de3cf0
+    time: 1425875089
   /the-club/bryan-stevenson/index.html:
-    md5: b285a54c9e59d27a4b2ca279f9dab0ae
-    time: 1425864695
+    md5: 552d16e88f8ac895e62ad53f95bb1074
+    time: 1425875089
   /the-club/archive/index.html:
-    md5: 21e3f1be7fb7927a2eb145feb32ec080
-    time: 1425864470
+    md5: b7df72d22ff56b93ebc76a40bb3e25f5
+    time: 1425875090
   /the-club/tags/index.html:
-    md5: cfeee0f57ed2ec4cd5ead13cb419aee8
-    time: 1425864470
+    md5: 3c631389cdcbe34996402ded67c8559f
+    time: 1425875090
   /factory/index.html:
     md5: 9f248ce439acd9f93e7b47e85cb2a347
     time: 1425781135
@@ -229,6 +229,9 @@ inventory:
   /works/spreads/fresh-produce-casey-veggies-and-peas-carrots-international/index.html:
     md5: 8c888717e55c281cfede586b90df5421
     time: 1425864698
+  /works/spreads/the-madbury-club-presents-2010-autumn-lookbook/index.html:
+    md5: 6ca4c492fec5db64ff8f6a7a7bdec6f1
+    time: 1425875092
   /works/spreads/the-brooklyn-circus-fall-holiday-made-in-america-2010-lookbook/index.html:
     md5: e393724f082fe333577774af2170a226
     time: 1425864698
@@ -278,8 +281,8 @@ inventory:
     md5: abe9f6f1aba0418e2f0b1bb034c5014f
     time: 1425864102
   /feed.xml:
-    md5: 12b4722d7f3ad5c77813716491eea21e
-    time: 1425864699
+    md5: 9c42bf4dff4a04562ed4c4d3d725d9e5
+    time: 1425875093
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
@@ -487,6 +490,9 @@ inventory:
   /assets/1330573562BKC1.jpg:
     md5: 9c119e77d6e6059d97f9610500b0f116
     time: 1425864473
+  /assets/A5.jpg:
+    md5: 2b3b824eac330f07738909e47bdb8fa2
+    time: 1425875094
   /assets/FrontPage.jpg:
     md5: 828d5e7f4990591890897e3cdea21277
     time: 1425588946
@@ -577,6 +583,9 @@ inventory:
   /assets/1330573277BKC14.jpg:
     md5: bf11b18607444b460acf5db21d81a42a
     time: 1425864473
+  /assets/A12.jpg:
+    md5: f96ec9a1723d6dae6e4c94c8589971b3
+    time: 1425875094
   /assets/ruggedcali.jpg:
     md5: b5326833e68a8d567a752a9e6296feca
     time: 1425588953
@@ -652,6 +661,9 @@ inventory:
   /assets/1330573378BKC9.jpg:
     md5: 9a316e08cd168685200fd221defe082f
     time: 1425864474
+  /assets/A7.jpg:
+    md5: e9ad36f3733dd3117c417f99617dd645
+    time: 1425875094
   /assets/1335970936THERM3.jpg:
     md5: d8f50ceb64dcf304cdced3854e79e97d
     time: 1425588959
@@ -715,6 +727,9 @@ inventory:
   /assets/1330573361BKC10.jpg:
     md5: 82e316fdbaf94211159c695a77b02ec3
     time: 1425864474
+  /assets/A19.jpg:
+    md5: 3bb6e0598eed780bdf1271678bd7fb6a
+    time: 1425875094
   /assets/1335970956THERM5.jpg:
     md5: f99e48480e45acff699999f4c10a5f05
     time: 1425588963
@@ -775,6 +790,9 @@ inventory:
   /assets/1330573449BKC6.jpg:
     md5: 1a83159ff25f78db2e6a51df0936231a
     time: 1425864474
+  /assets/A10.jpg:
+    md5: a480487cf7201d19a87a9748044c9b2f
+    time: 1425875094
   /assets/1335970948THERM4.jpg:
     md5: 6ad45b121e55b605a15dcfcf1e088522
     time: 1425588970
@@ -823,6 +841,9 @@ inventory:
   /assets/1330573531BKC2.jpg:
     md5: ff6469055f6c22c31daf10b26e58b590
     time: 1425864474
+  /assets/A13.jpg:
+    md5: 72a9bc751f61cbc8c6a90a1e02e1df4c
+    time: 1425875095
   /assets/SR7.jpg:
     md5: caf5d59e9432c0a29e1deadd1f31eb69
     time: 1425588972
@@ -862,6 +883,9 @@ inventory:
   /assets/1330573311BKC11.jpg:
     md5: 9be7647509c9764406e8e2812fa729eb
     time: 1425864475
+  /assets/A15.jpg:
+    md5: 26f4c80b30534b6991353a0099f2f63f
+    time: 1425875095
   /assets/SR10-1.jpg:
     md5: 328510131d67c5c82b94f5e17eadd1b8
     time: 1425588974
@@ -892,6 +916,9 @@ inventory:
   /assets/1330573466BKC5.jpg:
     md5: f7121c75a3012bcb2bc1516217ab191a
     time: 1425864475
+  /assets/A6.jpg:
+    md5: 89bfa02ad7d7b612a316eb3b0c2b220f
+    time: 1425875095
   /assets/SR12-1.jpg:
     md5: f907d70e72896f83327166cb0f9df9ad
     time: 1425588976
@@ -919,6 +946,9 @@ inventory:
   /assets/1330573303BKC12.jpg:
     md5: 604834e49b570a5064e15a7b08107325
     time: 1425864475
+  /assets/A9.jpg:
+    md5: 2ebc89b3d367e84710e255305527bd8c
+    time: 1425875095
   /assets/1331568159ChipMadbury3.jpg:
     md5: cab8107f4f8b53c31e272c51b6639967
     time: 1425754146
@@ -934,6 +964,9 @@ inventory:
   /assets/1330573424BKC8.jpg:
     md5: a878907c20b9bffb76eb1c2f14f235cf
     time: 1425864475
+  /assets/A14.jpg:
+    md5: a5f9fef1c29e0eadc0755f8a3e12b3f4
+    time: 1425875096
   /assets/1331568130ChipMadbury55.jpg:
     md5: 60a73c99c36410782d537b0841998e09
     time: 1425754146
@@ -949,6 +982,9 @@ inventory:
   /assets/1330573501BKC4.jpg:
     md5: abe607175fc5238daa232493f24bf02b
     time: 1425864476
+  /assets/A20.jpg:
+    md5: 8910014e899617ceac5cf5a3c0893867
+    time: 1425875096
   /assets/MadburyNylon9.jpg:
     md5: e1dcdf89af6465d8a2fdc9734d17f2c6
     time: 1425754147
@@ -958,6 +994,9 @@ inventory:
   /assets/1330573295BKC13.jpg:
     md5: a0df101a3c82a89b29037d9fea6980c1
     time: 1425864476
+  /assets/A4.jpg:
+    md5: 1e430fd644d8446bd05e5ce29bc7baa3
+    time: 1425875096
   /assets/MadburyNylon10.jpg:
     md5: 70ffedb4bf7661bbaa5001a9f507b763
     time: 1425754147
@@ -967,6 +1006,9 @@ inventory:
   /assets/1330573439BKC7.jpg:
     md5: a6a7d04d2c1b84fe78405148e8717d69
     time: 1425864476
+  /assets/A2.jpg:
+    md5: 482b7f0e7095a5ea68913eb8b7e6edb9
+    time: 1425875096
   /assets/MadburyNylon14.jpg:
     md5: 6d3ec6c8fb80c45b1330cf858cbd11be
     time: 1425754148
@@ -976,6 +1018,27 @@ inventory:
   /assets/1330573520BKC3.jpg:
     md5: 3fc24491e0bdaa28cdba60d2cd9214df
     time: 1425864476
+  /assets/A17.jpg:
+    md5: cdc04edf70fada5a68be471c7421d7f2
+    time: 1425875097
   /assets/MadburyNylon15.jpg:
     md5: d6b28266b400c09307feb2bcc4078344
     time: 1425754148
+  /assets/A16.jpg:
+    md5: 316d60b08aae1804ceb69a2680d35bad
+    time: 1425875097
+  /assets/A18.jpg:
+    md5: ed0d9ab2f6850f0e385a8e3aec6339e2
+    time: 1425875097
+  /assets/A3.jpg:
+    md5: 77cc024f78dda9c7952fd174e792d317
+    time: 1425875098
+  /assets/A11.jpg:
+    md5: b2af74ca171b179a6d26b181f860d7f7
+    time: 1425875098
+  /assets/A8.jpg:
+    md5: 874fe97b38811c0e3f47167ebb3e1727
+    time: 1425875099
+  /assets/A1.jpg:
+    md5: b4e6bc1f4b4556ffa0ddd6a3e82b6315
+    time: 1425875099
