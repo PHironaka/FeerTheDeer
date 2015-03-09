@@ -1,5 +1,5 @@
 ---
-time: 1425860957
+time: 1425861086
 inventory:
   /index/index.html:
     md5: 705174402beffca6fdea8456b2fdb9c8
@@ -137,8 +137,8 @@ inventory:
     md5: 4e8649531137bcc67a75f43d40103dfc
     time: 1425860895
   /the-club/marcus-arman/index.html:
-    md5: c8080797511a53668de932a89c1f8e9e
-    time: 1425860952
+    md5: 743f8f016eff93dc904bd4bbd8e2e8f1
+    time: 1425861081
   /the-club/peter-hironaka/index.html:
     md5: 05a88d0ca7cfeacb5b6870b14e883b46
     time: 1425860896
@@ -155,8 +155,8 @@ inventory:
     md5: 156ee565b7e67fec312b63592152d122
     time: 1425860897
   /the-club/phillip-t-annand/index.html:
-    md5: 1a1fed10615c1005d5b913af29bc81b6
-    time: 1425860954
+    md5: 60d08aac4a419d93be8cb6f3bc968e1b
+    time: 1425861082
   /the-club/bryan-stevenson/index.html:
     md5: b8c09778e15aea08cec78e48ace754f7
     time: 1425860898
@@ -221,8 +221,8 @@ inventory:
     md5: af9fcaadbd7a03046b9e112f1fc77130
     time: 1425833248
   /works/spreads/fresh-produce-casey-veggies-and-peas-carrots-international/index.html:
-    md5: 7d978792aa79538b3f665405f7495fd0
-    time: 1425860955
+    md5: 0e5ca0001e405a418e51f50991948a64
+    time: 1425861085
   /works/spreads/crab-chowder-and-conversation-with-chip-tha-ripper/index.html:
     md5: 55dc9ac14e5bc33bf568a249755e14b1
     time: 1425860956
@@ -260,8 +260,8 @@ inventory:
     md5: b3e943153f618d2f867cbd5abfa4ece8
     time: 1425835989
   /feed.xml:
-    md5: 4392d70d62edcc012ac25691afa41b32
-    time: 1425860956
+    md5: 7a86105e38ca875aea619121ce14bbb9
+    time: 1425861085
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
@@ -454,8 +454,8 @@ inventory:
   /stylesheets/reset.css:
     md5: 9d506627cfe1acf7458ce113ea66714b
     time: 1425588946
-  /assets/1335588110MxC8.jpg:
-    md5: 89630874041d10d3afd2433b9065e5ec
+  /assets/1335587989MxC1.jpg:
+    md5: 7f26c01b73842cb15eeb3217ec48a827
     time: 1425860901
   /assets/FrontPage.jpg:
     md5: 828d5e7f4990591890897e3cdea21277
@@ -532,8 +532,8 @@ inventory:
   /assets/tumblr_nfk08cASQd1qba77vo2_1280.jpg:
     md5: 20dfb7add2bf7093381b156d4d907880
     time: 1425833250
-  /assets/1335588081MxC7-1.jpg:
-    md5: 1b538922e7aa401f02caf657d01f4a24
+  /assets/1335588110MxC8.jpg:
+    md5: 89630874041d10d3afd2433b9065e5ec
     time: 1425860901
   /assets/ruggedcali.jpg:
     md5: b5326833e68a8d567a752a9e6296feca
@@ -595,8 +595,8 @@ inventory:
   /assets/tumblr_nfm120ztZL1qba77vo5_1280-1.jpg:
     md5: e8b6525f760aece67eff5724f760e836
     time: 1425833250
-  /assets/1335588030MxC4.jpg:
-    md5: a694408da2d0d086a63623abd59dd61e
+  /assets/1335588081MxC7-1.jpg:
+    md5: 1b538922e7aa401f02caf657d01f4a24
     time: 1425860901
   /assets/1335970936THERM3.jpg:
     md5: d8f50ceb64dcf304cdced3854e79e97d
@@ -646,8 +646,8 @@ inventory:
   /assets/MadburyNylon2.jpg:
     md5: ffe0db2ec88243d58d12f7f7b6989ab3
     time: 1425754139
-  /assets/1335587989MxC1.jpg:
-    md5: 7f26c01b73842cb15eeb3217ec48a827
+  /assets/1335588030MxC4.jpg:
+    md5: a694408da2d0d086a63623abd59dd61e
     time: 1425860901
   /assets/1335970956THERM5.jpg:
     md5: f99e48480e45acff699999f4c10a5f05
