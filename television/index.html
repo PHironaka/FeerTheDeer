@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +7,6 @@
   <title>TMC | Television</title>
   <link rel="alternate" type="application/rss+xml" href="http://tmc.siteleaf.net/feed.xml" />
   <link rel="stylesheet" type="text/css" href="/stylesheets/base.css" />
-	<link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,400italic' rel='stylesheet' type='text/css'>
   <link rel="icon shortcut" href="/assets/img/favicon.ico">
   <style>
   
@@ -71,15 +69,27 @@
   }
   
 </style>
+  
+  <style type="text/css">
+  body{background:#000;color:#fff; margin:0;padding:0}header {
+  	background-color: transparent;} header .page-menu li a {
+  	color: #fff; } li, a {color: #fff;} header .page-menu li span.nav p {
+  	padding-top: 1em;
+  	color: #fff;
+  	}
+	
+	.mute,.player{position:fixed;top:0;left:0;width:100%;height:100%}.player{pointer-events:none}.player iframe,.player object,.player embed{position:fixed;top:0;left:0;width:100%;height:100%;z-index:1}.mute{z-index:2;cursor:crosshair;}.mute.is-muted{cursor:cell}
+  
+  </style>
  </head>
-<body id="main">
+<body>
 
 <header class="tmc-100 ">
 
 	<div class="tmc-16">
-  <a href="/"><img src="/img/tmc-deeeer.png"class="site-title"/></a>
 	
-
+	<a href="/"><img src="/img/trans.png"class="site-title"/></a>
+	
   <div class="wrap">
             
             
@@ -93,7 +103,7 @@
       <ul class="page-menu">
      
     
-        <li><a href="/works">Works. </a><span class="nav"><p>The collected physical and metaphysical works to have emerged from the Cosmic Studios of The Madbury Club.</p>
+        <li><a href="/works">Works </a><span class="nav"><p>The collected physical and metaphysical works to have emerged from the Cosmic Studios of The Madbury Club.</p>
 </span> </li>
        
                   
@@ -101,7 +111,7 @@
               
                 
     
-        <li><a href="/television" class="is-current-page">Television. </a><span class="nav"><p>Cosmic broadcasts from the Fourth rotational division, moving images collected under a common banner.</p>
+        <li><a href="/television" class="is-current-page">Television </a><span class="nav"><p>Cosmic broadcasts from the Fourth rotational division, moving images collected under a common banner.</p>
 </span> </li>
        
                   
@@ -109,7 +119,7 @@
               
                 
     
-        <li><a href="/the-club">The Club. </a><span class="nav"><p>Historical classification, currently serving members, members at large, members abroad, archival facts only.</p>
+        <li><a href="/the-club">The Club </a><span class="nav"><p>Historical classification, currently serving members, members at large, members abroad, archival facts only.</p>
 </span> </li>
        
                   
@@ -117,14 +127,14 @@
               
                 
     
-        <li><a href="/factory">Clubhouse. </a><span class="nav"><p>TMC Eastern Division 001. Madbury Arena. Location based services. New York City.</p>
+        <li><a href="/factory">Clubhouse </a><span class="nav"><p>TMC Eastern Division 001. Madbury Arena. Location based services. New York City.</p>
 </span> </li>
        
                   
       
       
     <div class="stream">
-     <img src="/img/stream-drops.png" alt="" /><p>Now Flowing: </p> <a href="http://stream.madburyclub.com" > The Madbury Stream </a>
+     <img src="/img/stream-drops.png" alt="" /><p>Now Flowing: </p> <a href="http://stream.madburyclub.com" >The Madbury Stream </a>
     </div>
                </ul>
                
@@ -133,62 +143,19 @@
                
                </div>
 
+     </div>
+   </header>
       
-         
 
-     </div>
-         </section><!-- /content -->
-     
-  </div><!-- /wrap -->		
+<div class="mute" id="js-mute"></div>
+<div id="player" class="is-loading player"></div>
 
-<footer class='main-footer'>
-<div class="tmc-16">
-  
-<div class="tmc-footer-left">
-
- <div id="mc_embed_signup">
- 
- <form action="//madburyclub.us9.list-manage.com/subscribe/post?u=22a209689a6ed7edfb0d13a32&amp;id=8360446140" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
- 
-    <div id="mc_embed_signup_scroll">
-                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Subscribe for Cosmic Broadcasts." required="">
-                <div style="position: absolute; left: -5000px;"><input type="text" name="b_f8c11c17753d5c653c8d22b3d_1d9b0f4b86" tabindex="-1" value=""></div>
-                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-              </div>
-              
-                <p>© 2015 The Intergalactic Madbury Club. All Rights Reserved</p>
-              
-     </div>
-     
- </form>
-
- </div>
-
- 
- <div class="tmc-footer-right">
- 
- <div class="mailing">
- <h1>Follow</h1>
- <ul>
- <li>
- <a href="https://twitter.com/MadburyClub"><img src="/img/social19.svg" alt="" /></a></li>
- <li><a href="http://instagram.com/madburyclub"><img src="/img/photos12.svg" alt="" /></a></li>
- <li><a href="http://stream.madburyclub.com/"><img src="/img/tumblr.svg" alt="" /></a></li>
- <li><a href="http://feeds.feedburner.com/StreamTheMadburyClub"><img src="/img/rss.svg" alt="" /></a>
- </li>
- </ul>
- </div>
-  <div class="contact">
- 	<h1>Contact Us</h1>
- <a href="mailto:jeeves@madburyclub.com">jeeves@madburyclub.com</a>
-    
- 
- 	</div>
- </div>
- 
-</footer>
 <script type="text/javascript" src="/js/all.js"></script>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-<!--End mc_embed_signup-->
+<script type="text/javascript" src="/js/application.js"></script>
+<script type="text/javascript" src="/js/videos.js"></script>
+<script type="text/javascript">
+if (!window['YT']) {var YT = {loading: 0,loaded: 0};}if (!window['YTConfig']) {var YTConfig = {'host': 'http://www.youtube.com'};}if (!YT.loading) {YT.loading = 1;(function(){var l = [];YT.ready = function(f) {if (YT.loaded) {f();} else {l.push(f);}};window.onYTReady = function() {YT.loaded = 1;for (var i = 0; i < l.length; i++) {try {l[i]();} catch (e) {}}};YT.setConfig = function(c) {for (var k in c) {if (c.hasOwnProperty(k)) {YTConfig[k] = c[k];}}};var a = document.createElement('script');a.type = 'text/javascript';a.id = 'www-widgetapi-script';a.src = 'https:' + '//s.ytimg.com/yts/jsbin/www-widgetapi-vflggqtdO/www-widgetapi.js';a.async = true;var b = document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a, b);})();}
+</script>
+
 </body>
 </html>
