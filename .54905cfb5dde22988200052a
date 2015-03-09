@@ -1,5 +1,5 @@
 ---
-time: 1425924342
+time: 1425924653
 inventory:
   /index/index.html:
     md5: 705174402beffca6fdea8456b2fdb9c8
@@ -8,8 +8,8 @@ inventory:
     md5: 705174402beffca6fdea8456b2fdb9c8
     time: 1425921528
   /works/index.html:
-    md5: 863b8cbe77525f5fde74017bcdfae0e2
-    time: 1425924222
+    md5: 3cc653e711715377908e9f334280d8ea
+    time: 1425924637
   /works/10-deep-lookbook/index.html:
     md5: db3bf50fba804a15694bd0a8c6e95cd9
     time: 1425833336
@@ -23,8 +23,8 @@ inventory:
     md5: 86f93aa9495434dca31c5fcb91e494f7
     time: 1425833242
   /works/native-shoes/index.html:
-    md5: c32f08fbc8260d5ab0069a6a88438faa
-    time: 1425924330
+    md5: 902b6c5c26ee16ed2960f65945e6f1b7
+    time: 1425924638
   /works/native-shoes-cosmic-exploration-with-chet-brinkwater-presents-takara-bunyon/index.html:
     md5: 9c6919f04b3c7236146beca9881c82ed
     time: 1425863884
@@ -149,8 +149,8 @@ inventory:
     md5: 5f392107b7bf549f99271351c5492cc0
     time: 1425922587
   /the-club/vincent-picone/index.html:
-    md5: 3cdfe8bb0e69b06c35d124dc203b586b
-    time: 1425924227
+    md5: 7f7ae0605d7f83e47ff90d5323ba05ad
+    time: 1425924643
   /the-club/tone/index.html:
     md5: 62ef563aab422f2b15b4041b56024005
     time: 1425922588
@@ -158,8 +158,8 @@ inventory:
     md5: de196739135a23eab4505b670f0e7bd6
     time: 1425922589
   /the-club/bryan-stevenson/index.html:
-    md5: 6cb7f5f9ddfae1fa8530cd905383e8bb
-    time: 1425924230
+    md5: 3972117f0cb477d2d6b187330a17cf86
+    time: 1425924645
   /the-club/archive/index.html:
     md5: f5900cf82601b0955388373086d561d5
     time: 1425922590
@@ -320,11 +320,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: abe9f6f1aba0418e2f0b1bb034c5014f
-    time: 1425864102
+    md5: 34e669c19dbf7ed4e1794f87da50074f
+    time: 1425924650
   /feed.xml:
-    md5: 65036a230f5ac69e0e158ba7fa02e9fe
-    time: 1425924342
+    md5: 2aa39e3849385e06e2179ff8e9d7b027
+    time: 1425924650
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
@@ -370,9 +370,6 @@ inventory:
   /assets/1330533682phlomadbury1.jpg:
     md5: d78c74805debcb17d940f46047adceef
     time: 1425588909
-  /assets/VP_TMC_Native_03.24.2014_0228-Edit.jpg:
-    md5: bd17bdfcb3fe959abe4b3b78c8651069
-    time: 1425605751
   /assets/VP_TMC_NSW_NikeAir_05.21.2014_222222.jpg:
     md5: 8df5519825c319c706d321ae50fd6f09
     time: 1425666385
@@ -556,6 +553,9 @@ inventory:
   /assets/01.jpg:
     md5: 4cf56d7e39184b4176a6d73f73612ac1
     time: 1425922596
+  /assets/VP_TMC_Venice_06.16.2014_0044.jpg:
+    md5: 6c680b8e8100b6ad69f50ff8f3b7746d
+    time: 1425924650
   /assets/FrontPage.jpg:
     md5: 828d5e7f4990591890897e3cdea21277
     time: 1425588946
@@ -853,6 +853,9 @@ inventory:
   /assets/04.jpg:
     md5: 5d87e40356a786f5f42b611a98e288da
     time: 1425922597
+  /assets/10369475_258582441001014_682232938_n.jpg:
+    md5: a83a88a78d6f1a3d58b3fdb45c43dda3
+    time: 1425924236
   /assets/1335970956THERM5.jpg:
     md5: f99e48480e45acff699999f4c10a5f05
     time: 1425588963
@@ -937,6 +940,9 @@ inventory:
   /assets/05.jpg:
     md5: 54fcec582784d937c5f982ba92bf3923
     time: 1425922597
+  /assets/10413179_648715115222161_1139141000_n.jpg:
+    md5: d4ac1a051f75a70983c3477eb83b2b2c
+    time: 1425924236
   /assets/1335970948THERM4.jpg:
     md5: 6ad45b121e55b605a15dcfcf1e088522
     time: 1425588970
@@ -1027,6 +1033,9 @@ inventory:
   /assets/1330541247phlomadbury6.jpg:
     md5: 33c05248ce530e9a3df35199090b761b
     time: 1425588974
+  /assets/VP_TMC_Native_03.24.2014_0228-Edit.jpg:
+    md5: bd17bdfcb3fe959abe4b3b78c8651069
+    time: 1425605751
   /assets/1340025506TY4.jpg:
     md5: 6490be7598f37ad51cbea0802e4fbc65
     time: 1425754143
@@ -1075,9 +1084,6 @@ inventory:
   /assets/07.jpg:
     md5: 72e8628b122cc6558bce2e4e9815381c
     time: 1425922598
-  /assets/10369475_258582441001014_682232938_n.jpg:
-    md5: a83a88a78d6f1a3d58b3fdb45c43dda3
-    time: 1425924236
   /assets/SR10-1.jpg:
     md5: 328510131d67c5c82b94f5e17eadd1b8
     time: 1425588974
@@ -1132,9 +1138,6 @@ inventory:
   /assets/08.jpg:
     md5: 7afbb6d580c0ce38f5fbaf07736155dc
     time: 1425922598
-  /assets/10413179_648715115222161_1139141000_n.jpg:
-    md5: d4ac1a051f75a70983c3477eb83b2b2c
-    time: 1425924236
   /assets/SR12-1.jpg:
     md5: f907d70e72896f83327166cb0f9df9ad
     time: 1425588976
