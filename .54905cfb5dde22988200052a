@@ -1,12 +1,12 @@
 ---
-time: 1425864550
+time: 1425864703
 inventory:
   /index/index.html:
-    md5: d76a291df6050fb3e7617cb43f0a6d5d
-    time: 1425864462
+    md5: 705174402beffca6fdea8456b2fdb9c8
+    time: 1425864688
   /index.html:
-    md5: d76a291df6050fb3e7617cb43f0a6d5d
-    time: 1425864462
+    md5: 705174402beffca6fdea8456b2fdb9c8
+    time: 1425864688
   /works/index.html:
     md5: 4fdc823cdfa89c6695a52c60d90cb9b2
     time: 1425833241
@@ -47,8 +47,8 @@ inventory:
     md5: 5f247d06a87948b15ccdda2c0f6f5bba
     time: 1425833243
   /works/archive/index.html:
-    md5: 18dcea3802dff63fc5e89aabd37a4ea3
-    time: 1425864465
+    md5: 2fdc4537d5eb49a96da2a87df7bf4ddc
+    time: 1425864690
   /works/tags/index.html:
     md5: 2f68342a9d1e8070313290a237fb8965
     time: 1425703457
@@ -134,32 +134,32 @@ inventory:
     md5: 2ba343cb52228d04823d10895ae8bf02
     time: 1425832514
   /the-club/hyun-kim/index.html:
-    md5: 79f429c22d0f3611840d7fecece1d878
-    time: 1425864467
+    md5: 53a248e74f04097c37555c9803cf264f
+    time: 1425864692
   /the-club/marcus-arman/index.html:
-    md5: cd42bd4e9fbf33f6272ef1c019b4880c
-    time: 1425864467
+    md5: d5a0712b54e56001e6eb04542a0bba51
+    time: 1425864693
   /the-club/peter-hironaka/index.html:
-    md5: bee64137d2fde1f2a0d1b99349210ba8
-    time: 1425864467
+    md5: 17ca7590cc091b52e01d530fd095fa42
+    time: 1425864693
   /the-club/darryl-richardson/index.html:
-    md5: 3aa4e5803eab3cd6b7dcbf7942a98e99
-    time: 1425864467
+    md5: c06c865769ef45289e89bb5aeb18cd77
+    time: 1425864693
   /the-club/ellington-hammond/index.html:
-    md5: 5224e8deaa7327477703645afe510e33
-    time: 1425864544
+    md5: 1246272d2e405e895cce9a55ffff4c8c
+    time: 1425864693
   /the-club/vincent-picone/index.html:
-    md5: e5eb1d843ad9f83f5283d1997e2df331
-    time: 1425864468
+    md5: c17c0d566990e8b408e6d9fb3dcbcd18
+    time: 1425864694
   /the-club/tone/index.html:
-    md5: 57e54968691a6097257cc6f518640dd7
-    time: 1425864468
+    md5: d44b106aadb65ac9465e320656c54d88
+    time: 1425864694
   /the-club/phillip-t-annand/index.html:
-    md5: 1d744a165a75f0bffcf06107bf0d3257
-    time: 1425864469
+    md5: b0030272ad6edcde05002cea3a80ece5
+    time: 1425864695
   /the-club/bryan-stevenson/index.html:
-    md5: 8a69f4d665822e689a07a1e4bb9aa0f3
-    time: 1425864545
+    md5: b285a54c9e59d27a4b2ca279f9dab0ae
+    time: 1425864695
   /the-club/archive/index.html:
     md5: 21e3f1be7fb7927a2eb145feb32ec080
     time: 1425864470
@@ -217,27 +217,27 @@ inventory:
   /works/spreads/index.html:
     md5: af9fcaadbd7a03046b9e112f1fc77130
     time: 1425833248
-  /works/spreads/the-brooklyn-circus-fall-holiday-made-in-america-2010-lookbook/index.html:
-    md5: e05fa17f41528f2381adf2435ab35680
-    time: 1425864547
   /works/spreads/calis-new-crop/index.html:
-    md5: cf7502af7739b1462ffbb3d853a1196e
-    time: 1425864472
+    md5: d123f395c236f81fb98aab8a62a31c10
+    time: 1425864697
   /works/spreads/asphalt-warriors/index.html:
-    md5: 2bce18fcdd587dede1c69c5ec5e67894
-    time: 1425864472
+    md5: 433a65fb5158a452e888e36c7a72a391
+    time: 1425864697
   /works/spreads/the-air-jordan-flight-forum/index.html:
-    md5: 3f3386a59fd45586735b5c91167403df
-    time: 1425864472
+    md5: 7684bd5c7677303333e67a49b8255a1c
+    time: 1425864697
   /works/spreads/fresh-produce-casey-veggies-and-peas-carrots-international/index.html:
-    md5: 71120eb85515538d24eef6a0e3aadbb8
-    time: 1425864472
+    md5: 8c888717e55c281cfede586b90df5421
+    time: 1425864698
+  /works/spreads/the-brooklyn-circus-fall-holiday-made-in-america-2010-lookbook/index.html:
+    md5: e393724f082fe333577774af2170a226
+    time: 1425864698
   /works/spreads/crab-chowder-and-conversation-with-chip-tha-ripper/index.html:
-    md5: a80e08698591eda1b7878c7ab7d4ea33
-    time: 1425864472
+    md5: 79821ae74b08fbb94b2b30a174529f86
+    time: 1425864698
   /works/spreads/there-goes-the-neighborhood-tyler-the-creator-interview/index.html:
-    md5: 9333be4f5ded512c482f5cf32199374a
-    time: 1425864472
+    md5: 420af9cb02ef3f3d27eb2dabd7d09b77
+    time: 1425864698
   /works/spreads/archive/index.html:
     md5: bd872bcb07418676dcbe12d706b1ae50
     time: 1425860900
@@ -245,26 +245,26 @@ inventory:
     md5: 2df5ccb0e2396a5e2f7e31342cb56536
     time: 1425860900
   /works/spreads/tags/phillip-t-annand/index.html:
-    md5: 08ad0b60b08fbfca182bfc33e7232dc7
-    time: 1425864548
-  /works/spreads/tags/vincent-picone/index.html:
-    md5: 102a09fbea2f55b9f6a4afa2abceef32
-    time: 1425864548
-  /works/spreads/tags/ellington-hammond/index.html:
-    md5: 71db4642b8e257839af72e19fb7a9ec1
-    time: 1425864548
-  /works/spreads/tags/bryan-stevenson/index.html:
-    md5: 45643a9dc4cd14e63d452d42dbeaa84f
-    time: 1425864548
+    md5: cfd690e94ecc2a5e3c19ea14a4253a90
+    time: 1425864698
   /works/spreads/tags/marcus-arman/index.html:
-    md5: 63ddebe909f3d95bfea6e27318d431f2
-    time: 1425864548
+    md5: a57582831e40377535a63c3cf0a13b02
+    time: 1425864698
   /works/spreads/tags/madbury-music/index.html:
-    md5: 0bf877873e0bb50ffdbe35a841cfc45b
-    time: 1425864548
+    md5: d040ee17fb0e2767b86b602199e1aec0
+    time: 1425864698
+  /works/spreads/tags/vincent-picone/index.html:
+    md5: 9c826342a1126767c5499161338d5863
+    time: 1425864698
+  /works/spreads/tags/ellington-hammond/index.html:
+    md5: 2a03d91d616b14ece687c03b6ceaa5c0
+    time: 1425864699
+  /works/spreads/tags/bryan-stevenson/index.html:
+    md5: 06ac48ae9b66e84a64c1f62a767b93f7
+    time: 1425864699
   /works/spreads/tags/trammell/index.html:
-    md5: 43c77be847e3fae90186b55f9aff35fe
-    time: 1425864548
+    md5: 321a1ac1985720d9e4632dd4843e37dd
+    time: 1425864699
   /works/spreads/set/index.html:
     md5: 0d935f78572ad48a44a67eac79cbb29d
     time: 1425860900
@@ -278,8 +278,8 @@ inventory:
     md5: abe9f6f1aba0418e2f0b1bb034c5014f
     time: 1425864102
   /feed.xml:
-    md5: b0507225f6e83a17dffb03a1ffe51da8
-    time: 1425864548
+    md5: 12b4722d7f3ad5c77813716491eea21e
+    time: 1425864699
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
