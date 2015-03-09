@@ -1,5 +1,5 @@
 ---
-time: 1425924653
+time: 1425924735
 inventory:
   /index/index.html:
     md5: 705174402beffca6fdea8456b2fdb9c8
@@ -23,8 +23,8 @@ inventory:
     md5: 86f93aa9495434dca31c5fcb91e494f7
     time: 1425833242
   /works/native-shoes/index.html:
-    md5: 902b6c5c26ee16ed2960f65945e6f1b7
-    time: 1425924638
+    md5: 0b3e6bc919f723039f7276a35dba20c3
+    time: 1425924721
   /works/native-shoes-cosmic-exploration-with-chet-brinkwater-presents-takara-bunyon/index.html:
     md5: 9c6919f04b3c7236146beca9881c82ed
     time: 1425863884
@@ -320,11 +320,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: 34e669c19dbf7ed4e1794f87da50074f
-    time: 1425924650
+    md5: ba1ace4e10f51e224134a807a50d90a3
+    time: 1425924735
   /feed.xml:
-    md5: 2aa39e3849385e06e2179ff8e9d7b027
-    time: 1425924650
+    md5: b39356373248761ec9ef1469d4d5c38f
+    time: 1425924735
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
