@@ -1,5 +1,5 @@
 ---
-time: 1425875399
+time: 1425875849
 inventory:
   /index/index.html:
     md5: 705174402beffca6fdea8456b2fdb9c8
@@ -47,8 +47,8 @@ inventory:
     md5: 5f247d06a87948b15ccdda2c0f6f5bba
     time: 1425833243
   /works/archive/index.html:
-    md5: 15a6c4848c8f00714c0ac72ecc79583b
-    time: 1425875084
+    md5: ec932f4daa8c8ef16b3584dd0a4f8801
+    time: 1425875835
   /works/tags/index.html:
     md5: 2f68342a9d1e8070313290a237fb8965
     time: 1425703457
@@ -134,38 +134,38 @@ inventory:
     md5: 2ba343cb52228d04823d10895ae8bf02
     time: 1425832514
   /the-club/hyun-kim/index.html:
-    md5: 54bdeb7d2fe5e88954257e24ebd6f52a
-    time: 1425875086
+    md5: 5e21659202505bf9346f06f034edea2f
+    time: 1425875837
   /the-club/marcus-arman/index.html:
-    md5: b2d209da81ad08152eeee9c4a2663d6e
-    time: 1425875086
+    md5: b883ffb8ee371743c7a28da8a1f26576
+    time: 1425875837
   /the-club/peter-hironaka/index.html:
-    md5: 221ce31686c9b0ec64635fd05e0af7ef
-    time: 1425875087
+    md5: bed61edd88797c2161e048d5f3f30c36
+    time: 1425875837
   /the-club/darryl-richardson/index.html:
-    md5: b0046f120fc5e9080562ea589e3f7f04
-    time: 1425875087
+    md5: 508e22a91c8eac43cae8a2e6f5c1c747
+    time: 1425875837
   /the-club/ellington-hammond/index.html:
-    md5: 5c3d25db55add087baa10aba85493923
-    time: 1425875087
+    md5: ff75805e02e506cf82693a993a991ad9
+    time: 1425875837
   /the-club/vincent-picone/index.html:
-    md5: f99c079a63bff54731bc880465ecccab
-    time: 1425875394
+    md5: 22c9c49e2ef8bac459964046324e89f3
+    time: 1425875838
   /the-club/tone/index.html:
-    md5: ecd0c019dff225fd650b17f249220e62
-    time: 1425875088
+    md5: 064d5236804f4be596dab87fb72d2483
+    time: 1425875838
   /the-club/phillip-t-annand/index.html:
-    md5: 8776dcbf875fa04f04df5144b520d826
-    time: 1425875395
+    md5: a6ccc4a2bd94678ceafa7efb99f0d37c
+    time: 1425875839
   /the-club/bryan-stevenson/index.html:
-    md5: 552d16e88f8ac895e62ad53f95bb1074
-    time: 1425875089
+    md5: ddb58f13be5807fe07ae5b0b112b9159
+    time: 1425875839
   /the-club/archive/index.html:
-    md5: b7df72d22ff56b93ebc76a40bb3e25f5
-    time: 1425875090
+    md5: 60c12630999180a334bfe6599f5c9130
+    time: 1425875839
   /the-club/tags/index.html:
-    md5: 3c631389cdcbe34996402ded67c8559f
-    time: 1425875090
+    md5: 4549c86924598f532b3946c0494cb7e8
+    time: 1425875840
   /factory/index.html:
     md5: 9f248ce439acd9f93e7b47e85cb2a347
     time: 1425781135
@@ -229,9 +229,12 @@ inventory:
   /works/spreads/fresh-produce-casey-veggies-and-peas-carrots-international/index.html:
     md5: 8c888717e55c281cfede586b90df5421
     time: 1425864698
+  /works/spreads/knocking-the-door-dom-kennedy/index.html:
+    md5: 71e811c1c8342fc95e159942241d4830
+    time: 1425875841
   /works/spreads/the-madbury-club-presents-2010-autumn-lookbook/index.html:
-    md5: 715d0177605d182b3757cdfa28eb6dd8
-    time: 1425875398
+    md5: 1f694576b4a427e73d49fe883428c26a
+    time: 1425875841
   /works/spreads/the-brooklyn-circus-fall-holiday-made-in-america-2010-lookbook/index.html:
     md5: e393724f082fe333577774af2170a226
     time: 1425864698
@@ -281,8 +284,8 @@ inventory:
     md5: abe9f6f1aba0418e2f0b1bb034c5014f
     time: 1425864102
   /feed.xml:
-    md5: bfed9fbe1b1756d13c929c97b840e1d2
-    time: 1425875399
+    md5: 76dfac228fa98ce7a91ec860d915b046
+    time: 1425875843
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
@@ -493,6 +496,9 @@ inventory:
   /assets/A1.jpg:
     md5: b4e6bc1f4b4556ffa0ddd6a3e82b6315
     time: 1425875099
+  /assets/1340026851DOM3.jpg:
+    md5: 4adf61c9b5967250d811b398ab31ae84
+    time: 1425875843
   /assets/FrontPage.jpg:
     md5: 828d5e7f4990591890897e3cdea21277
     time: 1425588946
@@ -586,6 +592,9 @@ inventory:
   /assets/A5.jpg:
     md5: 2b3b824eac330f07738909e47bdb8fa2
     time: 1425875094
+  /assets/1340026843DOM2.jpg:
+    md5: d2cc766f536a40b6ec2c6ca56f56feb3
+    time: 1425875843
   /assets/ruggedcali.jpg:
     md5: b5326833e68a8d567a752a9e6296feca
     time: 1425588953
@@ -664,6 +673,9 @@ inventory:
   /assets/A12.jpg:
     md5: f96ec9a1723d6dae6e4c94c8589971b3
     time: 1425875094
+  /assets/1340026881DOM7.jpg:
+    md5: 7af9287b613e7d19d49daacae6b3b753
+    time: 1425875843
   /assets/1335970936THERM3.jpg:
     md5: d8f50ceb64dcf304cdced3854e79e97d
     time: 1425588959
@@ -730,6 +742,9 @@ inventory:
   /assets/A7.jpg:
     md5: e9ad36f3733dd3117c417f99617dd645
     time: 1425875094
+  /assets/1340026889DOM8.jpg:
+    md5: 8bdaeb944230af6564ac6f2f228d1708
+    time: 1425875844
   /assets/1335970956THERM5.jpg:
     md5: f99e48480e45acff699999f4c10a5f05
     time: 1425588963
@@ -793,6 +808,9 @@ inventory:
   /assets/A10.jpg:
     md5: a480487cf7201d19a87a9748044c9b2f
     time: 1425875094
+  /assets/1340026860DOM4.jpg:
+    md5: 8aa825c0089cba670f2bce918371338c
+    time: 1425875844
   /assets/1335970948THERM4.jpg:
     md5: 6ad45b121e55b605a15dcfcf1e088522
     time: 1425588970
@@ -844,6 +862,9 @@ inventory:
   /assets/A13.jpg:
     md5: 72a9bc751f61cbc8c6a90a1e02e1df4c
     time: 1425875095
+  /assets/1340026801DOM1.jpg:
+    md5: ea4a0d4cadf5d82b90381374c1421f64
+    time: 1425875844
   /assets/SR7.jpg:
     md5: caf5d59e9432c0a29e1deadd1f31eb69
     time: 1425588972
@@ -886,6 +907,9 @@ inventory:
   /assets/A15.jpg:
     md5: 26f4c80b30534b6991353a0099f2f63f
     time: 1425875095
+  /assets/1340026867DOM5.jpg:
+    md5: 6038bfcaf5a6dc7d2a1caef0086e5baa
+    time: 1425875844
   /assets/SR10-1.jpg:
     md5: 328510131d67c5c82b94f5e17eadd1b8
     time: 1425588974
@@ -919,6 +943,9 @@ inventory:
   /assets/A6.jpg:
     md5: 89bfa02ad7d7b612a316eb3b0c2b220f
     time: 1425875095
+  /assets/1340026902DOM9.jpg:
+    md5: 726038edf7b682438105505f5c551779
+    time: 1425875845
   /assets/SR12-1.jpg:
     md5: f907d70e72896f83327166cb0f9df9ad
     time: 1425588976
@@ -949,6 +976,9 @@ inventory:
   /assets/A9.jpg:
     md5: 2ebc89b3d367e84710e255305527bd8c
     time: 1425875095
+  /assets/1340026874DOM6.jpg:
+    md5: eea91366c8e3cef0d386460a2dcf7cdf
+    time: 1425875845
   /assets/1331568159ChipMadbury3.jpg:
     md5: cab8107f4f8b53c31e272c51b6639967
     time: 1425754146
