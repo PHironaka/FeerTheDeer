@@ -1,5 +1,5 @@
 ---
-time: 1425864483
+time: 1425864550
 inventory:
   /index/index.html:
     md5: d76a291df6050fb3e7617cb43f0a6d5d
@@ -146,8 +146,8 @@ inventory:
     md5: 3aa4e5803eab3cd6b7dcbf7942a98e99
     time: 1425864467
   /the-club/ellington-hammond/index.html:
-    md5: 07a3de523a65b4c0c0c53dcaa37c51d8
-    time: 1425864468
+    md5: 5224e8deaa7327477703645afe510e33
+    time: 1425864544
   /the-club/vincent-picone/index.html:
     md5: e5eb1d843ad9f83f5283d1997e2df331
     time: 1425864468
@@ -158,8 +158,8 @@ inventory:
     md5: 1d744a165a75f0bffcf06107bf0d3257
     time: 1425864469
   /the-club/bryan-stevenson/index.html:
-    md5: 3cd1af27be330c007875c45f66ed8520
-    time: 1425864469
+    md5: 8a69f4d665822e689a07a1e4bb9aa0f3
+    time: 1425864545
   /the-club/archive/index.html:
     md5: 21e3f1be7fb7927a2eb145feb32ec080
     time: 1425864470
@@ -218,8 +218,8 @@ inventory:
     md5: af9fcaadbd7a03046b9e112f1fc77130
     time: 1425833248
   /works/spreads/the-brooklyn-circus-fall-holiday-made-in-america-2010-lookbook/index.html:
-    md5: 302f3ab1dc391b0feb03fb1bc14b6b99
-    time: 1425864472
+    md5: e05fa17f41528f2381adf2435ab35680
+    time: 1425864547
   /works/spreads/calis-new-crop/index.html:
     md5: cf7502af7739b1462ffbb3d853a1196e
     time: 1425864472
@@ -245,20 +245,26 @@ inventory:
     md5: 2df5ccb0e2396a5e2f7e31342cb56536
     time: 1425860900
   /works/spreads/tags/phillip-t-annand/index.html:
-    md5: 886d14d71cdca86ea1e27df5cb66759d
-    time: 1425864473
+    md5: 08ad0b60b08fbfca182bfc33e7232dc7
+    time: 1425864548
   /works/spreads/tags/vincent-picone/index.html:
-    md5: 95a8c6fc73c0da49522be5463f4d5a5b
-    time: 1425864473
+    md5: 102a09fbea2f55b9f6a4afa2abceef32
+    time: 1425864548
+  /works/spreads/tags/ellington-hammond/index.html:
+    md5: 71db4642b8e257839af72e19fb7a9ec1
+    time: 1425864548
+  /works/spreads/tags/bryan-stevenson/index.html:
+    md5: 45643a9dc4cd14e63d452d42dbeaa84f
+    time: 1425864548
   /works/spreads/tags/marcus-arman/index.html:
-    md5: 22ef331447c2d84135cf387e32e70e22
-    time: 1425864473
+    md5: 63ddebe909f3d95bfea6e27318d431f2
+    time: 1425864548
   /works/spreads/tags/madbury-music/index.html:
-    md5: c6d87c4a86364fa03a43b43c6e81446e
-    time: 1425864473
+    md5: 0bf877873e0bb50ffdbe35a841cfc45b
+    time: 1425864548
   /works/spreads/tags/trammell/index.html:
-    md5: 37c0f41aa9e0b851c3f8116da02e19dc
-    time: 1425864473
+    md5: 43c77be847e3fae90186b55f9aff35fe
+    time: 1425864548
   /works/spreads/set/index.html:
     md5: 0d935f78572ad48a44a67eac79cbb29d
     time: 1425860900
@@ -272,8 +278,8 @@ inventory:
     md5: abe9f6f1aba0418e2f0b1bb034c5014f
     time: 1425864102
   /feed.xml:
-    md5: c9afc07b8093ac8b03be2085744644d4
-    time: 1425864473
+    md5: b0507225f6e83a17dffb03a1ffe51da8
+    time: 1425864548
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
