@@ -1,5 +1,5 @@
 ---
-time: 1425863092
+time: 1425863485
 inventory:
   /index/index.html:
     md5: 705174402beffca6fdea8456b2fdb9c8
@@ -47,8 +47,8 @@ inventory:
     md5: 5f247d06a87948b15ccdda2c0f6f5bba
     time: 1425833243
   /works/archive/index.html:
-    md5: 09c2454cdb7dfafd6d830caaba262f0d
-    time: 1425863082
+    md5: 0b475d2d8377f5be6b272bfd946334cf
+    time: 1425863453
   /works/tags/index.html:
     md5: 2f68342a9d1e8070313290a237fb8965
     time: 1425703457
@@ -134,41 +134,41 @@ inventory:
     md5: 2ba343cb52228d04823d10895ae8bf02
     time: 1425832514
   /the-club/hyun-kim/index.html:
-    md5: 494cc53f694387094fcb677245106da4
-    time: 1425863084
+    md5: 038815b385f39138c992500623e1a054
+    time: 1425863460
   /the-club/marcus-arman/index.html:
-    md5: cb2b8cd7c204b9557524464221adead2
-    time: 1425862835
+    md5: 2f9f879badda0514c0debaeb231504d8
+    time: 1425863461
   /the-club/peter-hironaka/index.html:
-    md5: 135955f0f3471b5bc7c1682a763cec24
-    time: 1425863084
+    md5: d5d9a8ae12b857b6938acc97f18c37c0
+    time: 1425863461
   /the-club/darryl-richardson/index.html:
-    md5: bb54de89bf5c9be6b02f6953f2a334da
-    time: 1425863084
+    md5: 3e850ff96bf83b4f223095bacc0b419c
+    time: 1425863463
   /the-club/ellington-hammond/index.html:
-    md5: 9de561ff004d1c014919624a5c606714
-    time: 1425863085
+    md5: 97651aaba44c441d90ba0bc02624e32f
+    time: 1425863464
   /the-club/vincent-picone/index.html:
-    md5: d2ede2cd7da8b4496af8cd88bbfffe6c
-    time: 1425863085
+    md5: 82b75dd7e6f533335c7d0b581ac46b0c
+    time: 1425863466
   /the-club/tone/index.html:
-    md5: b992e514c181fdf297b82c27e7fd803b
-    time: 1425863085
+    md5: 9988f4f343e14c8de3bc0545c0a4b09b
+    time: 1425863466
   /the-club/phillip-t-annand/index.html:
-    md5: be737be951a0be3840768104c1fee68c
-    time: 1425863086
+    md5: c200978323ec3f1c9f1097ece03ef634
+    time: 1425863469
   /the-club/bryan-stevenson/index.html:
-    md5: 69b3fd3169d8490ac65a9eb766b4f9ae
-    time: 1425863086
+    md5: 83e0bb48fc8dd7c733bdb8ccd42d6c89
+    time: 1425863471
   /the-club/archive/index.html:
-    md5: 824ff93022b471f5219c232982000b04
-    time: 1425862838
+    md5: ce8fd5b4f572bc3e7f591e783bd41fa3
+    time: 1425863472
   /the-club/tags/index.html:
-    md5: 1b933b027575348fe46ef025d3671673
-    time: 1425862838
+    md5: e13296c6f2926c104a7d24f917f28edd
+    time: 1425863472
   /the-club/tags/hyun-kim/index.html:
-    md5: 0b4dc68138b08260dc485e70918ea057
-    time: 1425863087
+    md5: f040a1c9893e07fdbf0e345b1440c038
+    time: 1425863472
   /factory/index.html:
     md5: 9f248ce439acd9f93e7b47e85cb2a347
     time: 1425781135
@@ -221,20 +221,23 @@ inventory:
     md5: af9fcaadbd7a03046b9e112f1fc77130
     time: 1425833248
   /works/spreads/calis-new-crop/index.html:
-    md5: a5bf74d3b5b644bdfb9627ac4a6532f7
-    time: 1425863088
+    md5: d123f395c236f81fb98aab8a62a31c10
+    time: 1425863475
+  /works/spreads/asphalt-warriors/index.html:
+    md5: 7a237dd4d5aa101bf4beb4d2dc0fd6f0
+    time: 1425863475
   /works/spreads/the-air-jordan-flight-forum/index.html:
-    md5: 54b673706b1b292d469cc1ea00f4c80a
-    time: 1425863088
+    md5: 7684bd5c7677303333e67a49b8255a1c
+    time: 1425863476
   /works/spreads/fresh-produce-casey-veggies-and-peas-carrots-international/index.html:
-    md5: c104bc5b632aeb3566c3c5c54f13ffa5
-    time: 1425863088
+    md5: 8c888717e55c281cfede586b90df5421
+    time: 1425863476
   /works/spreads/crab-chowder-and-conversation-with-chip-tha-ripper/index.html:
-    md5: ee36c210059a6c921190a70cfa1b970e
-    time: 1425863089
+    md5: 79821ae74b08fbb94b2b30a174529f86
+    time: 1425863476
   /works/spreads/there-goes-the-neighborhood-tyler-the-creator-interview/index.html:
-    md5: 37178d04388836a49e6b741a82d82d57
-    time: 1425863089
+    md5: 420af9cb02ef3f3d27eb2dabd7d09b77
+    time: 1425863477
   /works/spreads/archive/index.html:
     md5: bd872bcb07418676dcbe12d706b1ae50
     time: 1425860900
@@ -266,8 +269,8 @@ inventory:
     md5: b3e943153f618d2f867cbd5abfa4ece8
     time: 1425835989
   /feed.xml:
-    md5: e8d31651f7df0492d12212da8168bae5
-    time: 1425863089
+    md5: 6bd744ed3d6d6367bb7e6639229ac91f
+    time: 1425863481
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
