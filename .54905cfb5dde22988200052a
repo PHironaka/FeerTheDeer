@@ -1,5 +1,5 @@
 ---
-time: 1425875116
+time: 1425875399
 inventory:
   /index/index.html:
     md5: 705174402beffca6fdea8456b2fdb9c8
@@ -149,14 +149,14 @@ inventory:
     md5: 5c3d25db55add087baa10aba85493923
     time: 1425875087
   /the-club/vincent-picone/index.html:
-    md5: b719c258367b8684e1d3f3b14a6dcf62
-    time: 1425875088
+    md5: f99c079a63bff54731bc880465ecccab
+    time: 1425875394
   /the-club/tone/index.html:
     md5: ecd0c019dff225fd650b17f249220e62
     time: 1425875088
   /the-club/phillip-t-annand/index.html:
-    md5: 2395fbda945913f7916e2b3c96de3cf0
-    time: 1425875089
+    md5: 8776dcbf875fa04f04df5144b520d826
+    time: 1425875395
   /the-club/bryan-stevenson/index.html:
     md5: 552d16e88f8ac895e62ad53f95bb1074
     time: 1425875089
@@ -230,8 +230,8 @@ inventory:
     md5: 8c888717e55c281cfede586b90df5421
     time: 1425864698
   /works/spreads/the-madbury-club-presents-2010-autumn-lookbook/index.html:
-    md5: 6ca4c492fec5db64ff8f6a7a7bdec6f1
-    time: 1425875092
+    md5: 715d0177605d182b3757cdfa28eb6dd8
+    time: 1425875398
   /works/spreads/the-brooklyn-circus-fall-holiday-made-in-america-2010-lookbook/index.html:
     md5: e393724f082fe333577774af2170a226
     time: 1425864698
@@ -281,8 +281,8 @@ inventory:
     md5: abe9f6f1aba0418e2f0b1bb034c5014f
     time: 1425864102
   /feed.xml:
-    md5: 9c42bf4dff4a04562ed4c4d3d725d9e5
-    time: 1425875093
+    md5: bfed9fbe1b1756d13c929c97b840e1d2
+    time: 1425875399
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
@@ -490,9 +490,9 @@ inventory:
   /assets/1330573562BKC1.jpg:
     md5: 9c119e77d6e6059d97f9610500b0f116
     time: 1425864473
-  /assets/A5.jpg:
-    md5: 2b3b824eac330f07738909e47bdb8fa2
-    time: 1425875094
+  /assets/A1.jpg:
+    md5: b4e6bc1f4b4556ffa0ddd6a3e82b6315
+    time: 1425875099
   /assets/FrontPage.jpg:
     md5: 828d5e7f4990591890897e3cdea21277
     time: 1425588946
@@ -583,8 +583,8 @@ inventory:
   /assets/1330573277BKC14.jpg:
     md5: bf11b18607444b460acf5db21d81a42a
     time: 1425864473
-  /assets/A12.jpg:
-    md5: f96ec9a1723d6dae6e4c94c8589971b3
+  /assets/A5.jpg:
+    md5: 2b3b824eac330f07738909e47bdb8fa2
     time: 1425875094
   /assets/ruggedcali.jpg:
     md5: b5326833e68a8d567a752a9e6296feca
@@ -661,8 +661,8 @@ inventory:
   /assets/1330573378BKC9.jpg:
     md5: 9a316e08cd168685200fd221defe082f
     time: 1425864474
-  /assets/A7.jpg:
-    md5: e9ad36f3733dd3117c417f99617dd645
+  /assets/A12.jpg:
+    md5: f96ec9a1723d6dae6e4c94c8589971b3
     time: 1425875094
   /assets/1335970936THERM3.jpg:
     md5: d8f50ceb64dcf304cdced3854e79e97d
@@ -727,8 +727,8 @@ inventory:
   /assets/1330573361BKC10.jpg:
     md5: 82e316fdbaf94211159c695a77b02ec3
     time: 1425864474
-  /assets/A19.jpg:
-    md5: 3bb6e0598eed780bdf1271678bd7fb6a
+  /assets/A7.jpg:
+    md5: e9ad36f3733dd3117c417f99617dd645
     time: 1425875094
   /assets/1335970956THERM5.jpg:
     md5: f99e48480e45acff699999f4c10a5f05
@@ -1030,6 +1030,9 @@ inventory:
   /assets/A18.jpg:
     md5: ed0d9ab2f6850f0e385a8e3aec6339e2
     time: 1425875097
+  /assets/A19.jpg:
+    md5: 3bb6e0598eed780bdf1271678bd7fb6a
+    time: 1425875094
   /assets/A3.jpg:
     md5: 77cc024f78dda9c7952fd174e792d317
     time: 1425875098
@@ -1038,7 +1041,4 @@ inventory:
     time: 1425875098
   /assets/A8.jpg:
     md5: 874fe97b38811c0e3f47167ebb3e1727
-    time: 1425875099
-  /assets/A1.jpg:
-    md5: b4e6bc1f4b4556ffa0ddd6a3e82b6315
     time: 1425875099
