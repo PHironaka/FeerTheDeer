@@ -1,5 +1,5 @@
 ---
-time: 1425875849
+time: 1425915502
 inventory:
   /index/index.html:
     md5: 705174402beffca6fdea8456b2fdb9c8
@@ -47,8 +47,8 @@ inventory:
     md5: 5f247d06a87948b15ccdda2c0f6f5bba
     time: 1425833243
   /works/archive/index.html:
-    md5: ec932f4daa8c8ef16b3584dd0a4f8801
-    time: 1425875835
+    md5: e5f19b2bfac63aff8e33073683474718
+    time: 1425915493
   /works/tags/index.html:
     md5: 2f68342a9d1e8070313290a237fb8965
     time: 1425703457
@@ -155,8 +155,8 @@ inventory:
     md5: 064d5236804f4be596dab87fb72d2483
     time: 1425875838
   /the-club/phillip-t-annand/index.html:
-    md5: a6ccc4a2bd94678ceafa7efb99f0d37c
-    time: 1425875839
+    md5: 8712f585e31d78b3be631f4cef62fbc7
+    time: 1425915497
   /the-club/bryan-stevenson/index.html:
     md5: ddb58f13be5807fe07ae5b0b112b9159
     time: 1425875839
@@ -230,8 +230,8 @@ inventory:
     md5: 8c888717e55c281cfede586b90df5421
     time: 1425864698
   /works/spreads/knocking-the-door-dom-kennedy/index.html:
-    md5: 71e811c1c8342fc95e159942241d4830
-    time: 1425875841
+    md5: 5c15e791d49913e6f5fd7522998b4ddf
+    time: 1425915500
   /works/spreads/the-madbury-club-presents-2010-autumn-lookbook/index.html:
     md5: 1f694576b4a427e73d49fe883428c26a
     time: 1425875841
@@ -284,8 +284,8 @@ inventory:
     md5: abe9f6f1aba0418e2f0b1bb034c5014f
     time: 1425864102
   /feed.xml:
-    md5: 76dfac228fa98ce7a91ec860d915b046
-    time: 1425875843
+    md5: 29c1c3b922ba951d4d54c86a8abd6d29
+    time: 1425915501
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
