@@ -1,12 +1,12 @@
 ---
-time: 1425921486
+time: 1425921551
 inventory:
   /index/index.html:
-    md5: 7105fdb13c0b8b57a01454f96548976b
-    time: 1425921466
+    md5: 705174402beffca6fdea8456b2fdb9c8
+    time: 1425921528
   /index.html:
-    md5: 7105fdb13c0b8b57a01454f96548976b
-    time: 1425921466
+    md5: 705174402beffca6fdea8456b2fdb9c8
+    time: 1425921528
   /works/index.html:
     md5: 4fdc823cdfa89c6695a52c60d90cb9b2
     time: 1425833241
@@ -47,8 +47,8 @@ inventory:
     md5: 5f247d06a87948b15ccdda2c0f6f5bba
     time: 1425833243
   /works/archive/index.html:
-    md5: fda88843a32182ced4397bc947f959d4
-    time: 1425921468
+    md5: 8ed3e39a4e6ffa9e8112dff678fd9187
+    time: 1425921531
   /works/tags/index.html:
     md5: 2f68342a9d1e8070313290a237fb8965
     time: 1425703457
@@ -134,32 +134,32 @@ inventory:
     md5: 2ba343cb52228d04823d10895ae8bf02
     time: 1425832514
   /the-club/hyun-kim/index.html:
-    md5: 1163c42348a017b896182b8482771394
-    time: 1425921470
+    md5: 056db8adf63e0a5c96a81ca9137af9a9
+    time: 1425921534
   /the-club/marcus-arman/index.html:
-    md5: fc4f4319aecfd040fb117b18e44a355c
-    time: 1425921471
+    md5: 64b4b32cca6e6dad4b8ac5046060fa67
+    time: 1425921534
   /the-club/peter-hironaka/index.html:
-    md5: dbf6fd364c3138ee0fbdd142ea15767a
-    time: 1425921471
+    md5: 041f6b777bc8381c3342884a8c10dc8d
+    time: 1425921534
   /the-club/darryl-richardson/index.html:
-    md5: b74f2a73e91444f48806311d59a3fe2a
-    time: 1425921471
+    md5: acd803bcf107a7d72719cdb81be31b9f
+    time: 1425921534
   /the-club/ellington-hammond/index.html:
-    md5: a641816a1ac2f10e6cd0eab158e4cd35
-    time: 1425921471
+    md5: 7176735622a9b80b6c0a66bcbdec8c23
+    time: 1425921535
   /the-club/vincent-picone/index.html:
-    md5: b47ad2e2830f35503180f6d8777dcd8d
-    time: 1425921472
+    md5: 472085281b156b047feecbb2fa8084aa
+    time: 1425921535
   /the-club/tone/index.html:
-    md5: 4bcb01a9fbd306f89348e86f51dbfa34
-    time: 1425921472
+    md5: 957acd97f402271bb6bd153694aba9de
+    time: 1425921536
   /the-club/phillip-t-annand/index.html:
-    md5: 9c075510110530b0b2158b301d711b0e
-    time: 1425921474
+    md5: 4bafb922ca17929000460bab386c02ec
+    time: 1425921537
   /the-club/bryan-stevenson/index.html:
-    md5: c0f2f77d62b8699738f30ec899381237
-    time: 1425921474
+    md5: f276ec181f0154732db276217b22a99a
+    time: 1425921538
   /the-club/archive/index.html:
     md5: a97f4752653f50e1eb26ab0befebe89a
     time: 1425921389
@@ -217,48 +217,48 @@ inventory:
   /works/spreads/index.html:
     md5: af9fcaadbd7a03046b9e112f1fc77130
     time: 1425833248
-  /works/spreads/madbury-travels-series-1-issue-1-nicaragua/index.html:
-    md5: 3467ebb2095ad81e92d63c56a6e85ef2
-    time: 1425921476
   /works/spreads/watching-the-throne-presented-by-the-madbury-club/index.html:
-    md5: 1ef5a39f234bdf8609d3646409d9f523
-    time: 1425921476
+    md5: 7c7e8991e93bdc2b09698aa9f38e53ed
+    time: 1425921540
   /works/spreads/sweaters-and-street-soliloquy-madbury-reviews-take-care/index.html:
-    md5: 5204a9c40b57d3f294f86639d3665ac2
-    time: 1425921476
+    md5: d5be16bb1774415afed69e5a2503795c
+    time: 1425921540
   /works/spreads/calis-new-crop/index.html:
-    md5: 81ade6f68932a76c88714815c825fa4e
-    time: 1425921476
+    md5: a16dc471d965ac4bef71a13f1c8eab6c
+    time: 1425921540
   /works/spreads/madbury-club-street-style-volume-4-the-dmv-edition/index.html:
-    md5: 3d74b934297d6614c21e9843a71de0be
-    time: 1425921476
+    md5: 2935d893982b77aa313496b5616d2548
+    time: 1425921540
+  /works/spreads/madbury-travels-series-1-issue-1-nicaragua/index.html:
+    md5: cef2a32f56c66624c621d2824451a146
+    time: 1425921541
   /works/spreads/the-2011-madburies-our-a-z-guide-for-the-year/index.html:
-    md5: 279a1caa1a568a72e5ab792ec0d25a7e
-    time: 1425921477
+    md5: 596acbbe2a9aa29a509ddabca7d5eda5
+    time: 1425921541
   /works/spreads/asphalt-warriors/index.html:
-    md5: cff90d417a3ec3c0f53ae1460b114b5b
-    time: 1425921477
+    md5: 0fbdf1dfffda9fd9a4f22bd8dea7b15e
+    time: 1425921541
   /works/spreads/the-air-jordan-flight-forum/index.html:
-    md5: 27e80fa0cfb922ae785a5ec9f17408d2
-    time: 1425921477
+    md5: e0eb3379ed77bb9dc87317ebb0eb0184
+    time: 1425921541
   /works/spreads/fresh-produce-casey-veggies-and-peas-carrots-international/index.html:
-    md5: 10f78e17fb4a7cd4e585bdd663831dcc
-    time: 1425921477
+    md5: 0e4f1fc9b4aea4492a8ba9b2da6c539c
+    time: 1425921541
   /works/spreads/knocking-the-door-dom-kennedy/index.html:
-    md5: dd47e98336d5f472d4224b135e9fbc2e
-    time: 1425921477
+    md5: c80ac72abd4e77e80c164d4e9312c131
+    time: 1425921541
   /works/spreads/the-madbury-club-presents-2010-autumn-lookbook/index.html:
-    md5: 21c23c73491753f2b167f7d2c575e659
-    time: 1425921477
+    md5: 5232f0ce2ff45b373bb6f88543405901
+    time: 1425921542
   /works/spreads/the-brooklyn-circus-fall-holiday-made-in-america-2010-lookbook/index.html:
-    md5: f07662a44e642726319934e7eb92adad
-    time: 1425921478
+    md5: 1e3f354779a9dfab2a5a0e9c107dfa46
+    time: 1425921542
   /works/spreads/crab-chowder-and-conversation-with-chip-tha-ripper/index.html:
-    md5: 649434c4ca8bcfd5151065f170c3ee16
-    time: 1425921478
+    md5: 4c55e406d03196128fbc9a2c30384e65
+    time: 1425921542
   /works/spreads/there-goes-the-neighborhood-tyler-the-creator-interview/index.html:
-    md5: f7b468db08665815586cc29fd762ceff
-    time: 1425921478
+    md5: d637d513dec4c0875edc85add74a7812
+    time: 1425921542
   /works/spreads/archive/index.html:
     md5: bd872bcb07418676dcbe12d706b1ae50
     time: 1425860900
@@ -266,50 +266,53 @@ inventory:
     md5: 2df5ccb0e2396a5e2f7e31342cb56536
     time: 1425860900
   /works/spreads/tags/phillip-t-annand/index.html:
-    md5: 2ee7cd8bc8a162a08abbd0702bd7af13
-    time: 1425921478
-  /works/spreads/tags/foster-huntington/index.html:
-    md5: b932341a248e0c2dd1669bb33c396d91
-    time: 1425921478
+    md5: 97801e8996f430da45273de9d105dd74
+    time: 1425921543
   /works/spreads/tags/ellington-hammond/index.html:
-    md5: 5863de2d4b10a108d2ece5386c9f321f
-    time: 1425921478
+    md5: 108bb06b33babd72e97621ad75c4617e
+    time: 1425921543
   /works/spreads/tags/matthew-trammell/index.html:
-    md5: b87e937f5ae0f827e5e3bf1d50ca8d53
-    time: 1425921478
+    md5: 024b1f1ec4b1409150f9717c7b0cff70
+    time: 1425921543
   /works/spreads/tags/marcus-arman/index.html:
-    md5: 95723dec83e8f682b16bb987efac367c
-    time: 1425921478
+    md5: 6e71fac4a533a272e8dc6ecf2c127ec5
+    time: 1425921543
   /works/spreads/tags/sam-rosen/index.html:
-    md5: 7c74107452dedd40876119f14c5abf1c
-    time: 1425921478
+    md5: d7fd95217651eba8af6022d693445bec
+    time: 1425921543
   /works/spreads/tags/madbury-music/index.html:
-    md5: 493f6aa609094dbe1a707abb0dd1bfb0
-    time: 1425921478
+    md5: 021beef550c3ce5767276a72129acce0
+    time: 1425921543
   /works/spreads/tags/bryan-stevenson/index.html:
-    md5: d5bad76a253d89fb8f5e42ef963327d0
-    time: 1425921479
+    md5: d1ed5756e451dfedbe129780bc5f40c9
+    time: 1425921543
   /works/spreads/tags/adrian-carter/index.html:
-    md5: 138b83f3035ce8fe8f926b8075d7aa1a
-    time: 1425921479
+    md5: 7eb059a0842c75ff49c60e6f5588108a
+    time: 1425921543
+  /works/spreads/tags/foster-huntington/index.html:
+    md5: b0df2f2c0d24d2f2943dda617e58e514
+    time: 1425921543
   /works/spreads/tags/matty/index.html:
-    md5: 1a19cb235c1b994e01e0c0ffb522ca16
-    time: 1425921479
+    md5: 027f3452c4d589ba32c59e2e6f9ba467
+    time: 1425921543
   /works/spreads/tags/hyun-kim/index.html:
-    md5: 6014fc06fde0eb26984b5cab5515f927
-    time: 1425921479
+    md5: 54b1f0abdf74d23be82587d07510e91e
+    time: 1425921543
   /works/spreads/tags/vincent-picone/index.html:
-    md5: 874f41b0238fd8898c117959ce2e763c
-    time: 1425921479
+    md5: 81c81e79a246b066fc739fb49b2b81e2
+    time: 1425921543
   /works/spreads/tags/trammell/index.html:
-    md5: 0340fdee7ecf64f957f539d1f1c33f4b
-    time: 1425921479
+    md5: 54696ce226d6f7481d75da288e1011ce
+    time: 1425921543
   /works/spreads/set/index.html:
     md5: 0d935f78572ad48a44a67eac79cbb29d
     time: 1425860900
   /works/spreads/set/archives/index.html:
     md5: 9a84ef36edc545e78e36f079830a34ed
     time: 1425754133
+  /works/spreads/tag-set-name/index.html:
+    md5: 2bc3b6b4d285d7515966db3722e34324
+    time: 1425921544
   /CNAME:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
@@ -317,8 +320,8 @@ inventory:
     md5: abe9f6f1aba0418e2f0b1bb034c5014f
     time: 1425864102
   /feed.xml:
-    md5: de1676dbf87707c414a562bae7f4b0e9
-    time: 1425921479
+    md5: bce9a53bf22119c6237590951ef92bc5
+    time: 1425921544
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
