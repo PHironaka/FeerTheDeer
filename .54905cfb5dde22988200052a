@@ -1,5 +1,5 @@
 ---
-time: 1425860911
+time: 1425860957
 inventory:
   /index/index.html:
     md5: 705174402beffca6fdea8456b2fdb9c8
@@ -47,8 +47,8 @@ inventory:
     md5: 5f247d06a87948b15ccdda2c0f6f5bba
     time: 1425833243
   /works/archive/index.html:
-    md5: 2892a52437341ad3650885fe30f9bb53
-    time: 1425860893
+    md5: 9e5dda4e70e3b57a43a9720247754a54
+    time: 1425860949
   /works/tags/index.html:
     md5: 2f68342a9d1e8070313290a237fb8965
     time: 1425703457
@@ -137,8 +137,8 @@ inventory:
     md5: 4e8649531137bcc67a75f43d40103dfc
     time: 1425860895
   /the-club/marcus-arman/index.html:
-    md5: 3b2034740eeaf1cabb4e4a2c224f9ee6
-    time: 1425860896
+    md5: c8080797511a53668de932a89c1f8e9e
+    time: 1425860952
   /the-club/peter-hironaka/index.html:
     md5: 05a88d0ca7cfeacb5b6870b14e883b46
     time: 1425860896
@@ -155,8 +155,8 @@ inventory:
     md5: 156ee565b7e67fec312b63592152d122
     time: 1425860897
   /the-club/phillip-t-annand/index.html:
-    md5: ee5b0637f82bc14e1b7eaf45e87a017b
-    time: 1425860898
+    md5: 1a1fed10615c1005d5b913af29bc81b6
+    time: 1425860954
   /the-club/bryan-stevenson/index.html:
     md5: b8c09778e15aea08cec78e48ace754f7
     time: 1425860898
@@ -221,14 +221,14 @@ inventory:
     md5: af9fcaadbd7a03046b9e112f1fc77130
     time: 1425833248
   /works/spreads/fresh-produce-casey-veggies-and-peas-carrots-international/index.html:
-    md5: eb80e28004dcf1e70902e913fe810ed3
-    time: 1425860899
+    md5: 7d978792aa79538b3f665405f7495fd0
+    time: 1425860955
   /works/spreads/crab-chowder-and-conversation-with-chip-tha-ripper/index.html:
-    md5: dd0297691bff6e92b0e47af52703a56c
-    time: 1425860900
+    md5: 55dc9ac14e5bc33bf568a249755e14b1
+    time: 1425860956
   /works/spreads/there-goes-the-neighborhood-tyler-the-creator-interview/index.html:
-    md5: 19a9691410a2c7ceea74c2856e065dd6
-    time: 1425860900
+    md5: e704603255b46728fea4efdffc03a20f
+    time: 1425860956
   /works/spreads/archive/index.html:
     md5: bd872bcb07418676dcbe12d706b1ae50
     time: 1425860900
@@ -260,8 +260,8 @@ inventory:
     md5: b3e943153f618d2f867cbd5abfa4ece8
     time: 1425835989
   /feed.xml:
-    md5: b2326536c97c701f6bac3b760af351d8
-    time: 1425860900
+    md5: 4392d70d62edcc012ac25691afa41b32
+    time: 1425860956
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
