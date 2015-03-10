@@ -1,12 +1,12 @@
 ---
-time: 1426006292
+time: 1426006391
 inventory:
   /index/index.html:
-    md5: d6db87af00f9cabb374fe899724d6e20
-    time: 1426005349
+    md5: 53bda64f54b90cce38b7529f07995a0d
+    time: 1426006369
   /index.html:
-    md5: d6db87af00f9cabb374fe899724d6e20
-    time: 1426005349
+    md5: 53bda64f54b90cce38b7529f07995a0d
+    time: 1426006369
   /works/index.html:
     md5: 6eccde0f3c8a2bd94a873ca5d8042689
     time: 1426003766
@@ -59,8 +59,8 @@ inventory:
     md5: 4293b647fa0c91c208d6064a33ab4caa
     time: 1426003769
   /works/archive/index.html:
-    md5: f751016217fd0334f9f20315b6e41652
-    time: 1426005352
+    md5: 603486f706e3f780dc948b1d1bde8bdf
+    time: 1426006373
   /works/tags/index.html:
     md5: c0cef4252b03429a6eb42221a9ed4b8b
     time: 1425937035
@@ -146,32 +146,32 @@ inventory:
     md5: 0b793e3e9882f0d55ff65696d35706b1
     time: 1426005821
   /the-club/hyun-kim/index.html:
-    md5: 75008ae2ebc57e2cfb5c3ade2b496a07
-    time: 1426005354
+    md5: 4aae8f94935bf9ac83d39f76060c697e
+    time: 1426006375
   /the-club/marcus-arman/index.html:
-    md5: 71b809d3dd9eeb638a0691b30e5ad394
-    time: 1426005355
+    md5: eeda7a6d72279bc75a46e32da0c247b4
+    time: 1426006375
   /the-club/peter-hironaka/index.html:
-    md5: a5523af721a29ba8e0610798926a0d78
-    time: 1426005355
+    md5: fcc0b8e8cb30f68ca93900a1f7ff94ec
+    time: 1426006376
   /the-club/darryl-richardson/index.html:
-    md5: b2fa6d3e8c6010851ef7d7185d0cd43e
-    time: 1426005355
+    md5: 781b8313ad9261c303319e2f886ec1b8
+    time: 1426006376
   /the-club/ellington-hammond/index.html:
-    md5: bfff5a3dbc88fa8c6e55088bb3f45e15
-    time: 1426005356
+    md5: eda56485bfbc500ce98e087cfbeb27d9
+    time: 1426006377
   /the-club/vincent-picone/index.html:
-    md5: 464f5b28cc4c99847303d63d2aa1b2fc
-    time: 1426005824
+    md5: 45d8c99057157e32b2f7cba224067b51
+    time: 1426006378
   /the-club/tone/index.html:
-    md5: a49b87d10c4aee80d69571cde1925a4a
-    time: 1426005357
+    md5: 08d5198abb0ae3007d06cc62cf4215b5
+    time: 1426006378
   /the-club/phillip-t-annand/index.html:
-    md5: fd5fa316ad1d5274f43d7fcb3d516e8a
-    time: 1426005359
+    md5: da74a2f5d3360b57793141bc8cf85d8f
+    time: 1426006380
   /the-club/bryan-stevenson/index.html:
-    md5: ec0eb506f2a849c7bce8f94f5f9f2d00
-    time: 1426005360
+    md5: d7a96ab346cb67cf27e413c9437051bb
+    time: 1426006381
   /the-club/archive/index.html:
     md5: 5f61f55107975b4d5d32d87f7236e399
     time: 1426005360
@@ -347,8 +347,8 @@ inventory:
     md5: f4b448c1f39a26c6918a633b190dd270
     time: 1426004790
   /feed.xml:
-    md5: 9c08b893faec663c815e0e805d8f1317
-    time: 1426006291
+    md5: 4d1361a93f072a7ca033de953bd6cf67
+    time: 1426006388
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
