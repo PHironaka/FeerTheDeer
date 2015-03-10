@@ -1,5 +1,5 @@
 ---
-time: 1426008929
+time: 1426009536
 inventory:
   /index/index.html:
     md5: ac5a03058ebf08c53310403bdea89e9d
@@ -52,6 +52,9 @@ inventory:
   /works/native-shoes-1/index.html:
     md5: b4182dbe0cfc0335ddef225b3332c883
     time: 1426008756
+  /works/flatbush-zombies-mraz-music-video/index.html:
+    md5: 99b37b00d149f5d17e796c646db69659
+    time: 1426009516
   /works/chazebralope/index.html:
     md5: fc729b966e1e722739ef04d1bc609948
     time: 1426008756
@@ -62,8 +65,8 @@ inventory:
     md5: 98f439aaa65dc06eb9d65dc09ada9ded
     time: 1426008757
   /works/archive/index.html:
-    md5: 0cfd2652de7c07cf11b73a00fb05f691
-    time: 1426008913
+    md5: df41d86d6f1b8b3db559ac029401c790
+    time: 1426009517
   /works/tags/index.html:
     md5: c0cef4252b03429a6eb42221a9ed4b8b
     time: 1425937035
@@ -152,38 +155,38 @@ inventory:
     md5: 0b793e3e9882f0d55ff65696d35706b1
     time: 1426005821
   /the-club/hyun-kim/index.html:
-    md5: 262eecfce2386c42c728500fdbcae3d4
-    time: 1426008915
+    md5: 637568fe513fa9cde6b7bcde765a6147
+    time: 1426009520
   /the-club/marcus-arman/index.html:
-    md5: 6104043c50b81ca06a49fd6702ae66f5
-    time: 1426008714
+    md5: 268004584890fe0b790a506b05b42bbe
+    time: 1426009520
   /the-club/peter-hironaka/index.html:
-    md5: f3cf3bf514ede2afa542cd8d6deedd44
-    time: 1426008760
+    md5: 6c58bf344818f17460b48396001d9ed2
+    time: 1426009520
   /the-club/darryl-richardson/index.html:
-    md5: 957672bdea23db7384f8ac4c7e77bba6
-    time: 1426008760
+    md5: 4eb5eaa287b0313c1270f886e6a3b393
+    time: 1426009520
   /the-club/ellington-hammond/index.html:
-    md5: 717453695b612eb5de4cc5ee47d41b3e
-    time: 1426008761
+    md5: a0d9602a61f0d1c0fac6411d6f73664f
+    time: 1426009521
   /the-club/vincent-picone/index.html:
-    md5: 121bc07f887ff44ae6c62d87a540a5ca
-    time: 1426008918
+    md5: d967a8a9b8b71505008ceb34e4e62202
+    time: 1426009522
   /the-club/tone/index.html:
-    md5: 51f15d6637e6d86e540d16485717ac69
-    time: 1426008918
+    md5: de3db4f57006f6ba4fde2721fda98e02
+    time: 1426009523
   /the-club/phillip-t-annand/index.html:
-    md5: 107cdb16a288e4cdb90a4bddc79959c0
-    time: 1426008921
+    md5: 5622cc564e73c9c95bbfa1520cd3465a
+    time: 1426009525
   /the-club/bryan-stevenson/index.html:
-    md5: e133660b1ba2f9ed62645b565d04f873
-    time: 1426008765
+    md5: 794883f6d3ffb82a5f3405854651405d
+    time: 1426009525
   /the-club/archive/index.html:
-    md5: 0f0156b286f16916a92bded8ef520818
-    time: 1426008720
+    md5: 62034f5146d56a61dccf9d77167eecb0
+    time: 1426009526
   /the-club/tags/index.html:
-    md5: b097ef5fbc655725c26be1a43d64280a
-    time: 1426008720
+    md5: 6c06ac2c5d7fbd5e21a67ade62b61c1d
+    time: 1426009526
   /factory/index.html:
     md5: dc4c8435f68e8e93e2d44e8454283741
     time: 1425937042
@@ -350,11 +353,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: 3e7f31b7c2f3338d1b344f4f7c4ea9c7
-    time: 1426008927
+    md5: 5092a97aec2d5ab6a57d438c9c5fdc13
+    time: 1426009532
   /feed.xml:
-    md5: 6e4d6491f6f41523e3e64debfa6ae5ca
-    time: 1426008927
+    md5: 389702042738be31c578ab3070608903
+    time: 1426009532
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -610,6 +613,9 @@ inventory:
   /assets/1330533682phlomadbury1-1.jpg:
     md5: afe2fbbd01a7cfebd0d1844e5eab7a3c
     time: 1426007615
+  /assets/M3-1.jpg:
+    md5: 93170787b7c6e5dceed73e6d06fb6eac
+    time: 1426009532
   /assets/04_21.jpg:
     md5: cc1b7c83f09497ec37fca57d918e5994
     time: 1425588947
@@ -748,6 +754,9 @@ inventory:
   /assets/1330533690phlomadbury2-1.jpg:
     md5: 9d4064af0f0c8d0bace4c66ad5bceeb6
     time: 1426007615
+  /assets/M5-1.jpg:
+    md5: 77b351ab57e52a88723ee65c01383e18
+    time: 1426009532
   /assets/SR1.jpg:
     md5: 87ad18d7fa34d901ef1dedd223bd40e0
     time: 1425588954
@@ -871,6 +880,9 @@ inventory:
   /assets/1330533697phlomadbury3-1.jpg:
     md5: f22e67a6c48f17c81819615a5f743fe7
     time: 1426007615
+  /assets/M2-1.jpg:
+    md5: 7a10d2c92636c7a59684699b9decd08d
+    time: 1426009533
   /assets/SR4.jpg:
     md5: bca5272d307128b300470c7779160b55
     time: 1425588960
