@@ -15,12 +15,6 @@
   </url>
   
   <url>
-    <loc>http://tmc.siteleaf.net/works/sprint-presents-the-crossover</loc>
-    <lastmod>2015-03-10T17:31:27+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://tmc.siteleaf.net/works/native-shoes-cosmic-exploration-with-chet-brinkwater-presents-takara-bunyon</loc>
     <lastmod>2015-03-10T17:13:16+00:00</lastmod>
     <priority>0.5</priority>
@@ -83,6 +77,12 @@
   <url>
     <loc>http://tmc.siteleaf.net/works/2011-summer-retreat</loc>
     <lastmod>2015-03-08T02:38:47+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://tmc.siteleaf.net/works/sprint-presents-the-crossover</loc>
+    <lastmod>2015-03-10T17:32:32+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   
