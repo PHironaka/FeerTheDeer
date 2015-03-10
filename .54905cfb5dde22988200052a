@@ -1,5 +1,5 @@
 ---
-time: 1426003123
+time: 1426003450
 inventory:
   /index/index.html:
     md5: 55bf74ce4306d2edb6461e88a68667a1
@@ -11,8 +11,8 @@ inventory:
     md5: 6b314dd6ea6dc4ae4eda1d7e64c4a853
     time: 1426002696
   /works/chazebralope/index.html:
-    md5: 69ad388072e192c74c18affc6c9045b2
-    time: 1426003107
+    md5: 910a3dc18d21ff85713843b257e21cec
+    time: 1426003435
   /works/10-deep-lookbook/index.html:
     md5: 3cee6e15b2158100e69a59995133dd92
     time: 1426002697
@@ -341,11 +341,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: 92cb49ce4439acb87e2ff7f030cab3aa
-    time: 1426002714
+    md5: 7ebd6d376a5b83920b11874f2937f4c7
+    time: 1426003449
   /feed.xml:
-    md5: 342decc6bb5490e6f58292ec93a9588f
-    time: 1426003123
+    md5: ae7b04259237d3f7bcb4d4bb299ab007
+    time: 1426003449
   /assets/1335970966THERM6.jpg:
     md5: 4996027870db9e9b9d67d967a83921fb
     time: 1425588903
