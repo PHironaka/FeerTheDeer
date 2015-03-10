@@ -1,5 +1,5 @@
 ---
-time: 1426011690
+time: 1426015255
 inventory:
   /index/index.html:
     md5: a1d8cb9e5ef06a4a85b13b11597e459b
@@ -41,8 +41,8 @@ inventory:
     md5: ee3f88a740713c4a285b5799dd438216
     time: 1426008755
   /works/sprint-presents-the-crossover/index.html:
-    md5: 43fdf481d0359cdf1e632fe6ab19d589
-    time: 1426008911
+    md5: 4c4284f5106dc1729a76ad3e7cfae8c6
+    time: 1426015227
   /works/native-shoes-and-hypebeast-presents-benjamin-trollins/index.html:
     md5: 0541456eadb131f3aa43c64ee9a99922
     time: 1426008756
@@ -146,8 +146,8 @@ inventory:
     md5: 0b793e3e9882f0d55ff65696d35706b1
     time: 1426005821
   /the-club/hyun-kim/index.html:
-    md5: a656f2621e4236bf766b1f0c98d11f18
-    time: 1426010966
+    md5: ac9bd423e4fa1fe8017b5b86dc6926e4
+    time: 1426015234
   /the-club/marcus-arman/index.html:
     md5: c7e0629810bf9d5410fec02c61ceb94e
     time: 1426010016
@@ -161,14 +161,14 @@ inventory:
     md5: 49f8d12356e323021d3ab22dc86f2766
     time: 1426011569
   /the-club/vincent-picone/index.html:
-    md5: 055c4915a84836e3f7cbf2e686122973
-    time: 1426011570
+    md5: fecf9bcb400def9d38e0fcc91e44b562
+    time: 1426015237
   /the-club/tone/index.html:
-    md5: 850712e7c08c5503386ca684bc7239f6
-    time: 1426011571
+    md5: 88dde548c6cb34ac250fab4ab64bc9b4
+    time: 1426015238
   /the-club/phillip-t-annand/index.html:
-    md5: bc2baaf76f87e84a0abc30cad02e5312
-    time: 1426011574
+    md5: 6744160dc0d59f7245ac6ff7a18efc2d
+    time: 1426015240
   /the-club/bryan-stevenson/index.html:
     md5: f05c40019e992a93a702bf275af6d4ed
     time: 1426010022
@@ -350,8 +350,8 @@ inventory:
     md5: 8aabc3f24e1fac03ffa962fc9dd3321e
     time: 1426009600
   /feed.xml:
-    md5: 23c0debe3f25923e606f9aebc3ec1d97
-    time: 1426011690
+    md5: 8ea6e14e2a2048b8d0f9145b7bf4de34
+    time: 1426015253
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -613,6 +613,9 @@ inventory:
   /assets/VP_TMC_Native_TakaraBunyon_01.23.2015_0001.jpg:
     md5: 25d3ef325cd01fcd3767f61fa9eaa68b
     time: 1426011588
+  /assets/RoloScreenCap.jpg:
+    md5: 608c349648331c3d43fe1704f24ab2a9
+    time: 1426015253
   /assets/04_21.jpg:
     md5: cc1b7c83f09497ec37fca57d918e5994
     time: 1425588947
