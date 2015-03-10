@@ -1,5 +1,5 @@
 ---
-time: 1426010038
+time: 1426010201
 inventory:
   /index/index.html:
     md5: ac5a03058ebf08c53310403bdea89e9d
@@ -62,8 +62,8 @@ inventory:
     md5: 98f439aaa65dc06eb9d65dc09ada9ded
     time: 1426008757
   /works/archive/index.html:
-    md5: 3ab9f93e469bcf6e2b797b8a8058b1df
-    time: 1426010011
+    md5: cefc07ce093dfb72099de5c85fe420aa
+    time: 1426010176
   /works/tags/index.html:
     md5: c0cef4252b03429a6eb42221a9ed4b8b
     time: 1425937035
@@ -167,8 +167,8 @@ inventory:
     md5: 03a6b8f3128d297c178dc3dcaae204b2
     time: 1426010019
   /the-club/phillip-t-annand/index.html:
-    md5: edee4e328e8eb32b3f5dd61df4d132cb
-    time: 1426010021
+    md5: bc9df8fd4acc93bc95a1e2eff4430b17
+    time: 1426010187
   /the-club/bryan-stevenson/index.html:
     md5: f05c40019e992a93a702bf275af6d4ed
     time: 1426010022
@@ -272,8 +272,8 @@ inventory:
     md5: 3e09077a0ab2ec2d75b501b1c98f232a
     time: 1426005364
   /works/spreads/vintage-newera-philadelphia-eagles-cap/index.html:
-    md5: a12eb7207e9e31769cea86dce3866a56
-    time: 1426010029
+    md5: 25c117ff57a6d6c621acdaf7ca0bc06b
+    time: 1426010195
   /works/spreads/knocking-the-door-dom-kennedy/index.html:
     md5: 76196847217819c5d498737c544300df
     time: 1426005364
@@ -350,8 +350,8 @@ inventory:
     md5: 8aabc3f24e1fac03ffa962fc9dd3321e
     time: 1426009600
   /feed.xml:
-    md5: 3f240ad2779b3c17669df41601d92a58
-    time: 1426010033
+    md5: af5a96df4a49b713a2ef11cffc7e3e58
+    time: 1426010200
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
