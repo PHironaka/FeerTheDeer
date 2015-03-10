@@ -1,5 +1,5 @@
 ---
-time: 1426009536
+time: 1426009606
 inventory:
   /index/index.html:
     md5: ac5a03058ebf08c53310403bdea89e9d
@@ -37,9 +37,6 @@ inventory:
   /works/native-ss15-moon-mission/index.html:
     md5: 4197d92dc6d8839ea3f4362e6f63bf86
     time: 1426008755
-  /works/gravity/index.html:
-    md5: 0f0ecb42bcf8748c3cec077102313513
-    time: 1426008755
   /works/2011-summer-retreat/index.html:
     md5: ee3f88a740713c4a285b5799dd438216
     time: 1426008755
@@ -65,74 +62,68 @@ inventory:
     md5: 98f439aaa65dc06eb9d65dc09ada9ded
     time: 1426008757
   /works/archive/index.html:
-    md5: df41d86d6f1b8b3db559ac029401c790
-    time: 1426009517
+    md5: 9aca0acfc8e55682ea09bba45f972a73
+    time: 1426009583
   /works/tags/index.html:
     md5: c0cef4252b03429a6eb42221a9ed4b8b
     time: 1425937035
   /works/tags/phillip-t-annand/index.html:
-    md5: a44b7ccfd065292d8901bad8afdef5bc
-    time: 1426008757
+    md5: f158fb61cf2537bca8f5362adc457c91
+    time: 1426009583
   /works/tags/peter-hironaka/index.html:
-    md5: 1e7e212d09abfa52be77df5ee518991c
-    time: 1426008757
+    md5: 03f11272a2fe6e6925373f055171669c
+    time: 1426009583
   /works/tags/tone/index.html:
-    md5: ced7efe16922681e79539ab0bc1c3f5b
-    time: 1426008757
+    md5: 6ab25f660c5a91008b0f9adfcff6b43c
+    time: 1426009583
   /works/tags/ellington-hammond/index.html:
-    md5: 16414df6d9bd59b0a3fbacbac7a2e40e
-    time: 1426008757
+    md5: 48f6b23434af4724b9af7288279bd11d
+    time: 1426009583
   /works/tags/native/index.html:
-    md5: 674368374cbd5c26a489e2aae81ca484
-    time: 1426008757
+    md5: 0eace85dea254c63434fec92d89f87ca
+    time: 1426009584
   /works/tags/vincent-picone/index.html:
-    md5: a042fa09083c6afe7ba28ad9a7f840f2
-    time: 1426008757
+    md5: d33bcc8f25d189fc363bbc43d901c318
+    time: 1426009584
   /works/tags/darryl-richardson/index.html:
-    md5: f6ce68a17e884083937832360072a832
-    time: 1426008758
+    md5: 4a95ad81feba4f866f09e4436ca08f6c
+    time: 1426009584
   /works/tags/10-deep/index.html:
-    md5: c0ae6f971082b5161fe3472fb587b01e
-    time: 1426008758
+    md5: 854ac5a85a31a5b781d93e8da7e5822c
+    time: 1426009584
   /works/tags/works/index.html:
-    md5: 426e5d71f76ccce83da484c30f35b435
-    time: 1426008758
+    md5: 7203bca518ed12e0bdddf3d9d2708816
+    time: 1426009584
   /works/tags/nike/index.html:
-    md5: c977ab3de41ae6fdfdff6c14113c7ffd
-    time: 1426008758
+    md5: 8ca2f7435b1883ffbea7473ea9b8eb55
+    time: 1426009584
   /works/tags/bryan-stevenson/index.html:
-    md5: 4112476d4aea4466daf672131c637d98
-    time: 1426008758
+    md5: 1aa9ea071303102b4352db14e0fba7ef
+    time: 1426009584
   /works/tags/hyun-kim/index.html:
-    md5: c14b41c3bdd931d5961c7dca539f8086
-    time: 1426008758
+    md5: 627d6e8385112df4091c42d43603553c
+    time: 1426009584
   /works/tags/chukka/index.html:
-    md5: 7016b71ed50f9469e6767b33019075e4
-    time: 1426008758
+    md5: 713dcbfb5f9a3e8bf8956530ba753542
+    time: 1426009584
   /works/tags/colors/index.html:
-    md5: 8248d858054f0090d41909e178e03941
-    time: 1426008758
+    md5: dc55e0f2498db2e1be6a1c12deaa3d53
+    time: 1426009584
   /works/tags/polerstuff/index.html:
-    md5: 9ea5360a542814fe395b62f4a863670c
-    time: 1426008758
-  /works/tags/phillip-annand/index.html:
-    md5: 9e4a12127762bfda0c092e5aada2fe9e
-    time: 1426008758
-  /works/tags/ghits/index.html:
-    md5: 09e71482409c0af5ccf8a719f152af86
-    time: 1426008758
-  /works/tags/flatbush-zombies/index.html:
-    md5: 594bf26acd4bee3eecb0b5a917d7515e
-    time: 1426008758
+    md5: 8354056c032deaa65c3785d2dfaae9b2
+    time: 1426009584
   /works/tags/trammel/index.html:
-    md5: af2bac36c3579001b1f567773f12f91a
-    time: 1426008758
+    md5: 0bb511f5e3496481def6d21e6f5e8be7
+    time: 1426009584
   /works/tags/tmc-production/index.html:
-    md5: c1ec97a6549cd7124910366bab89b85c
-    time: 1426008758
+    md5: f11b50e42b00922e4cf1ada88a6cb20a
+    time: 1426009584
+  /works/tags/flatbush-zombies/index.html:
+    md5: 59cf423515dda0abea026f821a3f747c
+    time: 1426009584
   /works/tags/matty/index.html:
-    md5: bb4441cc0a3dece100caf785ed316ffb
-    time: 1426008758
+    md5: 0cf3702c0f331914a601c6a5f66e8850
+    time: 1426009584
   /works/set/index.html:
     md5: 2aa640ce7c4b418f2bca057c917309bc
     time: 1425937036
@@ -155,38 +146,38 @@ inventory:
     md5: 0b793e3e9882f0d55ff65696d35706b1
     time: 1426005821
   /the-club/hyun-kim/index.html:
-    md5: 637568fe513fa9cde6b7bcde765a6147
-    time: 1426009520
+    md5: 6ac20ec360017c739f206b569fdba3c2
+    time: 1426009586
   /the-club/marcus-arman/index.html:
-    md5: 268004584890fe0b790a506b05b42bbe
-    time: 1426009520
+    md5: 6104043c50b81ca06a49fd6702ae66f5
+    time: 1426009586
   /the-club/peter-hironaka/index.html:
-    md5: 6c58bf344818f17460b48396001d9ed2
-    time: 1426009520
+    md5: 8748bfeaad3118cb0732cea7b934741a
+    time: 1426009587
   /the-club/darryl-richardson/index.html:
-    md5: 4eb5eaa287b0313c1270f886e6a3b393
-    time: 1426009520
+    md5: 957672bdea23db7384f8ac4c7e77bba6
+    time: 1426009587
   /the-club/ellington-hammond/index.html:
-    md5: a0d9602a61f0d1c0fac6411d6f73664f
-    time: 1426009521
+    md5: b36e8d5f4ff403bfbd321c3534ac7d25
+    time: 1426009587
   /the-club/vincent-picone/index.html:
-    md5: d967a8a9b8b71505008ceb34e4e62202
-    time: 1426009522
+    md5: 90ebe39b66f6a6e4e4ec17cb6a8c6222
+    time: 1426009589
   /the-club/tone/index.html:
-    md5: de3db4f57006f6ba4fde2721fda98e02
-    time: 1426009523
+    md5: 814c056ab979c93efeef813dd90d6a62
+    time: 1426009589
   /the-club/phillip-t-annand/index.html:
-    md5: 5622cc564e73c9c95bbfa1520cd3465a
-    time: 1426009525
+    md5: 0d15a78187fe7af9a4381e7b485dcf38
+    time: 1426009592
   /the-club/bryan-stevenson/index.html:
-    md5: 794883f6d3ffb82a5f3405854651405d
-    time: 1426009525
+    md5: 6a045267c78e8a09b6e716133c0b1b09
+    time: 1426009592
   /the-club/archive/index.html:
-    md5: 62034f5146d56a61dccf9d77167eecb0
-    time: 1426009526
+    md5: 0f0156b286f16916a92bded8ef520818
+    time: 1426009593
   /the-club/tags/index.html:
-    md5: 6c06ac2c5d7fbd5e21a67ade62b61c1d
-    time: 1426009526
+    md5: b097ef5fbc655725c26be1a43d64280a
+    time: 1426009593
   /factory/index.html:
     md5: dc4c8435f68e8e93e2d44e8454283741
     time: 1425937042
@@ -353,11 +344,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: 5092a97aec2d5ab6a57d438c9c5fdc13
-    time: 1426009532
+    md5: 8aabc3f24e1fac03ffa962fc9dd3321e
+    time: 1426009600
   /feed.xml:
-    md5: 389702042738be31c578ab3070608903
-    time: 1426009532
+    md5: 42c248e507d7a7cdb4d2765dd7015f90
+    time: 1426009600
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
