@@ -3,7 +3,7 @@
   <channel>
     <title>The Madbury Club | Making Things Since 2088.</title>
     <link>http://tmc.siteleaf.net</link>
-    <pubDate>Wed, 11 Mar 2015 23:15:25 +0000</pubDate>
+    <pubDate>Wed, 11 Mar 2015 23:16:17 +0000</pubDate>
     
     <item>
       <title>Cosmic Exploration with Chet Brinkwater: Takara Bunyon</title>
@@ -156,15 +156,6 @@
     </item>
     
     <item>
-      <title>Holy Coast</title>
-      <link>http://tmc.siteleaf.net/works/holy-coast</link>
-      <pubDate>Sat, 17 Jan 2015 22:33:00 -0800</pubDate>
-      <author>Peter Hironaka</author>
-      <guid>http://tmc.siteleaf.net/works/holy-coast</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Native SS15 Moon Mission</title>
       <link>http://tmc.siteleaf.net/works/native-ss15-moon-mission</link>
       <pubDate>Sat, 17 Jan 2015 21:30:00 -0800</pubDate>
@@ -212,6 +203,16 @@
       <author>Peter Hironaka</author>
       <guid>http://tmc.siteleaf.net/works/native-shoes</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Nike Sportswear Air Collection</title>
+      <link>http://tmc.siteleaf.net/works/nike-air-collection</link>
+      <pubDate>Tue, 06 May 2014 09:58:00 -0700</pubDate>
+      <author>Peter Hironaka</author>
+      <guid>http://tmc.siteleaf.net/works/nike-air-collection</guid>
+      <description>&lt;iframe src=&quot;https://player.vimeo.com/video/104048071?title=0&amp;byline=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</description>
     </item>
     
   </channel>
