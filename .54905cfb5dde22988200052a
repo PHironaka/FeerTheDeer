@@ -1,5 +1,5 @@
 ---
-time: 1426112549
+time: 1426112607
 inventory:
   /index/index.html:
     md5: 16c2ffced7c80f34b788e2d713de0374
@@ -41,8 +41,8 @@ inventory:
     md5: 2cbbd5691f96085c6904b93acf4dc70b
     time: 1426111822
   /works/nike-air-max-day-2014/index.html:
-    md5: a357880ca3ed26e462643b116109d4d1
-    time: 1426112522
+    md5: ce231f733e4ba1558b734178b573760a
+    time: 1426112583
   /works/sprint-presents-the-crossover/index.html:
     md5: 676bb9aea22b889279eede44da4d2e60
     time: 1426111822
@@ -71,8 +71,8 @@ inventory:
     md5: b2524118464df668bc117169c3e0fc7a
     time: 1426111824
   /works/archive/index.html:
-    md5: 83c85e969c3ee72e1b7c15b74e51d094
-    time: 1426112525
+    md5: 074809a8826d506d866b201a65ce596e
+    time: 1426112586
   /works/tags/index.html:
     md5: c0cef4252b03429a6eb42221a9ed4b8b
     time: 1425937035
@@ -161,8 +161,8 @@ inventory:
     md5: a1584a44a093d7cc640de2da1a1756ab
     time: 1426112528
   /the-club/peter-hironaka/index.html:
-    md5: 4d81e6e81d89ff1ebc75702684279faa
-    time: 1426112528
+    md5: a721fe2772ca6d29c974809d04506a46
+    time: 1426112590
   /the-club/darryl-richardson/index.html:
     md5: be1e4b9da5cdae083591e7bb87547ce3
     time: 1426112528
@@ -173,11 +173,11 @@ inventory:
     md5: 9bbcf3634b25cf610fc799d7e625ea34
     time: 1426112530
   /the-club/tone/index.html:
-    md5: 3453c70c742678c271c99429e4c85f55
-    time: 1426112531
+    md5: b92413aa6e675418d1cd9cce39c8c139
+    time: 1426112593
   /the-club/phillip-t-annand/index.html:
-    md5: c8a929f6c9c9482e2d72a246ea2153bf
-    time: 1426112534
+    md5: a2201e9d6c3d19782e18702e341fe985
+    time: 1426112596
   /the-club/bryan-stevenson/index.html:
     md5: db0569422348b2764c18357e479493dc
     time: 1426112534
@@ -356,11 +356,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: 5b848ebfffd99eb1266d27359c10a600
-    time: 1426112544
+    md5: f6c9faeb57cd40b3a789d71dcc53bf67
+    time: 1426112605
   /feed.xml:
-    md5: 0fdf2e55d6d33ba25f43d96a7b36da5e
-    time: 1426112544
+    md5: a1888f22569d744b4a7e9b776617ed1f
+    time: 1426112605
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
