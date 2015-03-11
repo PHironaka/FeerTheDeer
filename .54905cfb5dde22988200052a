@@ -1,5 +1,5 @@
 ---
-time: 1426113596
+time: 1426113666
 inventory:
   /index/index.html:
     md5: 16c2ffced7c80f34b788e2d713de0374
@@ -41,8 +41,8 @@ inventory:
     md5: 2cbbd5691f96085c6904b93acf4dc70b
     time: 1426111822
   /works/nike-air-max-day-2014/index.html:
-    md5: 43f9708dd3771986a392cc75d23602df
-    time: 1426113562
+    md5: 0f1ac3b454b9226e1397bfd16faef8b6
+    time: 1426113645
   /works/sprint-presents-the-crossover/index.html:
     md5: 676bb9aea22b889279eede44da4d2e60
     time: 1426111822
@@ -359,8 +359,8 @@ inventory:
     md5: 1c09b59aed617f8984ed79562ff488ef
     time: 1426113297
   /feed.xml:
-    md5: a5437022fb2ba2c030c631aa9adde156
-    time: 1426113595
+    md5: 27a2f020e0ccc55dc6d2045900a64f0f
+    time: 1426113665
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -805,9 +805,6 @@ inventory:
   /assets/TONE_2013_TMC_PingPongAd_019.jpg:
     md5: b8ac8eadab9119f116af458ecd6ec61f
     time: 1426111724
-  /assets/2014_TMC_AirMaxInsta_034.jpg:
-    md5: 2c6d51d9452310feaae562e20b1db3e0
-    time: 1426112544
   /assets/SR1.jpg:
     md5: 87ad18d7fa34d901ef1dedd223bd40e0
     time: 1425588954
