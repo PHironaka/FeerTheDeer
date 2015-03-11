@@ -1,5 +1,5 @@
 ---
-time: 1426115045
+time: 1426115150
 inventory:
   /index/index.html:
     md5: 16c2ffced7c80f34b788e2d713de0374
@@ -170,8 +170,8 @@ inventory:
     md5: 8f7c6211d2db05b66b79829b65dc12fb
     time: 1426115020
   /the-club/darryl-richardson/index.html:
-    md5: 82172a309033cbe10141c14ac08836c1
-    time: 1426115020
+    md5: bfef85f465b8565e8c2cb81a5e92ec44
+    time: 1426115133
   /the-club/ellington-hammond/index.html:
     md5: 5c6dd388b6ec2f2ef204ae40bb9a7896
     time: 1426115021
@@ -362,11 +362,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: e48aa48c043f73ba2aad5c404c72a09c
-    time: 1426115036
+    md5: 8e2fc425068e47879706c024fea60b10
+    time: 1426115150
   /feed.xml:
-    md5: a99b90937c950cda9e037dbbd1bd5b23
-    time: 1426115036
+    md5: cc09f6457c55dd3562b896f1ebe219db
+    time: 1426115150
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
