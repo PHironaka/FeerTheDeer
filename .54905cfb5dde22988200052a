@@ -1,5 +1,5 @@
 ---
-time: 1426115482
+time: 1426115729
 inventory:
   /index/index.html:
     md5: 16c2ffced7c80f34b788e2d713de0374
@@ -8,8 +8,8 @@ inventory:
     md5: 16c2ffced7c80f34b788e2d713de0374
     time: 1426115011
   /works/index.html:
-    md5: 7d1137bb8bcf942ed7c52925848ecc1a
-    time: 1426115012
+    md5: f7325f4e0e5bcceec715e186274ed5e4
+    time: 1426115700
   /works/native-shoes-cosmic-exploration-with-chet-brinkwater-presents-takara-bunyon/index.html:
     md5: e354369c3e571632b549fca6822cc715
     time: 1426115012
@@ -25,9 +25,9 @@ inventory:
   /works/nike-basketball-instagram/index.html:
     md5: 3f489ae9a6345f329af04d2aa157bdc4
     time: 1426115013
-  /works/holy-coast-1/index.html:
+  /works/holy-coast/index.html:
     md5: eed4929dad0befcc9a76300eaeca4687
-    time: 1426115013
+    time: 1426115702
   /works/native-ss15-moon-mission/index.html:
     md5: 6e3e68615d7ecdf2b5a17da37dfb8b8a
     time: 1426115013
@@ -65,8 +65,8 @@ inventory:
     md5: 09215d1a74e8ed1b5fcef019ad3085bb
     time: 1426115016
   /works/chazebralope/index.html:
-    md5: ca901a427c04a01263c5e851b74a2731
-    time: 1426115016
+    md5: bb8a7ae739cc4993c3d6c2d3e25d1ce8
+    time: 1426115704
   /works/gourmet-footwear-fall-winter-2013/index.html:
     md5: 587cad32a388f38b140c8b8834ddde1b
     time: 1426115016
@@ -77,8 +77,8 @@ inventory:
     md5: b2524118464df668bc117169c3e0fc7a
     time: 1426115016
   /works/archive/index.html:
-    md5: 98fd049566492da0609f4f4d6c3d56ee
-    time: 1426115017
+    md5: 32be4a16913a6abb2d77f9da645dbd2b
+    time: 1426115705
   /works/tags/index.html:
     md5: c0cef4252b03429a6eb42221a9ed4b8b
     time: 1425937035
@@ -173,8 +173,8 @@ inventory:
     md5: bfef85f465b8565e8c2cb81a5e92ec44
     time: 1426115133
   /the-club/ellington-hammond/index.html:
-    md5: 5c6dd388b6ec2f2ef204ae40bb9a7896
-    time: 1426115021
+    md5: d1d263ac9084175b89998057826d74ca
+    time: 1426115710
   /the-club/vincent-picone/index.html:
     md5: 436fd359efb27632a37ce0ba9644e25b
     time: 1426115023
@@ -182,11 +182,11 @@ inventory:
     md5: a2cdc7be0296f99568450af52a87e63e
     time: 1426115024
   /the-club/phillip-t-annand/index.html:
-    md5: 4566e75deba1595846b043711af27c24
-    time: 1426115027
+    md5: ccbd8f30b7b360a4b503750b6814f27a
+    time: 1426115716
   /the-club/bryan-stevenson/index.html:
-    md5: 32fd33888a882cb868c2ee7a50b977b6
-    time: 1426115028
+    md5: c4c9fe6a4fa9d2b1efd345fe4a72058b
+    time: 1426115717
   /the-club/archive/index.html:
     md5: 033398b36424d7374a4c0afc424f1072
     time: 1426114975
@@ -362,11 +362,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: 8e2fc425068e47879706c024fea60b10
-    time: 1426115150
+    md5: 17b76de7be2ef49d9fa0e8e603dd726e
+    time: 1426115725
   /feed.xml:
-    md5: 06aaac7a0a48c8eba9dfe00c484a59be
-    time: 1426115482
+    md5: 0bcb0a3a65b1a236c9480c16705da2d7
+    time: 1426115725
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -925,9 +925,6 @@ inventory:
   /assets/10963979_603764283056817_1704226655_n.jpg:
     md5: cba576a92096ddc555964009543bd36c
     time: 1425942260
-  /assets/chaz_crew_001.jpg:
-    md5: 694eb6c11630a9796a938c500c3d75c2
-    time: 1426002715
   /assets/1335970936THERM3.jpg:
     md5: b58b99d4936b23af401712e7bbd31b57
     time: 1426004753
@@ -967,6 +964,9 @@ inventory:
   /assets/TONE_2013_2013_TMC_NSW_May17_707.jpg:
     md5: 6d6bd2554818f541d25965658b1d7d57
     time: 1426114984
+  /assets/TONE_2013_PumaEditorail_012-4.jpg:
+    md5: bf6376dc305e1084ae1e15d801fe9c45
+    time: 1426115726
   /assets/SR4.jpg:
     md5: bca5272d307128b300470c7779160b55
     time: 1425588960
@@ -1093,6 +1093,9 @@ inventory:
   /assets/TONE_2013_2013_TMC_NSW_May17_122.jpg:
     md5: 31023d863d13dbf20efa39e2cd97b48b
     time: 1426114984
+  /assets/TONE_2013_PumaEditorail_105-2.jpg:
+    md5: fe6115baa5cc751be99e8c53d7522e7c
+    time: 1426115726
   /assets/03_23.jpg:
     md5: a98886cf798911ae3d2a6c5e21ea32f0
     time: 1425588964
@@ -1210,6 +1213,9 @@ inventory:
   /assets/TMCNSW2.jpg:
     md5: cf9c8025b329638ed2964f70bb7d8123
     time: 1426114985
+  /assets/TONE_2013_PumaEditorail_106-2.jpg:
+    md5: 70e9382853e4655209079d57bef68496
+    time: 1426115726
   /assets/SR6.jpg:
     md5: 6357cc5b528337bd3e6b1e5694cb2519
     time: 1425588970
@@ -1297,6 +1303,9 @@ inventory:
   /assets/145001WIJ6.jpg:
     md5: 9c1c3ca2b85af75f88cf567c915b05f2
     time: 1425938063
+  /assets/chaz_crew_001.jpg:
+    md5: 694eb6c11630a9796a938c500c3d75c2
+    time: 1426002715
   /assets/1335970966THERM6.jpg:
     md5: 4e2474d0d824160b879e7640bb6bbb0d
     time: 1426004754
