@@ -1,5 +1,5 @@
 ---
-time: 1426113226
+time: 1426113299
 inventory:
   /index/index.html:
     md5: 16c2ffced7c80f34b788e2d713de0374
@@ -41,8 +41,8 @@ inventory:
     md5: 2cbbd5691f96085c6904b93acf4dc70b
     time: 1426111822
   /works/nike-air-max-day-2014/index.html:
-    md5: bb149402751bc2ceceb02878fb764074
-    time: 1426113209
+    md5: 8f43e4ef7cd4daa0c056c6a194ae3e84
+    time: 1426113262
   /works/sprint-presents-the-crossover/index.html:
     md5: 676bb9aea22b889279eede44da4d2e60
     time: 1426111822
@@ -71,8 +71,8 @@ inventory:
     md5: b2524118464df668bc117169c3e0fc7a
     time: 1426111824
   /works/archive/index.html:
-    md5: 70c867be4f18ed62ee416fc216555b9e
-    time: 1426113125
+    md5: babbac69d726a022e8aaa16cbdf8b627
+    time: 1426113266
   /works/tags/index.html:
     md5: c0cef4252b03429a6eb42221a9ed4b8b
     time: 1425937035
@@ -161,23 +161,23 @@ inventory:
     md5: a1584a44a093d7cc640de2da1a1756ab
     time: 1426112528
   /the-club/peter-hironaka/index.html:
-    md5: 5e7f5a7457c15f2ab36b892105fa2530
-    time: 1426113128
+    md5: 7e2bb67b3f72e4c26b5d9e0db504f0a2
+    time: 1426113273
   /the-club/darryl-richardson/index.html:
     md5: be1e4b9da5cdae083591e7bb87547ce3
     time: 1426112528
   /the-club/ellington-hammond/index.html:
-    md5: 1933cb668d593676bc217bffea824e4c
-    time: 1426113215
+    md5: 2b76bf9251d16341ce8b9051891cd57b
+    time: 1426113275
   /the-club/vincent-picone/index.html:
-    md5: ec492e59a301625eb3219e9b6bfea2c3
-    time: 1426113216
+    md5: 44cd55f47cd92f54a42c005297b378b2
+    time: 1426113277
   /the-club/tone/index.html:
-    md5: 549152e641eb64273a3268cf8001eabf
-    time: 1426113131
+    md5: c1235c8fdca5b9913b3d673f0ea418c6
+    time: 1426113278
   /the-club/phillip-t-annand/index.html:
-    md5: e39012008dca0ee13f1958238acaa2d8
-    time: 1426113134
+    md5: e69428084134d72bbc6444ae837fbc3c
+    time: 1426113282
   /the-club/bryan-stevenson/index.html:
     md5: db0569422348b2764c18357e479493dc
     time: 1426112534
@@ -356,11 +356,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: ea2f5b07a83fbb200bf0fccfeb96ff39
-    time: 1426113225
+    md5: 1c09b59aed617f8984ed79562ff488ef
+    time: 1426113297
   /feed.xml:
-    md5: a0b0c3268701cbc0012065fc5c840ffd
-    time: 1426113225
+    md5: aa9f64526f7a2cbe5c9b5da554560c70
+    time: 1426113297
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
