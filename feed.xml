@@ -3,7 +3,7 @@
   <channel>
     <title>The Madbury Club | Making Things Since 2088.</title>
     <link>http://tmc.siteleaf.net</link>
-    <pubDate>Wed, 11 Mar 2015 22:42:44 +0000</pubDate>
+    <pubDate>Wed, 11 Mar 2015 22:45:44 +0000</pubDate>
     
     <item>
       <title>Cosmic Exploration with Chet Brinkwater: Takara Bunyon</title>
@@ -50,15 +50,6 @@
       <guid>http://tmc.siteleaf.net/works/nike-air-collection</guid>
       <description>&lt;iframe src=&quot;https://player.vimeo.com/video/104048071?title=0&amp;byline=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Native Shoes Social Program</title>
-      <link>http://tmc.siteleaf.net/works/native-shoes</link>
-      <pubDate>Thu, 05 Mar 2015 17:32:00 -0800</pubDate>
-      <author>Peter Hironaka</author>
-      <guid>http://tmc.siteleaf.net/works/native-shoes</guid>
-      <description></description>
     </item>
     
     <item>
@@ -213,6 +204,15 @@
       <pubDate>Tue, 30 Dec 2014 22:29:00 -0800</pubDate>
       <author>Peter Hironaka</author>
       <guid>http://tmc.siteleaf.net/works/2011-summer-retreat</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Native Shoes Social Program</title>
+      <link>http://tmc.siteleaf.net/works/native-shoes</link>
+      <pubDate>Sat, 05 Jul 2014 17:32:00 -0700</pubDate>
+      <author>Peter Hironaka</author>
+      <guid>http://tmc.siteleaf.net/works/native-shoes</guid>
       <description></description>
     </item>
     
