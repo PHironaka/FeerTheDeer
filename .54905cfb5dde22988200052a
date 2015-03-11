@@ -1,18 +1,18 @@
 ---
-time: 1426111733
+time: 1426111773
 inventory:
   /index/index.html:
-    md5: bbd7f08d6ad04b5ce6085318dd704f32
-    time: 1426111697
+    md5: 88590e9c97d4abbd12b21c134c467db6
+    time: 1426111745
   /index.html:
-    md5: bbd7f08d6ad04b5ce6085318dd704f32
-    time: 1426111697
+    md5: 88590e9c97d4abbd12b21c134c467db6
+    time: 1426111745
   /works/index.html:
     md5: 911ca7d5e212c92eb9b34b45e7f2bf7a
     time: 1426111697
   /works/tmc-challenge-court/index.html:
-    md5: 41df40ebb10be577c5a757144e8afa6b
-    time: 1426111697
+    md5: c3d83669983df79548fb9648476a7487
+    time: 1426111746
   /works/native-shoes-cosmic-exploration-with-chet-brinkwater-presents-takara-bunyon/index.html:
     md5: b7c31ae9c9cda02e41cd8a2b3fb47f48
     time: 1426111697
@@ -68,68 +68,68 @@ inventory:
     md5: 4c74fb36861d6f13c95bed3111dc5781
     time: 1426111701
   /works/archive/index.html:
-    md5: a4550a0eef3ca0a90dd2b647929ed7c1
-    time: 1426111702
+    md5: 94cea2a8f1824de8cd9611e9556ca1f5
+    time: 1426111750
   /works/tags/index.html:
     md5: c0cef4252b03429a6eb42221a9ed4b8b
     time: 1425937035
   /works/tags/phillip-t-annand/index.html:
-    md5: f158fb61cf2537bca8f5362adc457c91
-    time: 1426009583
-  /works/tags/peter-hironaka/index.html:
-    md5: 03f11272a2fe6e6925373f055171669c
-    time: 1426009583
-  /works/tags/tone/index.html:
-    md5: 6ab25f660c5a91008b0f9adfcff6b43c
-    time: 1426009583
-  /works/tags/ellington-hammond/index.html:
-    md5: 48f6b23434af4724b9af7288279bd11d
-    time: 1426009583
-  /works/tags/native/index.html:
-    md5: 0eace85dea254c63434fec92d89f87ca
-    time: 1426009584
-  /works/tags/vincent-picone/index.html:
-    md5: d33bcc8f25d189fc363bbc43d901c318
-    time: 1426009584
-  /works/tags/darryl-richardson/index.html:
-    md5: 4a95ad81feba4f866f09e4436ca08f6c
-    time: 1426009584
-  /works/tags/10-deep/index.html:
-    md5: 854ac5a85a31a5b781d93e8da7e5822c
-    time: 1426009584
-  /works/tags/works/index.html:
-    md5: 7203bca518ed12e0bdddf3d9d2708816
-    time: 1426009584
-  /works/tags/nike/index.html:
-    md5: 8ca2f7435b1883ffbea7473ea9b8eb55
-    time: 1426009584
+    md5: f338b2d4daf0932016e5195f9c7f8c30
+    time: 1426111750
   /works/tags/bryan-stevenson/index.html:
-    md5: 1aa9ea071303102b4352db14e0fba7ef
-    time: 1426009584
-  /works/tags/hyun-kim/index.html:
-    md5: 627d6e8385112df4091c42d43603553c
-    time: 1426009584
-  /works/tags/chukka/index.html:
-    md5: 713dcbfb5f9a3e8bf8956530ba753542
-    time: 1426009584
-  /works/tags/colors/index.html:
-    md5: dc55e0f2498db2e1be6a1c12deaa3d53
-    time: 1426009584
-  /works/tags/polerstuff/index.html:
-    md5: 8354056c032deaa65c3785d2dfaae9b2
-    time: 1426009584
-  /works/tags/trammel/index.html:
-    md5: 0bb511f5e3496481def6d21e6f5e8be7
-    time: 1426009584
+    md5: a79c422685592b1df525c9f67abd9199
+    time: 1426111750
+  /works/tags/tone/index.html:
+    md5: 65a0784a644bd31efb417cf345ff5493
+    time: 1426111750
   /works/tags/tmc-production/index.html:
-    md5: f11b50e42b00922e4cf1ada88a6cb20a
-    time: 1426009584
+    md5: 390ac32ea891f43bb91e0beccda6498e
+    time: 1426111750
+  /works/tags/peter-hironaka/index.html:
+    md5: 03b91c399a67e47a164dbcc1597b8784
+    time: 1426111750
+  /works/tags/ellington-hammond/index.html:
+    md5: 81365ac07c8e4ee2593d852d44a143f5
+    time: 1426111751
+  /works/tags/native/index.html:
+    md5: b0f20f2844b542080530031a938bf704
+    time: 1426111751
+  /works/tags/vincent-picone/index.html:
+    md5: b0d9f531c6f509d8e241dfae973efb56
+    time: 1426111751
+  /works/tags/darryl-richardson/index.html:
+    md5: 0eefb3fca372bdfbfdf1073f0099fcb7
+    time: 1426111751
+  /works/tags/10-deep/index.html:
+    md5: 44ed6e904100fc13bad163f5187b908f
+    time: 1426111751
+  /works/tags/works/index.html:
+    md5: 7b94af38057e747df638f30a1bfe2a7a
+    time: 1426111751
+  /works/tags/nike/index.html:
+    md5: ff82b82d1c51ce2cac3df7cfe000e884
+    time: 1426111751
+  /works/tags/hyun-kim/index.html:
+    md5: ab3b5396636f39f6cfe192f68fd66964
+    time: 1426111751
+  /works/tags/chukka/index.html:
+    md5: 7e4feda44f93b19b5e520659b39aef16
+    time: 1426111751
+  /works/tags/colors/index.html:
+    md5: 2675bba7c1c644b676b46993439881fd
+    time: 1426111751
+  /works/tags/polerstuff/index.html:
+    md5: 7233356d135a1b26da72e2e27e8d6a27
+    time: 1426111751
+  /works/tags/trammel/index.html:
+    md5: d28b487b5b9f3a955e4bef53b08b8106
+    time: 1426111751
   /works/tags/flatbush-zombies/index.html:
-    md5: 59cf423515dda0abea026f821a3f747c
-    time: 1426009584
+    md5: 06ef0697481e759ea504e61654c19b90
+    time: 1426111751
   /works/tags/matty/index.html:
-    md5: 0cf3702c0f331914a601c6a5f66e8850
-    time: 1426009584
+    md5: 9d627f89aeed8341a865597236caba41
+    time: 1426111752
   /works/set/index.html:
     md5: 2aa640ce7c4b418f2bca057c917309bc
     time: 1425937036
@@ -170,14 +170,14 @@ inventory:
     md5: 18e303fc516ca88b3a4aba95237ae35b
     time: 1426111708
   /the-club/tone/index.html:
-    md5: 566be6a3750beebd4e2da53b6009717b
-    time: 1426111708
+    md5: 748e9939bc16728ac8fa93a241f9920a
+    time: 1426111756
   /the-club/phillip-t-annand/index.html:
-    md5: 85e87194420500f99721522fea143c72
-    time: 1426111711
+    md5: efe6c083a0733f0470cf72a678f4e3d9
+    time: 1426111760
   /the-club/bryan-stevenson/index.html:
-    md5: 749fee6f68602923dcb33d03f9a29ce4
-    time: 1426111711
+    md5: e8d0951b73c2bcae818c924602722ccd
+    time: 1426111760
   /the-club/archive/index.html:
     md5: 6c54aac030e0653e982c9e0f0ec05547
     time: 1426111712
@@ -353,11 +353,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: ad59a2c1717f50b8a7a47fb49be25d51
-    time: 1426111719
+    md5: ac049bd284a87bd46f2f738edab91471
+    time: 1426111768
   /feed.xml:
-    md5: 78a0dda359779ead5df2bbf874665ed1
-    time: 1426111719
+    md5: c4c249336a71a8330de03ab5d6dc773d
+    time: 1426111768
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
