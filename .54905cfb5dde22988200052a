@@ -1,5 +1,5 @@
 ---
-time: 1426050664
+time: 1426090410
 inventory:
   /index/index.html:
     md5: 16c2ffced7c80f34b788e2d713de0374
@@ -55,6 +55,9 @@ inventory:
   /works/chazebralope/index.html:
     md5: ca901a427c04a01263c5e851b74a2731
     time: 1426050644
+  /works/gourmet-footwear-fall-winter-2013/index.html:
+    md5: 587cad32a388f38b140c8b8834ddde1b
+    time: 1426090390
   /works/thermonuclear-spring-2012-lookbook/index.html:
     md5: 827716e4a1852dd83209352ae6077572
     time: 1426050644
@@ -62,8 +65,8 @@ inventory:
     md5: b2524118464df668bc117169c3e0fc7a
     time: 1426050644
   /works/archive/index.html:
-    md5: 5e1c87652ec8d3d5c645cf8d2ec7461d
-    time: 1426050644
+    md5: 17713ea3dd804ec4ad339d7853e031b3
+    time: 1426090391
   /works/tags/index.html:
     md5: c0cef4252b03429a6eb42221a9ed4b8b
     time: 1425937035
@@ -146,38 +149,38 @@ inventory:
     md5: 0b793e3e9882f0d55ff65696d35706b1
     time: 1426005821
   /the-club/hyun-kim/index.html:
-    md5: 1e53338c478be19c979425fafb6da44d
-    time: 1426050095
+    md5: 8a772d787b0f542ff5cb94782f043b25
+    time: 1426090394
   /the-club/marcus-arman/index.html:
-    md5: c7e0629810bf9d5410fec02c61ceb94e
-    time: 1426010016
+    md5: aac9fc2e9c2550dbb7eb01e4a5c9d856
+    time: 1426090394
   /the-club/peter-hironaka/index.html:
-    md5: 653012b40d248957644e22d452a726b9
-    time: 1426050647
+    md5: 75e519c03de8e38ce5c103d691c4e297
+    time: 1426090394
   /the-club/darryl-richardson/index.html:
-    md5: 0a2438ab562ac9294a01b54b1e0c073e
-    time: 1426049490
+    md5: 756b6d24d3cf7271f51ff702096e47d3
+    time: 1426090394
   /the-club/ellington-hammond/index.html:
-    md5: 9aa0f7c3d441454099f25357511d1f07
-    time: 1426050648
+    md5: 36a45a2532b0a34b1119ce4c7edacfb4
+    time: 1426090395
   /the-club/vincent-picone/index.html:
-    md5: f7bb80f025bc77a9c6033046aaeeb04c
-    time: 1426050649
+    md5: 3ab631a4a5ab34c9ff8cca5765370467
+    time: 1426090396
   /the-club/tone/index.html:
-    md5: 3a0eff225c61504215dc796202e41a53
-    time: 1426050650
+    md5: 63b12e4f9a45433dc2877706a7cdd3dd
+    time: 1426090397
   /the-club/phillip-t-annand/index.html:
-    md5: 63262ee6382e92ca3e387c446ea9e3f7
-    time: 1426050652
+    md5: 2c672f34881a24ef716e2fbfdf2b789e
+    time: 1426090399
   /the-club/bryan-stevenson/index.html:
-    md5: 55a75106bc2cf7e43ddc29cf2fb8c0d7
-    time: 1426050100
+    md5: b430c2dd3ce4890dc66b546a417eb097
+    time: 1426090399
   /the-club/archive/index.html:
-    md5: 62034f5146d56a61dccf9d77167eecb0
-    time: 1426010022
+    md5: bac22b4d5c0d02dafa04707f8f8b2630
+    time: 1426090400
   /the-club/tags/index.html:
-    md5: 6c06ac2c5d7fbd5e21a67ade62b61c1d
-    time: 1426010022
+    md5: 9b869023c700e815b29669e798084935
+    time: 1426090400
   /factory/index.html:
     md5: dc4c8435f68e8e93e2d44e8454283741
     time: 1425937042
@@ -347,11 +350,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: ee9b6d1ec9192dd115ba36fc0150e18b
-    time: 1426050659
+    md5: 9f935a7a6027496b522fab58fea2059c
+    time: 1426090405
   /feed.xml:
-    md5: 3476c2df33f450125356738aec88f8d9
-    time: 1426050659
+    md5: 9657eee364e812a7470df7e9d97ec3bc
+    time: 1426090406
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -616,6 +619,9 @@ inventory:
   /assets/RoloScreenCap.jpg:
     md5: 608c349648331c3d43fe1704f24ab2a9
     time: 1426015253
+  /assets/Gourmet1MadburyClub.jpg:
+    md5: 28ff3bc211f41bc749ecb8bb6c2cf232
+    time: 1426090406
   /assets/04_21.jpg:
     md5: cc1b7c83f09497ec37fca57d918e5994
     time: 1425588947
@@ -760,6 +766,9 @@ inventory:
   /assets/IMG_9162.jpg:
     md5: d76ff0f8a9e2431444a4c04cfda3f35f
     time: 1426011589
+  /assets/Gourmet8MadburyClub.jpg:
+    md5: d201e7223296e16cd462b33d4f0bc8ed
+    time: 1426090407
   /assets/SR1.jpg:
     md5: 87ad18d7fa34d901ef1dedd223bd40e0
     time: 1425588954
@@ -889,6 +898,9 @@ inventory:
   /assets/IMG_9390.jpg:
     md5: f05eb8b6638cbeb72be1d8c0fc55ca00
     time: 1426011589
+  /assets/Gourmet7MadburyClub.jpg:
+    md5: 23983b6cdb3dddab60683123c1319df0
+    time: 1426090407
   /assets/SR4.jpg:
     md5: bca5272d307128b300470c7779160b55
     time: 1425588960
@@ -1003,6 +1015,9 @@ inventory:
   /assets/VP_TMC_NSW_NikeAir_FinalEditEx_005.jpg:
     md5: 9673f4f39a8ff6d7094971e92ce8a8ba
     time: 1426010676
+  /assets/Gourmet5MadburyClub.jpg:
+    md5: b0eb7e6a0d2e79456dad24be227e42d8
+    time: 1426090407
   /assets/03_23.jpg:
     md5: a98886cf798911ae3d2a6c5e21ea32f0
     time: 1425588964
