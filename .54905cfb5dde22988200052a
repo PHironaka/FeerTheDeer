@@ -1,15 +1,15 @@
 ---
-time: 1426178766
+time: 1426179000
 inventory:
   /index/index.html:
-    md5: 74149414209fae3cce2588aec306b279
-    time: 1426178094
+    md5: 00b49587982a679994764ac33a187628
+    time: 1426178968
   /index.html:
-    md5: 74149414209fae3cce2588aec306b279
-    time: 1426178094
+    md5: 00b49587982a679994764ac33a187628
+    time: 1426178968
   /works/index.html:
-    md5: 71dda65aded7709d257c0b7438d498d5
-    time: 1426178094
+    md5: 8cf13f295eae0fd25b3008cd343884df
+    time: 1426178969
   /works/native-shoes-cosmic-exploration-with-chet-brinkwater-presents-takara-bunyon/index.html:
     md5: 517798f403f7d64713dd44ae57f54071
     time: 1426178094
@@ -17,8 +17,8 @@ inventory:
     md5: 08568a091d1446dc73131d0fcec50b14
     time: 1426178095
   /works/native-ss15-moon-mission/index.html:
-    md5: 382705ea37ee677963b652c6f0973930
-    time: 1426178735
+    md5: af4b962183202a4ed1e4832ba3962123
+    time: 1426178969
   /works/nike-basketball-instagram/index.html:
     md5: c71bd343db2ca365a02cee79ac3ecc49
     time: 1426178095
@@ -176,8 +176,8 @@ inventory:
     md5: 93841c37b23a3e8ba593d2813144b4b8
     time: 1426174533
   /the-club/peter-hironaka/index.html:
-    md5: 1af61c7ff7e7534d02a7d2dfebb4834d
-    time: 1426178104
+    md5: ae4ee2c322fdb75a2e19b6b3d7647114
+    time: 1426178979
   /the-club/darryl-richardson/index.html:
     md5: 271ba86c52366d2d4d4133f1564780e2
     time: 1426174534
@@ -185,17 +185,17 @@ inventory:
     md5: fa5b66ccaa257808b800231ab094ef19
     time: 1426174535
   /the-club/vincent-picone/index.html:
-    md5: 0aab33cfbe2f685a2be59fb341d88588
-    time: 1426178107
+    md5: 3858a88cb6db4eaa0de930ebee8b0afa
+    time: 1426178983
   /the-club/tone/index.html:
-    md5: 90b19496e4d82d0b3664806d54f98c69
-    time: 1426178108
+    md5: 3d728e030e7815822a797e7de7c8673f
+    time: 1426178984
   /the-club/phillip-t-annand/index.html:
-    md5: 95953acc17ae2aebeae3a6728848c677
-    time: 1426178112
+    md5: 0a5dfd0c320bcd8601d94b626f875326
+    time: 1426178988
   /the-club/bryan-stevenson/index.html:
-    md5: ef598d51d3d14872f0c2edcbdc3642fd
-    time: 1426178113
+    md5: 8c7b98629d223eb6cb01dc4fd7a2d33e
+    time: 1426178989
   /the-club/archive/index.html:
     md5: 2ce6f8329289ff80be5853b5a3e512dc
     time: 1426174542
@@ -374,8 +374,8 @@ inventory:
     md5: 722018d0dac2bfd62db9b508d0421631
     time: 1426178121
   /feed.xml:
-    md5: 61eca1793fa6ff1977e78a1b9ae00ed4
-    time: 1426178764
+    md5: a61919297aafa167a2176f2d8b3a7d44
+    time: 1426178998
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -390,9 +390,6 @@ inventory:
     time: 1425588905
   /assets/M1.jpg:
     md5: 6921300e63e16735ccbc46253e82e6d0
-    time: 1425588906
-  /assets/2014_TMC_Tone_Native-SaltonSea-Apr05b_091.jpg:
-    md5: ceed294ab129bfa2055e37d7f9d3e052
     time: 1425588906
   /assets/h1.jpeg:
     md5: 599f57232d8ef41ca5a326178d145a00
