@@ -1,5 +1,5 @@
 ---
-time: 1426176111
+time: 1426176780
 inventory:
   /index/index.html:
     md5: 1f003f42a07e8e2a10f9f7db64269342
@@ -83,8 +83,8 @@ inventory:
     md5: f56b5dd02c2e82ce7ca302e57cae69b0
     time: 1426174779
   /works/archive/index.html:
-    md5: 6ad7053fd89efef4de069d9617bb705a
-    time: 1426174780
+    md5: 777587acddd2d20f2a1c83b2a993a1ad
+    time: 1426176759
   /works/tags/index.html:
     md5: 3ff8ac5cb1c15c7cb5d1abec0f590968
     time: 1426120324
@@ -191,8 +191,8 @@ inventory:
     md5: 9e624b886825587c2a8a2cbb9a5f668d
     time: 1426174537
   /the-club/phillip-t-annand/index.html:
-    md5: 7693b1799f146189d4ea1533fd70f475
-    time: 1426174794
+    md5: 489f758116121af0168f298de9cf6316
+    time: 1426176771
   /the-club/bryan-stevenson/index.html:
     md5: 2a767b55c2484e493c73c19d57dfecc0
     time: 1426174542
@@ -302,8 +302,8 @@ inventory:
     md5: a54e2f2eb6d1ee6c315074aebac2ae60
     time: 1426120343
   /works/spreads/the-madbury-club-presents-2010-autumn-lookbook/index.html:
-    md5: b10146a703e109fe5cb914e5311e47c6
-    time: 1426176107
+    md5: 86afffba991db3006e9658c165cd3c5c
+    time: 1426176777
   /works/spreads/the-brooklyn-circus-fall-holiday-made-in-america-2010-lookbook/index.html:
     md5: c46626722af8c38986d729d786a06c05
     time: 1426120343
@@ -374,8 +374,8 @@ inventory:
     md5: f4e62821186c6e7ba5de09c977c5ddf6
     time: 1426174806
   /feed.xml:
-    md5: 8ad27436543e5a3bce28d2f21ed35a00
-    time: 1426176110
+    md5: d8dd60eaacde8841dea180993a0a794d
+    time: 1426176779
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
