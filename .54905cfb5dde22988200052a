@@ -1,5 +1,5 @@
 ---
-time: 1426174807
+time: 1426176111
 inventory:
   /index/index.html:
     md5: 1f003f42a07e8e2a10f9f7db64269342
@@ -302,8 +302,8 @@ inventory:
     md5: a54e2f2eb6d1ee6c315074aebac2ae60
     time: 1426120343
   /works/spreads/the-madbury-club-presents-2010-autumn-lookbook/index.html:
-    md5: 333887fdefc65aa7e3fbd1c83b04ef87
-    time: 1426120343
+    md5: b10146a703e109fe5cb914e5311e47c6
+    time: 1426176107
   /works/spreads/the-brooklyn-circus-fall-holiday-made-in-america-2010-lookbook/index.html:
     md5: c46626722af8c38986d729d786a06c05
     time: 1426120343
@@ -374,8 +374,8 @@ inventory:
     md5: f4e62821186c6e7ba5de09c977c5ddf6
     time: 1426174806
   /feed.xml:
-    md5: 2926be2cf34ed67f615982259d1b1152
-    time: 1426174806
+    md5: 8ad27436543e5a3bce28d2f21ed35a00
+    time: 1426176110
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
