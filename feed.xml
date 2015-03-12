@@ -3,17 +3,7 @@
   <channel>
     <title>The Madbury Club | Making Things Since 2088.</title>
     <link>http://tmc.siteleaf.net</link>
-    <pubDate>Thu, 12 Mar 2015 17:47:32 +0000</pubDate>
-    
-    <item>
-      <title>Cosmic Exploration with Chet Brinkwater: Takara Bunyon</title>
-      <link>http://tmc.siteleaf.net/works/native-shoes-cosmic-exploration-with-chet-brinkwater-presents-takara-bunyon</link>
-      <pubDate>Mon, 09 Mar 2015 15:12:00 -0700</pubDate>
-      <author>Peter Hironaka</author>
-      <guid>http://tmc.siteleaf.net/works/native-shoes-cosmic-exploration-with-chet-brinkwater-presents-takara-bunyon</guid>
-      <description>&lt;iframe src=&quot;https://player.vimeo.com/video/121100396?autoplay=1&amp;title=0&amp;byline=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
+    <pubDate>Thu, 12 Mar 2015 17:49:01 +0000</pubDate>
     
     <item>
       <title>Nike SNKR App Launch</title>
@@ -219,6 +209,15 @@
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kz4junTnQe8?showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Native Shoes Technica Product</title>
+      <link>http://tmc.siteleaf.net/works/native-shoes-1</link>
+      <pubDate>Sun, 09 Mar 2014 11:18:00 -0700</pubDate>
+      <author>Peter Hironaka</author>
+      <guid>http://tmc.siteleaf.net/works/native-shoes-1</guid>
+      <description></description>
     </item>
     
   </channel>
