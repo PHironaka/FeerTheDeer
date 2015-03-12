@@ -1,5 +1,5 @@
 ---
-time: 1426174562
+time: 1426174807
 inventory:
   /index/index.html:
     md5: 1f003f42a07e8e2a10f9f7db64269342
@@ -80,11 +80,11 @@ inventory:
     md5: a461a27dc8c8b896947a06c9f3852928
     time: 1426120840
   /works/gourmet-footwear-spring-2011-collection/index.html:
-    md5: 3ffc0b6ecce3d092e62cd2c0b1b52161
-    time: 1426174529
+    md5: f56b5dd02c2e82ce7ca302e57cae69b0
+    time: 1426174779
   /works/archive/index.html:
-    md5: 141eb318598f9ca07d91aae668b53a1f
-    time: 1426174530
+    md5: 6ad7053fd89efef4de069d9617bb705a
+    time: 1426174780
   /works/tags/index.html:
     md5: 3ff8ac5cb1c15c7cb5d1abec0f590968
     time: 1426120324
@@ -185,14 +185,14 @@ inventory:
     md5: fa5b66ccaa257808b800231ab094ef19
     time: 1426174535
   /the-club/vincent-picone/index.html:
-    md5: 241c96150b7ae9f2906306e2542e2b0c
-    time: 1426174537
+    md5: 4541cf6f89519821a458f16d6d814b61
+    time: 1426174789
   /the-club/tone/index.html:
     md5: 9e624b886825587c2a8a2cbb9a5f668d
     time: 1426174537
   /the-club/phillip-t-annand/index.html:
-    md5: a1b512affd32dec3c777b66b55e23495
-    time: 1426174541
+    md5: 7693b1799f146189d4ea1533fd70f475
+    time: 1426174794
   /the-club/bryan-stevenson/index.html:
     md5: 2a767b55c2484e493c73c19d57dfecc0
     time: 1426174542
@@ -371,11 +371,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: d1aede02daed9f39ece66fb4a8238195
-    time: 1426174550
+    md5: f4e62821186c6e7ba5de09c977c5ddf6
+    time: 1426174806
   /feed.xml:
-    md5: 817e60f642819b9aa67be0de405569cc
-    time: 1426174550
+    md5: 2926be2cf34ed67f615982259d1b1152
+    time: 1426174806
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
