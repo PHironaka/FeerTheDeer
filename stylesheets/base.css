@@ -1135,52 +1135,63 @@ a.read-more {
     width: 100%;
   }
 
-  /* line 846, ../sass/modules/_global-styles.scss */
+  /* line 847, ../sass/modules/_global-styles.scss */
   .tmc-left-bio {
     width: 100%;
   }
 
-  /* line 851, ../sass/modules/_global-styles.scss */
+  /* line 852, ../sass/modules/_global-styles.scss */
   .roster-header {
     margin: 3em 0 1em 0;
   }
-  /* line 854, ../sass/modules/_global-styles.scss */
+  /* line 855, ../sass/modules/_global-styles.scss */
   .roster-header h1 {
     font-size: 3em;
   }
-  /* line 859, ../sass/modules/_global-styles.scss */
+  /* line 860, ../sass/modules/_global-styles.scss */
   .roster-header h2 {
     font-size: 2em;
   }
 
-  /* line 864, ../sass/modules/_global-styles.scss */
+  /* line 865, ../sass/modules/_global-styles.scss */
   #CDT {
     font-size: 2em;
   }
 }
 @media screen and (max-width: 460px) {
-  /* line 874, ../sass/modules/_global-styles.scss */
+  /* line 875, ../sass/modules/_global-styles.scss */
   .tmc-left-bio {
     float: left;
     margin-top: 0;
   }
 
-  /* line 879, ../sass/modules/_global-styles.scss */
+  /* line 880, ../sass/modules/_global-styles.scss */
+  .tmc-left img.works {
+    border-right: none;
+    padding-right: 0;
+  }
+
+  /* line 885, ../sass/modules/_global-styles.scss */
+  .flex-direction-nav {
+    display: none;
+  }
+
+  /* line 889, ../sass/modules/_global-styles.scss */
   .tmc-middle-bio {
     float: none;
   }
 
-  /* line 883, ../sass/modules/_global-styles.scss */
+  /* line 893, ../sass/modules/_global-styles.scss */
   .roster-header h1 {
     font-size: 2em;
   }
 
-  /* line 887, ../sass/modules/_global-styles.scss */
+  /* line 897, ../sass/modules/_global-styles.scss */
   .roster-header h2 {
     font-size: 1.5em;
   }
 
-  /* line 891, ../sass/modules/_global-styles.scss */
+  /* line 901, ../sass/modules/_global-styles.scss */
   #CDT {
     font-size: 1.5em;
   }
