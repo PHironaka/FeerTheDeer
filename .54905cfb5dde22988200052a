@@ -1,12 +1,12 @@
 ---
-time: 1426180048
+time: 1426180570
 inventory:
   /index/index.html:
-    md5: 00b49587982a679994764ac33a187628
-    time: 1426178968
+    md5: 19790cdd3f90fb3c3df0f148f5884129
+    time: 1426180542
   /index.html:
-    md5: 00b49587982a679994764ac33a187628
-    time: 1426178968
+    md5: 19790cdd3f90fb3c3df0f148f5884129
+    time: 1426180542
   /works/index.html:
     md5: 8cf13f295eae0fd25b3008cd343884df
     time: 1426178969
@@ -374,8 +374,8 @@ inventory:
     md5: 0032287070e3ff23222d0db9a262d150
     time: 1426179156
   /feed.xml:
-    md5: 5d35050adda9f9ed83c13000cd8ba281
-    time: 1426180047
+    md5: b5d94f0e3c6e6c184eeec30464d8d8e9
+    time: 1426180569
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -571,27 +571,18 @@ inventory:
   /assets/2013_TONE_FBZ_MBC_Jan21_Jan22_034.jpg:
     md5: fe29736d51ec4d367c60f01941d28000
     time: 1426116247
+  /assets/full.jpg:
+    md5: f7947ec9089d2ad5a6ac5e7dc139b0c8
+    time: 1426173559
+  /assets/GG1.jpg:
+    md5: 596acd7473fba84143b8e8bb9d26ee3e
+    time: 1426174550
+  /assets/4.jpg:
+    md5: c5d0f1544f79b1ddf8db707ec32b8873
+    time: 1426178764
   /config.ru:
     md5: af7025fab73b4511cdf1b5461875df06
     time: 1425754135
-  /fonts/PlayfairDisplay-Black.ttf:
-    md5: c319f35d410e42707a6dccdb45495b62
-    time: 1426120347
-  /fonts/PlayfairDisplay-BlackItalic.ttf:
-    md5: ff170d1fc66d943a847a70b4b74f4ed7
-    time: 1426120347
-  /fonts/PlayfairDisplay-Bold.ttf:
-    md5: 07b76bcd33a96bfc9a80100112e42024
-    time: 1426120348
-  /fonts/PlayfairDisplay-BoldItalic.ttf:
-    md5: b6ed9d8cacaecb4a833c76bbd72d87d7
-    time: 1426120348
-  /fonts/PlayfairDisplay-Italic.ttf:
-    md5: 6029087d8c825fcc107df0649ce206e2
-    time: 1426120348
-  /fonts/PlayfairDisplay-Regular.ttf:
-    md5: 6020254653122a64ef822674dba44485
-    time: 1426120349
   /Gemfile:
     md5: 4724f808f2642dd10cfe1d41a7fbfd6c
     time: 1425749665
@@ -634,6 +625,9 @@ inventory:
   /img/Stream_icon.png:
     md5: 88b84d1cc9493ecfa08e2843f2d4ce0c
     time: 1425588925
+  /img/stripe.png:
+    md5: 2172af1751fdde07d8d4b77533aca806
+    time: 1426180569
   /img/tmc-deeeer.png:
     md5: 9d2113dad84a5a993d6186acc6bb51d3
     time: 1425588925
@@ -689,20 +683,11 @@ inventory:
     md5: 43a0719cd6a7eef1fecff91f68b3ea61
     time: 1425930650
   /stylesheets/base.css:
-    md5: b2e0091cc0e9318527407d8fb329d1bb
-    time: 1426120349
+    md5: bd12592060a6b4d2722b2c038a9b88d1
+    time: 1426180569
   /stylesheets/reset.css:
     md5: 9d506627cfe1acf7458ce113ea66714b
     time: 1425930650
-  /assets/full.jpg:
-    md5: f7947ec9089d2ad5a6ac5e7dc139b0c8
-    time: 1426173559
-  /assets/GG1.jpg:
-    md5: 596acd7473fba84143b8e8bb9d26ee3e
-    time: 1426174550
-  /assets/4.jpg:
-    md5: c5d0f1544f79b1ddf8db707ec32b8873
-    time: 1426178764
   /assets/04_21.jpg:
     md5: cc1b7c83f09497ec37fca57d918e5994
     time: 1425588947
