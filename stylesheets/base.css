@@ -1846,6 +1846,10 @@ width:67.29137%
 width:96.52117%
 }
 
+.tmc-left-bio {
+border-right:none;
+}
+
 .tmc-left-bio h1 {
 font-style:italic;
 margin:1em 0;
@@ -1863,7 +1867,6 @@ float:left;
 display:block;
 margin-right:0;
 width:100%;
-border-left:0;
 padding-left:0
 }
 
