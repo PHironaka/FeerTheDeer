@@ -1,5 +1,5 @@
 ---
-time: 1426213431
+time: 1426213678
 inventory:
   /index/index.html:
     md5: 35be1d9b5d2afa3b12fa190c43bd5c4a
@@ -8,8 +8,8 @@ inventory:
     md5: 35be1d9b5d2afa3b12fa190c43bd5c4a
     time: 1426211779
   /works/index.html:
-    md5: 1ffdbf163ccfa0efc350c6527fbcd5d2
-    time: 1426213401
+    md5: a9197c646182f747cdc960b78656c81f
+    time: 1426213647
   /works/nike-snkr-app-launch/index.html:
     md5: 84246283f32c29b8de276532d1ecc6d4
     time: 1426211780
@@ -20,8 +20,8 @@ inventory:
     md5: dfe6dfaa9fdab0bdf813761d462d1872
     time: 1426211780
   /works/gap-styldby-campaign/index.html:
-    md5: 9e1473fec754028a2c2e290eff25dd4b
-    time: 1426213402
+    md5: da3918327c66ed27abafaf2ab5ebfd8e
+    time: 1426213648
   /works/10-deep-lookbook/index.html:
     md5: 83584ae0fec91f0ca30d3f9facdf3b76
     time: 1426213084
@@ -83,8 +83,8 @@ inventory:
     md5: bba8bb3c169224b73349ad26b9254eba
     time: 1426211786
   /works/archive/index.html:
-    md5: d898e08708bd26095df9be5783400961
-    time: 1426213407
+    md5: a3f44bacbfa2f678bbfdaee53f8424ce
+    time: 1426213653
   /works/tags/index.html:
     md5: 1ab9344b6532031ed74dfd2ab7227fee
     time: 1426181375
@@ -179,23 +179,23 @@ inventory:
     md5: fb405dc0ec9f5837c96bde78dce4e35d
     time: 1426213411
   /the-club/darryl-richardson/index.html:
-    md5: 1ee43c001ba4921b4a32cb25c2169b87
-    time: 1426213411
+    md5: 0f00ec62ab04d962232b56987d01475c
+    time: 1426213657
   /the-club/ellington-hammond/index.html:
     md5: 504b861108422799712bc637b62a78da
     time: 1426213412
   /the-club/vincent-picone/index.html:
-    md5: 9e589c9fd34b238c7a06e278bde5b600
-    time: 1426213414
+    md5: d6099401505662fc567ca8eefb16f0e3
+    time: 1426213659
   /the-club/tone/index.html:
-    md5: 637227933476eda50e7fab857e17830e
-    time: 1426213415
+    md5: 3be12ad49b36ae387973a0dcc8dd4e2d
+    time: 1426213660
   /the-club/phillip-t-annand/index.html:
-    md5: 3a2b2decb326f4f7c7228a7a5eb2f22b
-    time: 1426213419
+    md5: 5592bc24dc27339ae078d241992aba38
+    time: 1426213664
   /the-club/bryan-stevenson/index.html:
-    md5: e1bc76c3a1c951e635a7b97ec2567e11
-    time: 1426213419
+    md5: b6f4186e2ab5724622710455f042ba6a
+    time: 1426213664
   /the-club/archive/index.html:
     md5: 2c523342890c33ad2f36e235a7e91ae4
     time: 1426213420
@@ -371,11 +371,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: 5004c5cda64d1b9e52917cd6005551c4
-    time: 1426213428
+    md5: ee029cc1fba35ffa547bdb63c19f3a25
+    time: 1426213672
   /feed.xml:
-    md5: a470576cfa1ae193190e8a7584596816
-    time: 1426213428
+    md5: 990e9a2e0ef39619e56759fc50afcd60
+    time: 1426213672
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -688,6 +688,9 @@ inventory:
   /stylesheets/reset.css:
     md5: 9d506627cfe1acf7458ce113ea66714b
     time: 1425930650
+  /assets/tumblr_ngseonNYQP1qba77vo4_1280.jpg:
+    md5: f268e6ae89491e32e60741accf222edf
+    time: 1426213673
   /assets/04_21.jpg:
     md5: cc1b7c83f09497ec37fca57d918e5994
     time: 1425588947
@@ -850,6 +853,9 @@ inventory:
   /assets/GG2.jpg:
     md5: 9bfb9e87f196ec7e993acca49df9d0cf
     time: 1426174551
+  /assets/tumblr_ngseonNYQP1qba77vo6_1280.jpg:
+    md5: 29dec503fcb254d3c36de448c76b755f
+    time: 1426213673
   /assets/SR1.jpg:
     md5: 87ad18d7fa34d901ef1dedd223bd40e0
     time: 1425588954
@@ -1000,6 +1006,9 @@ inventory:
   /assets/1350948975AG 2.jpg:
     md5: 0bea2d67604f14efd8194d3476ac536d
     time: 1426179821
+  /assets/tumblr_ngseonNYQP1qba77vo2_1280.jpg:
+    md5: 91a662d36ac6d89c95eba481ab24c3a5
+    time: 1426213674
   /assets/SR4.jpg:
     md5: bca5272d307128b300470c7779160b55
     time: 1425588960
@@ -1135,6 +1144,9 @@ inventory:
   /assets/IG-MAN.jpg:
     md5: 9cac38dc81dfacdd227cf8d1213ffccb
     time: 1426178765
+  /assets/tumblr_nh1sytU2iV1qba77vo1_1280.jpg:
+    md5: e54d36edf6b8a58f16aba9390ae0c9af
+    time: 1426213674
   /assets/03_23.jpg:
     md5: a98886cf798911ae3d2a6c5e21ea32f0
     time: 1425588964
@@ -1261,6 +1273,9 @@ inventory:
   /assets/GG5.jpg:
     md5: 7724cbc1f33f035ea9bbc59efb96335b
     time: 1426174552
+  /assets/10882054_1593694954176228_1641240319_n.jpg:
+    md5: 6c32bd8257d43a4a6c0e3f067b699be3
+    time: 1426213674
   /assets/SR6.jpg:
     md5: 6357cc5b528337bd3e6b1e5694cb2519
     time: 1425588970
@@ -1375,6 +1390,9 @@ inventory:
   /assets/80s-bros.jpg:
     md5: 358153ed985ac9c0e248a8d9ee674a99
     time: 1426178526
+  /assets/10903208_320105558179488_1312821805_n.jpg:
+    md5: 86cb857a12a9fa2f1f479486032c5ad9
+    time: 1426213674
   /assets/SR7.jpg:
     md5: caf5d59e9432c0a29e1deadd1f31eb69
     time: 1425588972
