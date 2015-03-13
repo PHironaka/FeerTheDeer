@@ -1,5 +1,5 @@
 ---
-time: 1426208293
+time: 1426209010
 inventory:
   /index/index.html:
     md5: e9754a72197f56b8f5966414fdb6a101
@@ -59,8 +59,8 @@ inventory:
     md5: 2eb6650a3b6843ad9accc9df0ec0701f
     time: 1426207818
   /works/thermonuclear-spring-2012-lookbook/index.html:
-    md5: 3d92d1c00c71f08e73ff03f7fb335869
-    time: 1426207818
+    md5: 9921f29559d6f3d957386c90d45e0a67
+    time: 1426208977
   /works/intergalactic-travels-presents-bastards-in-belize/index.html:
     md5: 70cf7df4f5e9dd3369c30bc528528fc1
     time: 1426207818
@@ -80,8 +80,8 @@ inventory:
     md5: 479a7bb870cf6edb697879361b912fe5
     time: 1426207819
   /works/archive/index.html:
-    md5: 6d2b07ab550b88b2d2c61d865216bb49
-    time: 1426208262
+    md5: 49643168cd6b2de5d58e0fc02745a895
+    time: 1426208979
   /works/tags/index.html:
     md5: 1ab9344b6532031ed74dfd2ab7227fee
     time: 1426181375
@@ -182,17 +182,17 @@ inventory:
     md5: 014da4d247b5dfef2bc5c1391217f808
     time: 1426208270
   /the-club/vincent-picone/index.html:
-    md5: 4c246ed253d21fbff646b7c3924801d1
-    time: 1426208272
+    md5: 7a528493ee5702788639e58785b1293c
+    time: 1426208989
   /the-club/tone/index.html:
     md5: f08cad1a97d2dd1dcb73e563219f8ab3
     time: 1426208273
   /the-club/phillip-t-annand/index.html:
-    md5: aa2782c4457b3d5a1429f3b37f3c1c5a
-    time: 1426208276
+    md5: dc93d4177e0e95dd60f97d8f0e3b63cd
+    time: 1426208994
   /the-club/bryan-stevenson/index.html:
-    md5: fb50aa8fcfb4e51ac3f82aabe345063f
-    time: 1426208277
+    md5: 7e5f295c0ea0894b37348b25ce6d4ed2
+    time: 1426208994
   /the-club/archive/index.html:
     md5: a573551330f9b51bae06064326365c48
     time: 1426208278
@@ -368,11 +368,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: 4a358fc11f9e961df352cfb47aa6c8fe
-    time: 1426208291
+    md5: de6a4eb845a11607d50dbc9b3a4baa1f
+    time: 1426209009
   /feed.xml:
-    md5: 2ff7ec5ebee11674a85499ee94ebd465
-    time: 1426208291
+    md5: fae8085c07ff1446d03fc48a8a230b35
+    time: 1426209009
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
