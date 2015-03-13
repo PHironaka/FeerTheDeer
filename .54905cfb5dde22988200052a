@@ -1,5 +1,5 @@
 ---
-time: 1426213025
+time: 1426213111
 inventory:
   /index/index.html:
     md5: 35be1d9b5d2afa3b12fa190c43bd5c4a
@@ -20,8 +20,8 @@ inventory:
     md5: dfe6dfaa9fdab0bdf813761d462d1872
     time: 1426211780
   /works/10-deep-lookbook/index.html:
-    md5: dfd14ee953a82bdb2e52186005a5869a
-    time: 1426212999
+    md5: 83584ae0fec91f0ca30d3f9facdf3b76
+    time: 1426213084
   /works/native-shoes-and-hypebeast-presents-benjamin-trollins/index.html:
     md5: ee8cb1dc94bf29a8b0d4194212add128
     time: 1426211781
@@ -371,8 +371,8 @@ inventory:
     md5: a70fdd0279adb9e8411ceaf41653db45
     time: 1426213023
   /feed.xml:
-    md5: 9996e6300e420345b50392d1aeeec99f
-    time: 1426213023
+    md5: bcc509ab5b7e9385c3a0831f2c720403
+    time: 1426213111
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -1288,9 +1288,6 @@ inventory:
   /assets/MadburyNylon8.jpg:
     md5: 44e6db5f243cc8cfd674929f1aefc987
     time: 1425754142
-  /assets/tumblr_nfk08cASQd1qba77vo2_1280.jpg:
-    md5: 20dfb7add2bf7093381b156d4d907880
-    time: 1425833250
   /assets/1335588004MxC2.jpg:
     md5: 5b1c93ab6d7b801f469917a738544eb7
     time: 1425860902
