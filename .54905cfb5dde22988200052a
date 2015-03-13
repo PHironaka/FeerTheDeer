@@ -1,5 +1,5 @@
 ---
-time: 1426211826
+time: 1426211917
 inventory:
   /index/index.html:
     md5: 35be1d9b5d2afa3b12fa190c43bd5c4a
@@ -80,8 +80,8 @@ inventory:
     md5: bba8bb3c169224b73349ad26b9254eba
     time: 1426211786
   /works/archive/index.html:
-    md5: 10714c01bc9a45d17578c1aac3acfb37
-    time: 1426211787
+    md5: eff8445d91ba11464ea7922fccabc046
+    time: 1426211884
   /works/tags/index.html:
     md5: 1ab9344b6532031ed74dfd2ab7227fee
     time: 1426181375
@@ -170,8 +170,8 @@ inventory:
     md5: bfd990499fa0d1fb7fdddffca406a42f
     time: 1426211793
   /the-club/marcus-arman/index.html:
-    md5: 21165de1f02b6c053b7bb8dc3e769b71
-    time: 1426211793
+    md5: e4f6bb363a7533b787f49cf74d040258
+    time: 1426211891
   /the-club/peter-hironaka/index.html:
     md5: 81550f65de96bc37923b277b0747725b
     time: 1426211794
@@ -188,8 +188,8 @@ inventory:
     md5: 990104d4cdcc496cca11314d6610045c
     time: 1426211797
   /the-club/phillip-t-annand/index.html:
-    md5: 6f3ba160bfae70f1fdce7deb414290ec
-    time: 1426211801
+    md5: e58fd40996268daf02dcf4ad83c86b3b
+    time: 1426211899
   /the-club/bryan-stevenson/index.html:
     md5: 56b3ac5c8d3a698401f182d9b5df6c7b
     time: 1426211802
@@ -250,66 +250,66 @@ inventory:
   /works/spreads/index.html:
     md5: 854a7a12c18b53c4084910185805924e
     time: 1426211806
-  /works/spreads/philo-finister-youthquake/index.html:
-    md5: 5ec746c47b6a1ec3d2951127c5c8dbb3
-    time: 1426211807
+  /works/spreads/phlo-finister-youthquake/index.html:
+    md5: ca75a985396bdceafbbdecdcef66482d
+    time: 1426211904
   /works/spreads/watching-the-throne-presented-by-the-madbury-club/index.html:
-    md5: 2db7e6900edf70f1a282631d1eda2be2
-    time: 1426211807
+    md5: a71498650df1e7297ecaeae02c3cd5a8
+    time: 1426211904
   /works/spreads/sweaters-and-street-soliloquy-madbury-reviews-take-care/index.html:
-    md5: a266b13ab70dea5ae4fbbf4f5cb47c7e
-    time: 1426211807
+    md5: 51370b594c37fccff55023ab5ed069b7
+    time: 1426211904
   /works/spreads/calis-new-crop/index.html:
-    md5: e133a86feeb10ee436723d2e62a6bb07
-    time: 1426211808
+    md5: 590c80206a959455188545070f2518ec
+    time: 1426211905
   /works/spreads/winterized/index.html:
-    md5: f5a9b5140d78ead91a7c2903e6faf584
-    time: 1426211808
+    md5: 21e785bc3994eff439d0bda176a8114a
+    time: 1426211905
   /works/spreads/madbury-eats-xiao-ye/index.html:
-    md5: fb6af0fe188faec0223524b482afb433
-    time: 1426211808
+    md5: 28b2568e30e547cc0755b974ace91a83
+    time: 1426211905
   /works/spreads/madbury-club-street-style-volume-2/index.html:
-    md5: 86b8dc31c6e9b085940e2e589b73af34
-    time: 1426211809
+    md5: a688b89c561212b344aebe94fd8a40c6
+    time: 1426211906
   /works/spreads/the-madbury-club-does-project-las-vegas/index.html:
-    md5: 02b6cda8b6a1692f08a849b2566248e6
-    time: 1426211809
+    md5: 9199a12c7aff6ac0e6a46bee38022116
+    time: 1426211906
   /works/spreads/madbury-club-street-style-volume-4-the-dmv-edition/index.html:
-    md5: 8951159a4f13396b18a529491056f532
-    time: 1426211809
+    md5: 347c664a52ef28d5cd2142e1e54a842b
+    time: 1426211906
   /works/spreads/madbury-travels-series-1-issue-1-nicaragua/index.html:
-    md5: a814bac680b41421c9e168a74c42853c
-    time: 1426211810
+    md5: da3fb67b166fa58780e0bbc73a4afe76
+    time: 1426211906
   /works/spreads/the-2011-madburies-our-a-z-guide-for-the-year/index.html:
-    md5: 26ba6444ba709cfdd887f2bc30a2d3d2
-    time: 1426211810
+    md5: b93c25cee1d93de7715e431d21fcf427
+    time: 1426211907
   /works/spreads/asphalt-warriors/index.html:
-    md5: 5f9b0925e4f89f9988a576e9402faeb5
-    time: 1426211810
+    md5: 42368e84049b679095b2355ad0905d8d
+    time: 1426211907
   /works/spreads/the-air-jordan-flight-forum/index.html:
-    md5: d4a8f16b6e4b84d93d639cbf894e2ac1
-    time: 1426211811
+    md5: f8e21ca93e79587a6c6f642f81f9bdf4
+    time: 1426211908
   /works/spreads/fresh-produce-casey-veggies-and-peas-carrots-international/index.html:
-    md5: 995c28d9a106689657e957188254b573
-    time: 1426211811
+    md5: 573f33f52a1e4112fc51078d94601b85
+    time: 1426211908
   /works/spreads/knocking-the-door-dom-kennedy/index.html:
-    md5: 2e8f6d5bf9a2b1513896be15581e9271
-    time: 1426211811
+    md5: 5379d0f07648ea535686b4de9c3f8458
+    time: 1426211908
   /works/spreads/vintage-newera-philadelphia-eagles-cap/index.html:
-    md5: 2f8768302e4ba28546b1c7360071975b
-    time: 1426211812
+    md5: 2c9a91d62a5e3ca0e2499ff5739d867f
+    time: 1426211908
   /works/spreads/the-madbury-club-presents-2010-autumn-lookbook/index.html:
-    md5: e405d3ae0093bab85b49d63f22792a04
-    time: 1426211812
+    md5: c69ba6227a5aef8fcdad1e5746836520
+    time: 1426211909
   /works/spreads/the-brooklyn-circus-fall-holiday-made-in-america-2010-lookbook/index.html:
-    md5: 2ad27e44cf4d22a454386acfbbf5ce74
-    time: 1426211812
+    md5: a12c98458e13507e997ac393317540b7
+    time: 1426211909
   /works/spreads/crab-chowder-and-conversation-with-chip-tha-ripper/index.html:
-    md5: c7528371aafb0b756923b997eab8260e
-    time: 1426211813
+    md5: 783e5a31a2ff090ce6d51c6db8ec438e
+    time: 1426211909
   /works/spreads/there-goes-the-neighborhood-tyler-the-creator-interview/index.html:
-    md5: dbbbf76d131a0060f8a9a25d81c96c4f
-    time: 1426211813
+    md5: d0ef53cf5783bab0a2af796ca06121c5
+    time: 1426211910
   /works/spreads/archive/index.html:
     md5: 1c60e2fc8b5f4dea563f5e6419471624
     time: 1426181396
@@ -371,8 +371,8 @@ inventory:
     md5: d42de92ec08be08ff296685cd0a796a6
     time: 1426211816
   /feed.xml:
-    md5: c6441d3b7e01bdc12c70ee5d3ee8274a
-    time: 1426211817
+    md5: 38186b3b1b482073094c2c9b4ca24388
+    time: 1426211913
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
