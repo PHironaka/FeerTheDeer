@@ -1,5 +1,5 @@
 ---
-time: 1426214073
+time: 1426223659
 inventory:
   /index/index.html:
     md5: 35be1d9b5d2afa3b12fa190c43bd5c4a
@@ -8,8 +8,8 @@ inventory:
     md5: 35be1d9b5d2afa3b12fa190c43bd5c4a
     time: 1426211779
   /works/index.html:
-    md5: f2505299459f54ca6e504e83bb87a655
-    time: 1426213975
+    md5: 0ccdfda3eb9bd8030f1e53b523f1efa4
+    time: 1426223630
   /works/nike-snkr-app-launch/index.html:
     md5: 84246283f32c29b8de276532d1ecc6d4
     time: 1426211780
@@ -20,8 +20,8 @@ inventory:
     md5: dfe6dfaa9fdab0bdf813761d462d1872
     time: 1426211780
   /works/gap-styldby-campaign/index.html:
-    md5: c1b1f3695f4ac67c6a9fcd530d701bec
-    time: 1426214047
+    md5: 4d29a653c8252ba0e4b2f36dc64b0448
+    time: 1426223631
   /works/10-deep-lookbook/index.html:
     md5: 83584ae0fec91f0ca30d3f9facdf3b76
     time: 1426213084
@@ -83,8 +83,8 @@ inventory:
     md5: bba8bb3c169224b73349ad26b9254eba
     time: 1426211786
   /works/archive/index.html:
-    md5: a3f44bacbfa2f678bbfdaee53f8424ce
-    time: 1426213653
+    md5: c4078d7df0d9e0246f7e099f06265bdd
+    time: 1426223636
   /works/tags/index.html:
     md5: 1ab9344b6532031ed74dfd2ab7227fee
     time: 1426181375
@@ -179,23 +179,23 @@ inventory:
     md5: fb405dc0ec9f5837c96bde78dce4e35d
     time: 1426213411
   /the-club/darryl-richardson/index.html:
-    md5: deb49ed67c583538e581460bf5e7c3c4
-    time: 1426213983
+    md5: 46336f82f89a4079ed72fb4700f9d5e6
+    time: 1426223640
   /the-club/ellington-hammond/index.html:
     md5: 504b861108422799712bc637b62a78da
     time: 1426213412
   /the-club/vincent-picone/index.html:
-    md5: fc0f525e16076b01950ccf3dbac84202
-    time: 1426213985
+    md5: 8912dc4b013026391ba9de0f817cb3ff
+    time: 1426223643
   /the-club/tone/index.html:
-    md5: 530d9307e5495b4928a6f9b36bd2d1bd
-    time: 1426213986
+    md5: 96828aa71afddd2823b830cb5c38ca8b
+    time: 1426223644
   /the-club/phillip-t-annand/index.html:
-    md5: 007dc7ba2620eaae9781f90fe5cfbc8d
-    time: 1426213990
+    md5: 353e76b9b0823278b65011673d8ac3ce
+    time: 1426223648
   /the-club/bryan-stevenson/index.html:
-    md5: be282273e6475d340c828804b6d8aa75
-    time: 1426213990
+    md5: 918e22f60e312877b37dc0409a20d178
+    time: 1426223649
   /the-club/archive/index.html:
     md5: 2c523342890c33ad2f36e235a7e91ae4
     time: 1426213420
@@ -371,11 +371,11 @@ inventory:
     md5: de05e0ea10356e755507279ea996e9b6
     time: 1425588902
   /sitemap.xml:
-    md5: ee029cc1fba35ffa547bdb63c19f3a25
-    time: 1426213672
+    md5: 94b4fbe04d61e29060681ca724d3533e
+    time: 1426223658
   /feed.xml:
-    md5: 6ddd0e56a99eddff5b5e66812ee85e69
-    time: 1426214073
+    md5: 031c6d4719426368efb10dcd053fa7c2
+    time: 1426223658
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
