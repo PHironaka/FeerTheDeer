@@ -1,5 +1,5 @@
 ---
-time: 1426213678
+time: 1426213954
 inventory:
   /index/index.html:
     md5: 35be1d9b5d2afa3b12fa190c43bd5c4a
@@ -8,8 +8,8 @@ inventory:
     md5: 35be1d9b5d2afa3b12fa190c43bd5c4a
     time: 1426211779
   /works/index.html:
-    md5: a9197c646182f747cdc960b78656c81f
-    time: 1426213647
+    md5: 544af83dea44a436848af62744ebe3a0
+    time: 1426213928
   /works/nike-snkr-app-launch/index.html:
     md5: 84246283f32c29b8de276532d1ecc6d4
     time: 1426211780
@@ -20,8 +20,8 @@ inventory:
     md5: dfe6dfaa9fdab0bdf813761d462d1872
     time: 1426211780
   /works/gap-styldby-campaign/index.html:
-    md5: da3918327c66ed27abafaf2ab5ebfd8e
-    time: 1426213648
+    md5: f473ca8aa48cf5305bc7b7c706615f59
+    time: 1426213929
   /works/10-deep-lookbook/index.html:
     md5: 83584ae0fec91f0ca30d3f9facdf3b76
     time: 1426213084
@@ -179,23 +179,23 @@ inventory:
     md5: fb405dc0ec9f5837c96bde78dce4e35d
     time: 1426213411
   /the-club/darryl-richardson/index.html:
-    md5: 0f00ec62ab04d962232b56987d01475c
-    time: 1426213657
+    md5: 637ca9a9e37714f4f3cb35c9b24d7e3c
+    time: 1426213937
   /the-club/ellington-hammond/index.html:
     md5: 504b861108422799712bc637b62a78da
     time: 1426213412
   /the-club/vincent-picone/index.html:
-    md5: d6099401505662fc567ca8eefb16f0e3
-    time: 1426213659
+    md5: 4b869ff3582f271052a8b5dedb3c1244
+    time: 1426213940
   /the-club/tone/index.html:
-    md5: 3be12ad49b36ae387973a0dcc8dd4e2d
-    time: 1426213660
+    md5: 277a7f6caffe468d069a171ede20dbd2
+    time: 1426213941
   /the-club/phillip-t-annand/index.html:
-    md5: 5592bc24dc27339ae078d241992aba38
-    time: 1426213664
+    md5: f38d40308212a56815fb959c80046f35
+    time: 1426213944
   /the-club/bryan-stevenson/index.html:
-    md5: b6f4186e2ab5724622710455f042ba6a
-    time: 1426213664
+    md5: 480aa6e63b25d810f90a346daa2c04e8
+    time: 1426213945
   /the-club/archive/index.html:
     md5: 2c523342890c33ad2f36e235a7e91ae4
     time: 1426213420
@@ -374,8 +374,8 @@ inventory:
     md5: ee029cc1fba35ffa547bdb63c19f3a25
     time: 1426213672
   /feed.xml:
-    md5: 990e9a2e0ef39619e56759fc50afcd60
-    time: 1426213672
+    md5: 1975c3be70c50cd4f438dcad014915f5
+    time: 1426213953
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -688,8 +688,8 @@ inventory:
   /stylesheets/reset.css:
     md5: 9d506627cfe1acf7458ce113ea66714b
     time: 1425930650
-  /assets/tumblr_ngseonNYQP1qba77vo4_1280.jpg:
-    md5: f268e6ae89491e32e60741accf222edf
+  /assets/tumblr_ngseonNYQP1qba77vo6_1280.jpg:
+    md5: 29dec503fcb254d3c36de448c76b755f
     time: 1426213673
   /assets/04_21.jpg:
     md5: cc1b7c83f09497ec37fca57d918e5994
@@ -853,8 +853,8 @@ inventory:
   /assets/GG2.jpg:
     md5: 9bfb9e87f196ec7e993acca49df9d0cf
     time: 1426174551
-  /assets/tumblr_ngseonNYQP1qba77vo6_1280.jpg:
-    md5: 29dec503fcb254d3c36de448c76b755f
+  /assets/tumblr_ngseonNYQP1qba77vo4_1280.jpg:
+    md5: f268e6ae89491e32e60741accf222edf
     time: 1426213673
   /assets/SR1.jpg:
     md5: 87ad18d7fa34d901ef1dedd223bd40e0
