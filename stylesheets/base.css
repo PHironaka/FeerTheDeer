@@ -639,15 +639,15 @@ ul.bio {
 /* line 383, ../sass/modules/_global-styles.scss */
 .tmc-archives {
   float: left;
-  margin: 1em 0;
+  margin: 1em;
 }
-/* line 386, ../sass/modules/_global-styles.scss */
+/* line 387, ../sass/modules/_global-styles.scss */
 .tmc-archives p {
   width: 82.41059%;
   margin-top: 1em;
 }
 
-/* line 393, ../sass/modules/_global-styles.scss */
+/* line 394, ../sass/modules/_global-styles.scss */
 .tmc-right {
   float: left;
   display: block;
@@ -659,13 +659,13 @@ ul.bio {
 .tmc-right:last-child {
   margin-right: 0;
 }
-/* line 396, ../sass/modules/_global-styles.scss */
+/* line 397, ../sass/modules/_global-styles.scss */
 .tmc-right p {
   font-size: .9em;
   line-height: 1.5em;
 }
 
-/* line 402, ../sass/modules/_global-styles.scss */
+/* line 403, ../sass/modules/_global-styles.scss */
 .tmc-3 {
   display: inline-block;
   padding-right: 1.35765%;
@@ -673,19 +673,19 @@ ul.bio {
   margin: 1em 0 1.5em;
   vertical-align: top;
 }
-/* line 409, ../sass/modules/_global-styles.scss */
+/* line 410, ../sass/modules/_global-styles.scss */
 .tmc-3 h1 {
   font-style: italic;
   margin: 1em 0;
   font-size: 2.5em;
 }
 
-/* line 417, ../sass/modules/_global-styles.scss */
+/* line 418, ../sass/modules/_global-styles.scss */
 .tmc-bio-pic a {
   float: left;
 }
 
-/* line 422, ../sass/modules/_global-styles.scss */
+/* line 423, ../sass/modules/_global-styles.scss */
 .tmc-bio-pic a h2.name {
   font-size: 1.5em;
   margin: 8em 0;
@@ -694,7 +694,7 @@ ul.bio {
   opacity: 0;
 }
 
-/* line 432, ../sass/modules/_global-styles.scss */
+/* line 433, ../sass/modules/_global-styles.scss */
 li.tmc-bio-pic {
   width: -ms-calc(33.3333% - 16px);
   width: -moz-calc(33.3333% - 16px);
@@ -705,7 +705,7 @@ li.tmc-bio-pic {
   position: relative;
   float: left;
 }
-/* line 442, ../sass/modules/_global-styles.scss */
+/* line 443, ../sass/modules/_global-styles.scss */
 li.tmc-bio-pic .screen {
   left: 0;
   top: 0;
@@ -721,12 +721,12 @@ li.tmc-bio-pic .screen {
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
-/* line 457, ../sass/modules/_global-styles.scss */
+/* line 458, ../sass/modules/_global-styles.scss */
 li.tmc-bio-pic .screen:hover {
   opacity: .9;
   background-color: #ff7878;
 }
-/* line 462, ../sass/modules/_global-styles.scss */
+/* line 463, ../sass/modules/_global-styles.scss */
 li.tmc-bio-pic .tmc-name {
   color: #fff;
   -webkit-transition: all 0.3s ease-in-out;
@@ -738,14 +738,14 @@ li.tmc-bio-pic .tmc-name {
   font-size: 1.5em;
   font-style: italic;
 }
-/* line 473, ../sass/modules/_global-styles.scss */
+/* line 474, ../sass/modules/_global-styles.scss */
 li.tmc-bio-pic .screen.fade-in .tmc-name {
   margin-left: 0;
   vertical-align: middle;
   text-align: center;
   margin-top: 46%;
 }
-/* line 483, ../sass/modules/_global-styles.scss */
+/* line 484, ../sass/modules/_global-styles.scss */
 li.tmc-bio-pic figure img {
   -webkit-filter: grayscale(1) !important;
   -moz-filter: grayscale(1) !important;
@@ -755,7 +755,7 @@ li.tmc-bio-pic figure img {
   float: left;
   margin: 0;
 }
-/* line 492, ../sass/modules/_global-styles.scss */
+/* line 493, ../sass/modules/_global-styles.scss */
 li.tmc-bio-pic figure:hover {
   opacity: .1;
   z-index: 10;
@@ -763,7 +763,7 @@ li.tmc-bio-pic figure:hover {
   width: 100%;
 }
 
-/* line 501, ../sass/modules/_global-styles.scss */
+/* line 502, ../sass/modules/_global-styles.scss */
 .tmc-left-club {
   float: left;
   display: block;
@@ -772,13 +772,13 @@ li.tmc-bio-pic figure:hover {
   margin-top: 4em;
   margin-bottom: 4em;
 }
-/* line 508, ../sass/modules/_global-styles.scss */
+/* line 509, ../sass/modules/_global-styles.scss */
 .tmc-left-club h1 {
   font-style: italic;
   margin: 1em 0;
   font-size: 2.5em;
 }
-/* line 514, ../sass/modules/_global-styles.scss */
+/* line 515, ../sass/modules/_global-styles.scss */
 .tmc-left-club figure img {
   margin-bottom: 15px;
   -webkit-border-radius: 147px;
@@ -787,7 +787,7 @@ li.tmc-bio-pic figure:hover {
   width: 20em;
 }
 
-/* line 525, ../sass/modules/_global-styles.scss */
+/* line 526, ../sass/modules/_global-styles.scss */
 .tmc-right-club {
   float: left;
   display: block;
@@ -798,14 +798,14 @@ li.tmc-bio-pic figure:hover {
   margin-bottom: 4em;
 }
 
-/* line 535, ../sass/modules/_global-styles.scss */
+/* line 536, ../sass/modules/_global-styles.scss */
 h1.bio-link {
   font-size: 1.5em;
   margin: 0 0 .5em 0;
   line-height: 1;
 }
 
-/* line 544, ../sass/modules/_global-styles.scss */
+/* line 545, ../sass/modules/_global-styles.scss */
 .tmc-left-bio {
   float: left;
   display: block;
@@ -813,14 +813,14 @@ h1.bio-link {
   width: 47.099923%;
   border-right: 1px solid;
 }
-/* line 551, ../sass/modules/_global-styles.scss */
+/* line 552, ../sass/modules/_global-styles.scss */
 .tmc-left-bio h1 {
   font-style: italic;
   margin: 1em 0;
   font-size: 2.5em;
   line-height: 1;
 }
-/* line 558, ../sass/modules/_global-styles.scss */
+/* line 559, ../sass/modules/_global-styles.scss */
 .tmc-left-bio figure img {
   margin-bottom: 15px;
   -webkit-border-radius: 147px;
@@ -829,7 +829,7 @@ h1.bio-link {
   width: 20em;
 }
 
-/* line 568, ../sass/modules/_global-styles.scss */
+/* line 569, ../sass/modules/_global-styles.scss */
 .tmc-middle-bio {
   float: left;
   display: block;
@@ -842,7 +842,7 @@ h1.bio-link {
   margin-right: 0;
 }
 
-/* line 573, ../sass/modules/_global-styles.scss */
+/* line 574, ../sass/modules/_global-styles.scss */
 .tmc-right-bio {
   float: left;
   display: block;
@@ -851,31 +851,31 @@ h1.bio-link {
   padding-left: 3em;
 }
 
-/* line 582, ../sass/modules/_global-styles.scss */
+/* line 583, ../sass/modules/_global-styles.scss */
 h1.bio-header {
   font-style: italic;
   margin: 1em 0;
   font-size: 2.5em;
 }
 
-/* line 588, ../sass/modules/_global-styles.scss */
+/* line 589, ../sass/modules/_global-styles.scss */
 .tmc-bio-work {
   float: left;
   width: 100%;
   margin: 3em 0;
   border-top: 1px solid;
 }
-/* line 594, ../sass/modules/_global-styles.scss */
+/* line 595, ../sass/modules/_global-styles.scss */
 .tmc-bio-work p {
   margin: 2em 0;
 }
 
-/* line 601, ../sass/modules/_global-styles.scss */
+/* line 602, ../sass/modules/_global-styles.scss */
 h3 {
   font-weight: italic;
 }
 
-/* line 606, ../sass/modules/_global-styles.scss */
+/* line 607, ../sass/modules/_global-styles.scss */
 .tmc-right-1 {
   float: left;
   display: block;
@@ -887,32 +887,32 @@ h3 {
 .tmc-right-1:last-child {
   margin-right: 0;
 }
-/* line 610, ../sass/modules/_global-styles.scss */
+/* line 611, ../sass/modules/_global-styles.scss */
 .tmc-right-1 p {
   margin-bottom: 2em;
 }
-/* line 614, ../sass/modules/_global-styles.scss */
+/* line 615, ../sass/modules/_global-styles.scss */
 .tmc-right-1 li img {
   width: 20px;
   opacity: 0.3;
 }
-/* line 619, ../sass/modules/_global-styles.scss */
+/* line 620, ../sass/modules/_global-styles.scss */
 .tmc-right-1 h2 {
   font-weight: 900;
   margin: 0 0 2em 0;
 }
 
-/* line 626, ../sass/modules/_global-styles.scss */
+/* line 627, ../sass/modules/_global-styles.scss */
 .line {
   border-bottom: 3px solid;
 }
 
-/* line 630, ../sass/modules/_global-styles.scss */
+/* line 631, ../sass/modules/_global-styles.scss */
 .showing {
   margin-top: 2em;
 }
 
-/* line 634, ../sass/modules/_global-styles.scss */
+/* line 635, ../sass/modules/_global-styles.scss */
 .tmc-right-2 {
   float: left;
   display: block;
@@ -925,7 +925,7 @@ h3 {
   margin-right: 0;
 }
 
-/* line 639, ../sass/modules/_global-styles.scss */
+/* line 640, ../sass/modules/_global-styles.scss */
 .tmc-right-3 {
   float: left;
   display: block;
@@ -937,31 +937,31 @@ h3 {
 .tmc-right-3:last-child {
   margin-right: 0;
 }
-/* line 645, ../sass/modules/_global-styles.scss */
+/* line 646, ../sass/modules/_global-styles.scss */
 .tmc-right-3 h2 {
   font-weight: 900;
 }
-/* line 649, ../sass/modules/_global-styles.scss */
+/* line 650, ../sass/modules/_global-styles.scss */
 .tmc-right-3 .home-menu {
   margin: 2em 0;
 }
-/* line 651, ../sass/modules/_global-styles.scss */
+/* line 652, ../sass/modules/_global-styles.scss */
 .tmc-right-3 .home-menu li, .tmc-right-3 .home-menu a {
   color: #333;
   margin: 1em 0 0 0;
 }
-/* line 657, ../sass/modules/_global-styles.scss */
+/* line 658, ../sass/modules/_global-styles.scss */
 .tmc-right-3 p {
   font-style: italic;
   margin: 2em 0;
 }
 
-/* line 665, ../sass/modules/_global-styles.scss */
+/* line 666, ../sass/modules/_global-styles.scss */
 .about-header {
   margin: 20em 0 0 0;
 }
 
-/* line 669, ../sass/modules/_global-styles.scss */
+/* line 670, ../sass/modules/_global-styles.scss */
 #sub-header {
   width: 100%;
   background-color: #F5F5F5;
@@ -969,25 +969,25 @@ h3 {
   margin-bottom: 4em;
 }
 
-/* line 676, ../sass/modules/_global-styles.scss */
+/* line 677, ../sass/modules/_global-styles.scss */
 .roster-header {
   text-align: center;
   margin: 3em 0 4em 0;
 }
-/* line 679, ../sass/modules/_global-styles.scss */
+/* line 680, ../sass/modules/_global-styles.scss */
 .roster-header h1 {
   font-style: italic;
   font-size: 5em;
   line-height: 1;
 }
-/* line 686, ../sass/modules/_global-styles.scss */
+/* line 687, ../sass/modules/_global-styles.scss */
 .roster-header h2 {
   font-size: 3em;
   line-height: 2em;
   text-align: center;
 }
 
-/* line 693, ../sass/modules/_global-styles.scss */
+/* line 694, ../sass/modules/_global-styles.scss */
 .tmc-conducted {
   -webkit-transform: rotate(-90deg);
   -moz-transform: rotate(-90deg);
@@ -1001,7 +1001,7 @@ h3 {
   margin-left: -0.5em;
   margin-top: -4em;
 }
-/* line 706, ../sass/modules/_global-styles.scss */
+/* line 707, ../sass/modules/_global-styles.scss */
 .tmc-conducted h1 {
   font-family: arial, serif;
   font-size: .7em;
@@ -1009,7 +1009,7 @@ h3 {
   text-transform: uppercase;
 }
 
-/* line 714, ../sass/modules/_global-styles.scss */
+/* line 715, ../sass/modules/_global-styles.scss */
 .tmc-title {
   -webkit-transform: rotate(-90deg);
   -moz-transform: rotate(-90deg);
@@ -1023,20 +1023,20 @@ h3 {
   margin-left: -1.2em;
   margin-top: 1em;
 }
-/* line 727, ../sass/modules/_global-styles.scss */
+/* line 728, ../sass/modules/_global-styles.scss */
 .tmc-title h1 {
   font-family: arial, serif;
   font-size: .7em;
   font-weight: bold;
 }
 
-/* line 734, ../sass/modules/_global-styles.scss */
+/* line 735, ../sass/modules/_global-styles.scss */
 a.read-more {
   color: black;
   line-height: 3em;
 }
 
-/* line 739, ../sass/modules/_global-styles.scss */
+/* line 740, ../sass/modules/_global-styles.scss */
 .divider {
   width: 100% !important;
   padding-top: 3em;
@@ -1044,7 +1044,7 @@ a.read-more {
   background: #ccc url(/img/stripe.png) repeat;
 }
 
-/* line 751, ../sass/modules/_global-styles.scss */
+/* line 752, ../sass/modules/_global-styles.scss */
 #CDT {
   font-size: 4em;
   margin: 0 0 1.5em;
@@ -1052,13 +1052,13 @@ a.read-more {
   text-align: center;
 }
 
-/* line 759, ../sass/modules/_global-styles.scss */
+/* line 760, ../sass/modules/_global-styles.scss */
 #CDT .number-wrapper {
   margin: 10px;
   position: relative;
 }
 
-/* line 764, ../sass/modules/_global-styles.scss */
+/* line 765, ../sass/modules/_global-styles.scss */
 #CDT .number {
   display: inline;
   padding: 0 12px;
@@ -1066,7 +1066,7 @@ a.read-more {
   text-align: center;
 }
 
-/* line 774, ../sass/modules/_global-styles.scss */
+/* line 775, ../sass/modules/_global-styles.scss */
 .caption {
   font-size: 12px;
   position: absolute;
@@ -1077,39 +1077,39 @@ a.read-more {
 }
 
 @media screen and (max-width: 900px) {
-  /* line 791, ../sass/modules/_global-styles.scss */
+  /* line 792, ../sass/modules/_global-styles.scss */
   .roster-header h1 {
     font-size: 5em;
   }
 
-  /* line 796, ../sass/modules/_global-styles.scss */
+  /* line 797, ../sass/modules/_global-styles.scss */
   .tmc-left {
     width: 100%;
     margin-top: 0;
   }
-  /* line 799, ../sass/modules/_global-styles.scss */
+  /* line 800, ../sass/modules/_global-styles.scss */
   .tmc-left img.works {
     border-right: none;
   }
 
-  /* line 805, ../sass/modules/_global-styles.scss */
+  /* line 806, ../sass/modules/_global-styles.scss */
   .tmc-left-index .tmc-title {
     margin-top: 0;
   }
 
-  /* line 811, ../sass/modules/_global-styles.scss */
+  /* line 812, ../sass/modules/_global-styles.scss */
   .tmc-right {
     width: 100%;
     margin-top: 1em;
     margin-bottom: 2em;
   }
 
-  /* line 817, ../sass/modules/_global-styles.scss */
+  /* line 818, ../sass/modules/_global-styles.scss */
   .tmc-conducted {
     display: none;
   }
 
-  /* line 821, ../sass/modules/_global-styles.scss */
+  /* line 822, ../sass/modules/_global-styles.scss */
   .tmc-title {
     -webkit-transform: none;
     -moz-transform: none;
@@ -1122,18 +1122,18 @@ a.read-more {
     margin-right: 0.7em;
   }
 
-  /* line 834, ../sass/modules/_global-styles.scss */
+  /* line 835, ../sass/modules/_global-styles.scss */
   .tmc-caption {
     margin-top: 7.3333em;
   }
 
-  /* line 838, ../sass/modules/_global-styles.scss */
+  /* line 839, ../sass/modules/_global-styles.scss */
   #CDT {
     margin: 0 0 2.5em;
   }
 }
 @media screen and (max-width: 850px) {
-  /* line 848, ../sass/modules/_global-styles.scss */
+  /* line 849, ../sass/modules/_global-styles.scss */
   .content-body {
     float: left;
     width: 100%;
@@ -1141,112 +1141,112 @@ a.read-more {
     margin-top: 2em;
   }
 
-  /* line 855, ../sass/modules/_global-styles.scss */
+  /* line 856, ../sass/modules/_global-styles.scss */
   .post-content {
     margin: 21em 0 6em 0;
   }
 
-  /* line 859, ../sass/modules/_global-styles.scss */
+  /* line 860, ../sass/modules/_global-styles.scss */
   article.wrap.post p {
     margin-left: 0;
     width: 100%;
   }
 
-  /* line 865, ../sass/modules/_global-styles.scss */
+  /* line 866, ../sass/modules/_global-styles.scss */
   .content-header {
     width: 100%;
   }
 
-  /* line 869, ../sass/modules/_global-styles.scss */
+  /* line 870, ../sass/modules/_global-styles.scss */
   .post-content {
     margin: 23em 0 6em 0;
   }
 
-  /* line 873, ../sass/modules/_global-styles.scss */
+  /* line 874, ../sass/modules/_global-styles.scss */
   .tmc-3 {
     width: 100%;
   }
 
-  /* line 877, ../sass/modules/_global-styles.scss */
+  /* line 878, ../sass/modules/_global-styles.scss */
   .tmc-caption {
     display: none;
   }
 
-  /* line 881, ../sass/modules/_global-styles.scss */
+  /* line 882, ../sass/modules/_global-styles.scss */
   .tmc-left-index {
     width: 100%;
     margin-top: 0;
   }
 
-  /* line 887, ../sass/modules/_global-styles.scss */
+  /* line 888, ../sass/modules/_global-styles.scss */
   li.tmc-bio-pic {
     display: block;
     width: 100%;
     margin: 0;
   }
-  /* line 891, ../sass/modules/_global-styles.scss */
+  /* line 892, ../sass/modules/_global-styles.scss */
   li.tmc-bio-pic a {
     width: 100%;
     margin-bottom: 1em;
   }
 
-  /* line 899, ../sass/modules/_global-styles.scss */
+  /* line 900, ../sass/modules/_global-styles.scss */
   .tmc-left-bio {
     width: 100%;
   }
 
-  /* line 904, ../sass/modules/_global-styles.scss */
+  /* line 905, ../sass/modules/_global-styles.scss */
   .roster-header {
     margin: 3em 0 1em 0;
   }
-  /* line 907, ../sass/modules/_global-styles.scss */
+  /* line 908, ../sass/modules/_global-styles.scss */
   .roster-header h1 {
     font-size: 3em;
   }
-  /* line 912, ../sass/modules/_global-styles.scss */
+  /* line 913, ../sass/modules/_global-styles.scss */
   .roster-header h2 {
     font-size: 2em;
   }
 
-  /* line 917, ../sass/modules/_global-styles.scss */
+  /* line 918, ../sass/modules/_global-styles.scss */
   #CDT {
     font-size: 2em;
   }
 }
 @media screen and (max-width: 460px) {
-  /* line 927, ../sass/modules/_global-styles.scss */
+  /* line 928, ../sass/modules/_global-styles.scss */
   .tmc-left-bio {
     float: left;
     margin-top: 0;
   }
 
-  /* line 932, ../sass/modules/_global-styles.scss */
+  /* line 933, ../sass/modules/_global-styles.scss */
   .tmc-left img.works {
     border-right: none;
     padding-right: 0;
   }
 
-  /* line 937, ../sass/modules/_global-styles.scss */
+  /* line 938, ../sass/modules/_global-styles.scss */
   .flex-direction-nav {
     display: none;
   }
 
-  /* line 941, ../sass/modules/_global-styles.scss */
+  /* line 942, ../sass/modules/_global-styles.scss */
   .tmc-middle-bio {
     float: none;
   }
 
-  /* line 945, ../sass/modules/_global-styles.scss */
+  /* line 946, ../sass/modules/_global-styles.scss */
   .roster-header h1 {
     font-size: 2em;
   }
 
-  /* line 949, ../sass/modules/_global-styles.scss */
+  /* line 950, ../sass/modules/_global-styles.scss */
   .roster-header h2 {
     font-size: 1.5em;
   }
 
-  /* line 953, ../sass/modules/_global-styles.scss */
+  /* line 954, ../sass/modules/_global-styles.scss */
   #CDT {
     font-size: 1.5em;
   }
@@ -1376,7 +1376,7 @@ h1.player {
 
 /* line 119, ../sass/modules/_header.scss */
 h1.title {
-  font-size: 2em;
+  font-size: 1.5em;
   font-style: italic;
   line-height: 1.2em;
   margin: 0 0 .5em 0;
