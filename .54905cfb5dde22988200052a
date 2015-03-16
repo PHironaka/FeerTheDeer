@@ -1,5 +1,5 @@
 ---
-time: 1426520594
+time: 1426520962
 inventory:
   /index/index.html:
     md5: 394e4060ca5d091dfdee93bbaa4a5b19
@@ -160,6 +160,12 @@ inventory:
   /works/set/archives/index.html:
     md5: e7ebb3dcd3c9d5576431a422f4a336a4
     time: 1426235227
+  /works/homepage/index.html:
+    md5: f6fcc9043845b79833370182d470b3e0
+    time: 1426520941
+  /works/homepage/greatness/index.html:
+    md5: 3600625bc6d068b9d60698a798a48938
+    time: 1426520941
   /works/tag-set-name/index.html:
     md5: 57f95b1190622ef8cdfbb6a45cc1e463
     time: 1426235227
@@ -371,11 +377,11 @@ inventory:
     md5: 195e2c621dae2c5c279ebc9308c3e0ee
     time: 1426227127
   /sitemap.xml:
-    md5: d6525295b01c47d15e64f3861386ca19
-    time: 1426520584
+    md5: a045487b90f02fe6aec83b53199c5502
+    time: 1426520961
   /feed.xml:
-    md5: bc892f62c9c00fd2d47c078b5c5bf319
-    time: 1426520584
+    md5: 94a1856b6df44cb6ba4e3f2cc88b0ef8
+    time: 1426520961
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
