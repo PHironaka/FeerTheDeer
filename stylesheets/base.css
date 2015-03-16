@@ -637,6 +637,17 @@ ul.bio {
 }
 
 /* line 383, ../sass/modules/_global-styles.scss */
+.tmc-archives {
+  float: left;
+  margin: 1em 0;
+}
+/* line 386, ../sass/modules/_global-styles.scss */
+.tmc-archives p {
+  width: 82.41059%;
+  margin-top: 1em;
+}
+
+/* line 393, ../sass/modules/_global-styles.scss */
 .tmc-right {
   float: left;
   display: block;
@@ -648,13 +659,13 @@ ul.bio {
 .tmc-right:last-child {
   margin-right: 0;
 }
-/* line 386, ../sass/modules/_global-styles.scss */
+/* line 396, ../sass/modules/_global-styles.scss */
 .tmc-right p {
   font-size: .9em;
   line-height: 1.5em;
 }
 
-/* line 392, ../sass/modules/_global-styles.scss */
+/* line 402, ../sass/modules/_global-styles.scss */
 .tmc-3 {
   display: inline-block;
   padding-right: 1.35765%;
@@ -662,19 +673,19 @@ ul.bio {
   margin: 1em 0 1.5em;
   vertical-align: top;
 }
-/* line 399, ../sass/modules/_global-styles.scss */
+/* line 409, ../sass/modules/_global-styles.scss */
 .tmc-3 h1 {
   font-style: italic;
   margin: 1em 0;
   font-size: 2.5em;
 }
 
-/* line 407, ../sass/modules/_global-styles.scss */
+/* line 417, ../sass/modules/_global-styles.scss */
 .tmc-bio-pic a {
   float: left;
 }
 
-/* line 412, ../sass/modules/_global-styles.scss */
+/* line 422, ../sass/modules/_global-styles.scss */
 .tmc-bio-pic a h2.name {
   font-size: 1.5em;
   margin: 8em 0;
@@ -683,7 +694,7 @@ ul.bio {
   opacity: 0;
 }
 
-/* line 422, ../sass/modules/_global-styles.scss */
+/* line 432, ../sass/modules/_global-styles.scss */
 li.tmc-bio-pic {
   width: -ms-calc(33.3333% - 16px);
   width: -moz-calc(33.3333% - 16px);
@@ -694,7 +705,7 @@ li.tmc-bio-pic {
   position: relative;
   float: left;
 }
-/* line 432, ../sass/modules/_global-styles.scss */
+/* line 442, ../sass/modules/_global-styles.scss */
 li.tmc-bio-pic .screen {
   left: 0;
   top: 0;
@@ -710,12 +721,12 @@ li.tmc-bio-pic .screen {
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
-/* line 447, ../sass/modules/_global-styles.scss */
+/* line 457, ../sass/modules/_global-styles.scss */
 li.tmc-bio-pic .screen:hover {
   opacity: .9;
   background-color: #ff7878;
 }
-/* line 452, ../sass/modules/_global-styles.scss */
+/* line 462, ../sass/modules/_global-styles.scss */
 li.tmc-bio-pic .tmc-name {
   color: #fff;
   -webkit-transition: all 0.3s ease-in-out;
@@ -727,14 +738,14 @@ li.tmc-bio-pic .tmc-name {
   font-size: 1.5em;
   font-style: italic;
 }
-/* line 463, ../sass/modules/_global-styles.scss */
+/* line 473, ../sass/modules/_global-styles.scss */
 li.tmc-bio-pic .screen.fade-in .tmc-name {
   margin-left: 0;
   vertical-align: middle;
   text-align: center;
   margin-top: 46%;
 }
-/* line 473, ../sass/modules/_global-styles.scss */
+/* line 483, ../sass/modules/_global-styles.scss */
 li.tmc-bio-pic figure img {
   -webkit-filter: grayscale(1) !important;
   -moz-filter: grayscale(1) !important;
@@ -744,7 +755,7 @@ li.tmc-bio-pic figure img {
   float: left;
   margin: 0;
 }
-/* line 482, ../sass/modules/_global-styles.scss */
+/* line 492, ../sass/modules/_global-styles.scss */
 li.tmc-bio-pic figure:hover {
   opacity: .1;
   z-index: 10;
@@ -752,7 +763,7 @@ li.tmc-bio-pic figure:hover {
   width: 100%;
 }
 
-/* line 491, ../sass/modules/_global-styles.scss */
+/* line 501, ../sass/modules/_global-styles.scss */
 .tmc-left-club {
   float: left;
   display: block;
@@ -761,13 +772,13 @@ li.tmc-bio-pic figure:hover {
   margin-top: 4em;
   margin-bottom: 4em;
 }
-/* line 498, ../sass/modules/_global-styles.scss */
+/* line 508, ../sass/modules/_global-styles.scss */
 .tmc-left-club h1 {
   font-style: italic;
   margin: 1em 0;
   font-size: 2.5em;
 }
-/* line 504, ../sass/modules/_global-styles.scss */
+/* line 514, ../sass/modules/_global-styles.scss */
 .tmc-left-club figure img {
   margin-bottom: 15px;
   -webkit-border-radius: 147px;
@@ -776,7 +787,7 @@ li.tmc-bio-pic figure:hover {
   width: 20em;
 }
 
-/* line 515, ../sass/modules/_global-styles.scss */
+/* line 525, ../sass/modules/_global-styles.scss */
 .tmc-right-club {
   float: left;
   display: block;
@@ -787,14 +798,14 @@ li.tmc-bio-pic figure:hover {
   margin-bottom: 4em;
 }
 
-/* line 525, ../sass/modules/_global-styles.scss */
+/* line 535, ../sass/modules/_global-styles.scss */
 h1.bio-link {
   font-size: 1.5em;
   margin: 0 0 .5em 0;
   line-height: 1;
 }
 
-/* line 534, ../sass/modules/_global-styles.scss */
+/* line 544, ../sass/modules/_global-styles.scss */
 .tmc-left-bio {
   float: left;
   display: block;
@@ -802,14 +813,14 @@ h1.bio-link {
   width: 47.099923%;
   border-right: 1px solid;
 }
-/* line 541, ../sass/modules/_global-styles.scss */
+/* line 551, ../sass/modules/_global-styles.scss */
 .tmc-left-bio h1 {
   font-style: italic;
   margin: 1em 0;
   font-size: 2.5em;
   line-height: 1;
 }
-/* line 548, ../sass/modules/_global-styles.scss */
+/* line 558, ../sass/modules/_global-styles.scss */
 .tmc-left-bio figure img {
   margin-bottom: 15px;
   -webkit-border-radius: 147px;
@@ -818,7 +829,7 @@ h1.bio-link {
   width: 20em;
 }
 
-/* line 558, ../sass/modules/_global-styles.scss */
+/* line 568, ../sass/modules/_global-styles.scss */
 .tmc-middle-bio {
   float: left;
   display: block;
@@ -831,7 +842,7 @@ h1.bio-link {
   margin-right: 0;
 }
 
-/* line 563, ../sass/modules/_global-styles.scss */
+/* line 573, ../sass/modules/_global-styles.scss */
 .tmc-right-bio {
   float: left;
   display: block;
@@ -840,31 +851,31 @@ h1.bio-link {
   padding-left: 3em;
 }
 
-/* line 572, ../sass/modules/_global-styles.scss */
+/* line 582, ../sass/modules/_global-styles.scss */
 h1.bio-header {
   font-style: italic;
   margin: 1em 0;
   font-size: 2.5em;
 }
 
-/* line 578, ../sass/modules/_global-styles.scss */
+/* line 588, ../sass/modules/_global-styles.scss */
 .tmc-bio-work {
   float: left;
   width: 100%;
   margin: 3em 0;
   border-top: 1px solid;
 }
-/* line 584, ../sass/modules/_global-styles.scss */
+/* line 594, ../sass/modules/_global-styles.scss */
 .tmc-bio-work p {
   margin: 2em 0;
 }
 
-/* line 591, ../sass/modules/_global-styles.scss */
+/* line 601, ../sass/modules/_global-styles.scss */
 h3 {
   font-weight: italic;
 }
 
-/* line 596, ../sass/modules/_global-styles.scss */
+/* line 606, ../sass/modules/_global-styles.scss */
 .tmc-right-1 {
   float: left;
   display: block;
@@ -876,32 +887,32 @@ h3 {
 .tmc-right-1:last-child {
   margin-right: 0;
 }
-/* line 600, ../sass/modules/_global-styles.scss */
+/* line 610, ../sass/modules/_global-styles.scss */
 .tmc-right-1 p {
   margin-bottom: 2em;
 }
-/* line 604, ../sass/modules/_global-styles.scss */
+/* line 614, ../sass/modules/_global-styles.scss */
 .tmc-right-1 li img {
   width: 20px;
   opacity: 0.3;
 }
-/* line 609, ../sass/modules/_global-styles.scss */
+/* line 619, ../sass/modules/_global-styles.scss */
 .tmc-right-1 h2 {
   font-weight: 900;
   margin: 0 0 2em 0;
 }
 
-/* line 616, ../sass/modules/_global-styles.scss */
+/* line 626, ../sass/modules/_global-styles.scss */
 .line {
   border-bottom: 3px solid;
 }
 
-/* line 620, ../sass/modules/_global-styles.scss */
+/* line 630, ../sass/modules/_global-styles.scss */
 .showing {
   margin-top: 2em;
 }
 
-/* line 624, ../sass/modules/_global-styles.scss */
+/* line 634, ../sass/modules/_global-styles.scss */
 .tmc-right-2 {
   float: left;
   display: block;
@@ -914,7 +925,7 @@ h3 {
   margin-right: 0;
 }
 
-/* line 629, ../sass/modules/_global-styles.scss */
+/* line 639, ../sass/modules/_global-styles.scss */
 .tmc-right-3 {
   float: left;
   display: block;
@@ -926,31 +937,31 @@ h3 {
 .tmc-right-3:last-child {
   margin-right: 0;
 }
-/* line 635, ../sass/modules/_global-styles.scss */
+/* line 645, ../sass/modules/_global-styles.scss */
 .tmc-right-3 h2 {
   font-weight: 900;
 }
-/* line 639, ../sass/modules/_global-styles.scss */
+/* line 649, ../sass/modules/_global-styles.scss */
 .tmc-right-3 .home-menu {
   margin: 2em 0;
 }
-/* line 641, ../sass/modules/_global-styles.scss */
+/* line 651, ../sass/modules/_global-styles.scss */
 .tmc-right-3 .home-menu li, .tmc-right-3 .home-menu a {
   color: #333;
   margin: 1em 0 0 0;
 }
-/* line 647, ../sass/modules/_global-styles.scss */
+/* line 657, ../sass/modules/_global-styles.scss */
 .tmc-right-3 p {
   font-style: italic;
   margin: 2em 0;
 }
 
-/* line 655, ../sass/modules/_global-styles.scss */
+/* line 665, ../sass/modules/_global-styles.scss */
 .about-header {
   margin: 20em 0 0 0;
 }
 
-/* line 659, ../sass/modules/_global-styles.scss */
+/* line 669, ../sass/modules/_global-styles.scss */
 #sub-header {
   width: 100%;
   background-color: #F5F5F5;
@@ -958,25 +969,25 @@ h3 {
   margin-bottom: 4em;
 }
 
-/* line 666, ../sass/modules/_global-styles.scss */
+/* line 676, ../sass/modules/_global-styles.scss */
 .roster-header {
   text-align: center;
   margin: 3em 0 4em 0;
 }
-/* line 669, ../sass/modules/_global-styles.scss */
+/* line 679, ../sass/modules/_global-styles.scss */
 .roster-header h1 {
   font-style: italic;
   font-size: 5em;
   line-height: 1;
 }
-/* line 676, ../sass/modules/_global-styles.scss */
+/* line 686, ../sass/modules/_global-styles.scss */
 .roster-header h2 {
   font-size: 3em;
   line-height: 2em;
   text-align: center;
 }
 
-/* line 683, ../sass/modules/_global-styles.scss */
+/* line 693, ../sass/modules/_global-styles.scss */
 .tmc-conducted {
   -webkit-transform: rotate(-90deg);
   -moz-transform: rotate(-90deg);
@@ -990,7 +1001,7 @@ h3 {
   margin-left: -0.5em;
   margin-top: -4em;
 }
-/* line 696, ../sass/modules/_global-styles.scss */
+/* line 706, ../sass/modules/_global-styles.scss */
 .tmc-conducted h1 {
   font-family: arial, serif;
   font-size: .7em;
@@ -998,7 +1009,7 @@ h3 {
   text-transform: uppercase;
 }
 
-/* line 704, ../sass/modules/_global-styles.scss */
+/* line 714, ../sass/modules/_global-styles.scss */
 .tmc-title {
   -webkit-transform: rotate(-90deg);
   -moz-transform: rotate(-90deg);
@@ -1012,20 +1023,20 @@ h3 {
   margin-left: -1.2em;
   margin-top: 1em;
 }
-/* line 717, ../sass/modules/_global-styles.scss */
+/* line 727, ../sass/modules/_global-styles.scss */
 .tmc-title h1 {
   font-family: arial, serif;
   font-size: .7em;
   font-weight: bold;
 }
 
-/* line 724, ../sass/modules/_global-styles.scss */
+/* line 734, ../sass/modules/_global-styles.scss */
 a.read-more {
   color: black;
   line-height: 3em;
 }
 
-/* line 729, ../sass/modules/_global-styles.scss */
+/* line 739, ../sass/modules/_global-styles.scss */
 .divider {
   width: 100% !important;
   padding-top: 3em;
@@ -1033,7 +1044,7 @@ a.read-more {
   background: #ccc url(/img/stripe.png) repeat;
 }
 
-/* line 741, ../sass/modules/_global-styles.scss */
+/* line 751, ../sass/modules/_global-styles.scss */
 #CDT {
   font-size: 4em;
   margin: 0 0 1.5em;
@@ -1041,13 +1052,13 @@ a.read-more {
   text-align: center;
 }
 
-/* line 749, ../sass/modules/_global-styles.scss */
+/* line 759, ../sass/modules/_global-styles.scss */
 #CDT .number-wrapper {
   margin: 10px;
   position: relative;
 }
 
-/* line 754, ../sass/modules/_global-styles.scss */
+/* line 764, ../sass/modules/_global-styles.scss */
 #CDT .number {
   display: inline;
   padding: 0 12px;
@@ -1055,7 +1066,7 @@ a.read-more {
   text-align: center;
 }
 
-/* line 764, ../sass/modules/_global-styles.scss */
+/* line 774, ../sass/modules/_global-styles.scss */
 .caption {
   font-size: 12px;
   position: absolute;
@@ -1066,39 +1077,39 @@ a.read-more {
 }
 
 @media screen and (max-width: 900px) {
-  /* line 781, ../sass/modules/_global-styles.scss */
+  /* line 791, ../sass/modules/_global-styles.scss */
   .roster-header h1 {
     font-size: 5em;
   }
 
-  /* line 786, ../sass/modules/_global-styles.scss */
+  /* line 796, ../sass/modules/_global-styles.scss */
   .tmc-left {
     width: 100%;
     margin-top: 0;
   }
-  /* line 789, ../sass/modules/_global-styles.scss */
+  /* line 799, ../sass/modules/_global-styles.scss */
   .tmc-left img.works {
     border-right: none;
   }
 
-  /* line 795, ../sass/modules/_global-styles.scss */
+  /* line 805, ../sass/modules/_global-styles.scss */
   .tmc-left-index .tmc-title {
     margin-top: 0;
   }
 
-  /* line 801, ../sass/modules/_global-styles.scss */
+  /* line 811, ../sass/modules/_global-styles.scss */
   .tmc-right {
     width: 100%;
     margin-top: 1em;
     margin-bottom: 2em;
   }
 
-  /* line 807, ../sass/modules/_global-styles.scss */
+  /* line 817, ../sass/modules/_global-styles.scss */
   .tmc-conducted {
     display: none;
   }
 
-  /* line 811, ../sass/modules/_global-styles.scss */
+  /* line 821, ../sass/modules/_global-styles.scss */
   .tmc-title {
     -webkit-transform: none;
     -moz-transform: none;
@@ -1111,18 +1122,18 @@ a.read-more {
     margin-right: 0.7em;
   }
 
-  /* line 824, ../sass/modules/_global-styles.scss */
+  /* line 834, ../sass/modules/_global-styles.scss */
   .tmc-caption {
     margin-top: 7.3333em;
   }
 
-  /* line 828, ../sass/modules/_global-styles.scss */
+  /* line 838, ../sass/modules/_global-styles.scss */
   #CDT {
     margin: 0 0 2.5em;
   }
 }
 @media screen and (max-width: 850px) {
-  /* line 838, ../sass/modules/_global-styles.scss */
+  /* line 848, ../sass/modules/_global-styles.scss */
   .content-body {
     float: left;
     width: 100%;
@@ -1130,112 +1141,112 @@ a.read-more {
     margin-top: 2em;
   }
 
-  /* line 845, ../sass/modules/_global-styles.scss */
+  /* line 855, ../sass/modules/_global-styles.scss */
   .post-content {
     margin: 21em 0 6em 0;
   }
 
-  /* line 849, ../sass/modules/_global-styles.scss */
+  /* line 859, ../sass/modules/_global-styles.scss */
   article.wrap.post p {
     margin-left: 0;
     width: 100%;
   }
 
-  /* line 855, ../sass/modules/_global-styles.scss */
+  /* line 865, ../sass/modules/_global-styles.scss */
   .content-header {
     width: 100%;
   }
 
-  /* line 859, ../sass/modules/_global-styles.scss */
+  /* line 869, ../sass/modules/_global-styles.scss */
   .post-content {
     margin: 23em 0 6em 0;
   }
 
-  /* line 863, ../sass/modules/_global-styles.scss */
+  /* line 873, ../sass/modules/_global-styles.scss */
   .tmc-3 {
     width: 100%;
   }
 
-  /* line 867, ../sass/modules/_global-styles.scss */
+  /* line 877, ../sass/modules/_global-styles.scss */
   .tmc-caption {
     display: none;
   }
 
-  /* line 871, ../sass/modules/_global-styles.scss */
+  /* line 881, ../sass/modules/_global-styles.scss */
   .tmc-left-index {
     width: 100%;
     margin-top: 0;
   }
 
-  /* line 877, ../sass/modules/_global-styles.scss */
+  /* line 887, ../sass/modules/_global-styles.scss */
   li.tmc-bio-pic {
     display: block;
     width: 100%;
     margin: 0;
   }
-  /* line 881, ../sass/modules/_global-styles.scss */
+  /* line 891, ../sass/modules/_global-styles.scss */
   li.tmc-bio-pic a {
     width: 100%;
     margin-bottom: 1em;
   }
 
-  /* line 889, ../sass/modules/_global-styles.scss */
+  /* line 899, ../sass/modules/_global-styles.scss */
   .tmc-left-bio {
     width: 100%;
   }
 
-  /* line 894, ../sass/modules/_global-styles.scss */
+  /* line 904, ../sass/modules/_global-styles.scss */
   .roster-header {
     margin: 3em 0 1em 0;
   }
-  /* line 897, ../sass/modules/_global-styles.scss */
+  /* line 907, ../sass/modules/_global-styles.scss */
   .roster-header h1 {
     font-size: 3em;
   }
-  /* line 902, ../sass/modules/_global-styles.scss */
+  /* line 912, ../sass/modules/_global-styles.scss */
   .roster-header h2 {
     font-size: 2em;
   }
 
-  /* line 907, ../sass/modules/_global-styles.scss */
+  /* line 917, ../sass/modules/_global-styles.scss */
   #CDT {
     font-size: 2em;
   }
 }
 @media screen and (max-width: 460px) {
-  /* line 917, ../sass/modules/_global-styles.scss */
+  /* line 927, ../sass/modules/_global-styles.scss */
   .tmc-left-bio {
     float: left;
     margin-top: 0;
   }
 
-  /* line 922, ../sass/modules/_global-styles.scss */
+  /* line 932, ../sass/modules/_global-styles.scss */
   .tmc-left img.works {
     border-right: none;
     padding-right: 0;
   }
 
-  /* line 927, ../sass/modules/_global-styles.scss */
+  /* line 937, ../sass/modules/_global-styles.scss */
   .flex-direction-nav {
     display: none;
   }
 
-  /* line 931, ../sass/modules/_global-styles.scss */
+  /* line 941, ../sass/modules/_global-styles.scss */
   .tmc-middle-bio {
     float: none;
   }
 
-  /* line 935, ../sass/modules/_global-styles.scss */
+  /* line 945, ../sass/modules/_global-styles.scss */
   .roster-header h1 {
     font-size: 2em;
   }
 
-  /* line 939, ../sass/modules/_global-styles.scss */
+  /* line 949, ../sass/modules/_global-styles.scss */
   .roster-header h2 {
     font-size: 1.5em;
   }
 
-  /* line 943, ../sass/modules/_global-styles.scss */
+  /* line 953, ../sass/modules/_global-styles.scss */
   #CDT {
     font-size: 1.5em;
   }
@@ -1246,7 +1257,7 @@ a.previous.nav-icon, a.next.nav-icon {
   padding: 2.6em;
   color: #333;
   display: inline-block;
-  margin: 1.5em;
+  margin: 0 1.5em;
   font-size: 1.5em;
 }
 
@@ -2245,7 +2256,7 @@ figure img {
 
 /* line 101, ../sass/base.scss */
 .post-content {
-  margin: 22em 0 6em 0;
+  margin: 22em 0 2em 0;
 }
 
 /* line 105, ../sass/base.scss */
