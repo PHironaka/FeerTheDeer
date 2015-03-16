@@ -1204,63 +1204,74 @@ a.read-more {
     margin-bottom: 1em;
   }
 
-  /* line 914, ../sass/modules/_global-styles.scss */
-  .tmc-left-bio {
-    width: 100%;
+  /* line 913, ../sass/modules/_global-styles.scss */
+  h1.about {
+    padding: 1em 0;
   }
 
-  /* line 919, ../sass/modules/_global-styles.scss */
+  /* line 917, ../sass/modules/_global-styles.scss */
+  .tmc-3 h1 {
+    margin: 1em 0 0;
+  }
+
+  /* line 922, ../sass/modules/_global-styles.scss */
+  .tmc-left-bio {
+    width: 100%;
+    border-right: none;
+  }
+
+  /* line 927, ../sass/modules/_global-styles.scss */
   .roster-header {
     margin: 3em 0 1em 0;
   }
-  /* line 922, ../sass/modules/_global-styles.scss */
+  /* line 930, ../sass/modules/_global-styles.scss */
   .roster-header h1 {
     font-size: 3em;
   }
-  /* line 927, ../sass/modules/_global-styles.scss */
+  /* line 935, ../sass/modules/_global-styles.scss */
   .roster-header h2 {
     font-size: 2em;
   }
 
-  /* line 932, ../sass/modules/_global-styles.scss */
+  /* line 940, ../sass/modules/_global-styles.scss */
   #CDT {
     font-size: 2em;
   }
 }
 @media screen and (max-width: 460px) {
-  /* line 942, ../sass/modules/_global-styles.scss */
+  /* line 950, ../sass/modules/_global-styles.scss */
   .tmc-left-bio {
     float: left;
     margin-top: 0;
   }
 
-  /* line 947, ../sass/modules/_global-styles.scss */
+  /* line 955, ../sass/modules/_global-styles.scss */
   .tmc-left img.works {
     border-right: none;
     padding-right: 0;
   }
 
-  /* line 952, ../sass/modules/_global-styles.scss */
+  /* line 960, ../sass/modules/_global-styles.scss */
   .flex-direction-nav {
     display: none;
   }
 
-  /* line 956, ../sass/modules/_global-styles.scss */
+  /* line 964, ../sass/modules/_global-styles.scss */
   .tmc-middle-bio {
     float: none;
   }
 
-  /* line 960, ../sass/modules/_global-styles.scss */
+  /* line 968, ../sass/modules/_global-styles.scss */
   .roster-header h1 {
     font-size: 2em;
   }
 
-  /* line 964, ../sass/modules/_global-styles.scss */
+  /* line 972, ../sass/modules/_global-styles.scss */
   .roster-header h2 {
     font-size: 1.5em;
   }
 
-  /* line 968, ../sass/modules/_global-styles.scss */
+  /* line 976, ../sass/modules/_global-styles.scss */
   #CDT {
     font-size: 1.5em;
   }
