@@ -1,0 +1,35 @@
+{% capture content %}
+</div>
+<div class="page-name">
+<div class="tmc-16">
+<h2>Now Showing:</h2>
+<h1>{{meta['index']}}</h1>
+<p>{{current.body}}</p> </div>
+</div>
+</header>
+<div class="content">
+<div class="tmc-16">
+<h1 class="about">{{meta['about']}}</h1>
+<ul class="bio">
+{% for article in posts %}
+<li class="tmc-bio-pic">
+<a href="{{article.url}}">
+<span class="screen fade-in"> <p class="tmc-name">{{article.title}}</p></span>
+<figure><img src="{{article.assets.first.url}}"></figure></a> </li>
+{% endfor %}
+</ul>
+
+<div class="tmc-bio-work">
+<div class="tmc-3">
+<h1>{{meta['history']}}</h1>
+</div>
+<div class="tmc-3">
+<p>{{meta['note-3']}}</p>
+</div>
+<div class="tmc-3">
+<p>{{meta['note-4']}}</p>
+</div>
+</div>
+</div>
+{% endcapture %}
+{% include 'layouts/default' %}

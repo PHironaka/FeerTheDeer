@@ -1,0 +1,41 @@
+{% capture content %}
+</div>
+<div class="nowshowing-imc">
+<div class="page-name">
+<div class="tmc-16">
+<h2>{{meta['sudo']}}</h2>
+<h1>{{meta['index']}}</h1>
+<p>{{meta['cc']}}</p>
+</div>
+</div>
+</div>
+</header>
+<section class="content">
+<div class="tmc-16">
+<div class='list-columns'>
+<div class='list-column'>
+{% for post in site.posts %}
+{% if post.taxonomy['homepage'].all contains 'greatness' %}
+<div class="tmc-left-index">
+<div class="tmc-title">
+<h1>EXPERIMENT:</h1> <h2 class="title">{{post.meta['experiment']}}</h2>
+</div>
+<h2>UPDATE {{post.meta['experiment']}}</h2> <h2>{{post.date | date: "%b %d, %Y"}}</h2>
+<a href="{{ post.url }}"></span><h1 class="title">{{ post.title }}</h1><img src="{{post.assets.first.url}}"></a>
+<div class="tmc-conducted">
+<h1>CONDUCTED:</h1> <h1>{{post.date | date: "%b %d, %Y"}}</h1>
+</div>
+<div class="tmc-copy">
+<p>{{post.meta['note'}}</p>
+<a class="read-more" href='{{ post.url }}'>Read >></a>
+</div>
+</div>
+{% endif %}
+{% endfor %} </ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+{% endcapture %}
+{% include 'layouts/default' %}

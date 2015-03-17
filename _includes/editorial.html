@@ -1,0 +1,68 @@
+</div>
+<div class="page-name">
+<div class="tmc-16">
+<h2>Now Showing:</h2>
+<h1>Public Works Program</h1>
+<p>{{current.parent}}</p> </div>
+</div>
+</header>
+<section class="content">
+<div class="tmc-16">
+<article class='article'>
+<div class='content-header'>
+<h1 class="title">{{ current.title }}
+</h1>
+<h2>
+{{meta['cd']}}
+</h2>
+<h2>
+{{meta['photographer']}}
+</h2>
+<h2>
+{{meta['ad']}}
+</h2>
+<h2>
+{{meta['producer']}}
+</h2>
+<h2>
+{{meta['ph']}}
+</h2>
+</div>
+<div class="content-body">
+<p> {{meta['note']}}</p>
+<p> {{meta['follow']}}</p>
+</div>
+{{ current.body }}
+<figure>
+{% for asset in assets %}
+{% if asset.type == 'image' %}
+<img src="{{asset.url}}" style="width:{{asset.meta['img_size']}};float:{{asset.meta['gutter']}}">
+{% elsif asset.type == 'video' %}
+<video><source src="{{asset.url}}" type="{{asset.content_type}}"></video>
+{% elsif asset.type == 'other' %}
+<a href="{{asset.url}}">Download {{asset.filename}}</a></li>
+{% endif %}
+{% endfor %}
+</figure>
+</article>
+<h2 class="related">
+Relevant.
+</h2>
+<article class="related-posts">
+<div class="divider"></div>
+<ul>
+{% for related_post in parent.posts %}
+{% for tag in current.taxonomy['tags'].values %}
+{% if related_post.id != current.id %}
+<li>
+<h3> {{related_post.parent.title}}</h3>
+<a href="{{related_post.url}}">{{related_post.title}}</a>
+<p>{{related_post.meta['note']}}</p>
+</li>
+{% break %}
+{% endif %}
+{% endfor %}
+{% if forloop.index == 3 %}{% break %}{% endif %}
+{% endfor %}
+</ul>
+</article></div></section>

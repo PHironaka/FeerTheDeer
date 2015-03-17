@@ -1,0 +1,42 @@
+{% capture content %}
+</div>
+<div class="page-name">
+<div class="tmc-16">
+<h2>Now Showing:</h2>
+<h1>{{meta['index']}}</h1>
+<p>{{current.body}}</p> </div>
+</div>
+</header>
+<section class="post-content">
+<div class="tmc-16">
+<article class='article'>
+<div class='list-columns'>
+<div class='list-column'>
+{% for article in posts limit:12 %}
+{% cycle "", "</div><div class='list-column'>" %}
+<div class="tmc-left">
+<div class="tmc-title">
+<h1>EXPERIMENT:</h1> <h2 class="title">{{article.meta['experiment']}}</h2>
+</div>
+<img class="works" src="{{article.assets.first.url}}">
+<div class="tmc-conducted">
+<h1>CONDUCTED:</h1> <h1>{{article.date | date: "%b %d, %Y"}}</h1>
+</div>
+</div>
+<div class="tmc-right">
+<a class="read-more" href='{{ article.url }}'><h1 class="title">{{ article.title }}</h1></a>
+<p> {{article.{{meta['note']}}</p>
+<a class="read-more" href='{{ article.url }}'>Read More >></a>
+</div>
+{% endfor %}
+</div>
+<h3 class='content-subheader'>
+<a class='previous nav-icon' href='/works/archive'>Archive >></a>
+</h3>
+</div> </div>
+</div>
+</article>
+</div>
+</section>
+{% endcapture %}
+{% include 'layouts/default' %}

@@ -1,0 +1,55 @@
+<style>
+  {% assign base_color        = current.meta.base_color       | fallback: '#000'                     %}
+  {% assign menu_color        = current.meta.menu_color       | fallback: '#000'                     %}
+  {% assign background_color  = current.meta.background_color | fallback: '#fff'                     %}
+  {% assign highlight_color   = current.meta.highlight_color  | fallback: '#ff7878'       %}
+  {% assign lowlight_color    = current.meta.lowlight_color   | fallback: '#999'                     %}
+  {% assign knockout_color    = current.meta.knockout_color   | fallback: background_color           %}
+  {% assign alternate_color    = current.meta.alternate_color   | fallback: '#ff6767'        %}
+    
+  {% assign article_color    = current.meta.article_color   | fallback: background_color           %}
+  
+  html, body {
+    background-color: {{ background_color }};
+    color: {{ base_color }}
+  }
+  ::selection {
+    background-color: {{ highlight_color }};
+    color: {{ knockout_color }};
+  }
+  .tmc-100 {
+    color: {{ knockout_color }};
+  }
+  
+  header {
+  	   background-color: {{ highlight_color }};
+  }
+  
+
+  
+  .page-name {
+  	background-color: {{ alternate_color }};  	
+  }
+  
+   a:hover,
+  .pagination a,
+  .content-subheader a:hover,
+  .content-body a:hover
+    {
+    color: {{ highlight_color }};
+    -moz-transition:all .5s ease-out;
+    -o-transition:all .5s ease-out;
+    -webkit-transition:all .5s ease-out;
+    transition:all .5s ease-out;
+  }
+ 
+
+  header .page-menu li a {
+  	color: {{ menu_color }};
+  }
+  
+  .feature-name {
+  	color: {{ menu_color }};
+  }
+  
+</style>

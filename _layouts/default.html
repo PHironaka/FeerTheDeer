@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<meta charset=utf-8 />
+<meta name=description content='{{ site.meta.description }}'>
+<meta name=viewport content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+<title>{{site.title}} | {{title}}</title>
+<link rel=alternate type=application/rss+xml href={{site.feed_url}} />
+<link rel=stylesheet type=text/css href=/stylesheets/base.css />
+<link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,400italic' rel=stylesheet type=text/css>
+<link rel="icon shortcut" href=/img/favicon.ico>
+{% include 'includes/analytics' %}
+{% include 'includes/custom-color' %}
+</head>
+<body id=main>
+<header class=tmc-100>
+<div class=tmc-16>
+<a href=/><img src="/img/tmc-deeeer.png"class="site-title"/></a>
+<div class=wrap>
+{% assign section = url | remove_first:'/' | split:'/' | first %}
+{% assign prev_group = 0 %}
+{% for page in site.pages %}
+{% unless page.home? %}
+{% if page.meta.group != prev_group %}
+<ul class=page-menu>
+{% endif %}
+<li><a href="{{page.url}}"{% if page.url==url %} class="is-current-page"{% endif %}>{{page.title}}. </a><span class=nav>{{page.body}}</span> </li>
+{% assign prev_group = page.meta.group %}
+{% endunless %}
+{% endfor %}
+<div class=stream>
+<img src=/img/stream-drops.png alt /><p>Now Flowing: </p> <a href=http://stream.madburyclub.com> The Madbury Stream </a>
+</div>
+</ul>
+</div>
+{{ content }}
+</div>
+</section>
+</div>
+<footer class=main-footer>
+<div class=tmc-16>
+<div class=tmc-footer-left>
+<div id=mc_embed_signup>
+<form action="//madburyclub.us9.list-manage.com/subscribe/post?u=22a209689a6ed7edfb0d13a32&amp;id=5274c59a36" method=post id=mc-embedded-subscribe-form name=mc-embedded-subscribe-form class=validate target=_blank novalidate>
+<div id=mc_embed_signup_scroll>
+<input type=email value name=EMAIL class=email id=mce-EMAIL placeholder="Subscribe for Cosmic Broadcasts." required>
+<div style=position:absolute;left:-5000px><input type=text name=b_22a209689a6ed7edfb0d13a32_5274c59a36 tabindex=-1 value></div>
+<div class=clear><input type=submit value=Subscribe name=subscribe id=mc-embedded-subscribe class=button></div>
+</div>
+<p>© 2015 The Intergalactic Madbury Club. All Rights Reserved</p>
+</div>
+</form>
+</div>
+<div class=tmc-footer-right>
+<div class=mailing>
+<h1>Follow</h1>
+<ul>
+<li>
+<a href=https://twitter.com/MadburyClub target=_blank><img src=/img/social19.svg alt /></a></li>
+<li><a href=http://instagram.com/madburyclub target=_blank><img src=/img/photos12.svg alt /></a></li>
+<li><a href=http://stream.madburyclub.com/ target=_blank><img src=/img/tumblr.svg alt /></a></li>
+<li><a href=http://feeds.feedburner.com/StreamTheMadburyClub target=_blank><img src=/img/rss.svg alt /></a>
+</li>
+</ul>
+</div>
+<div class=contact>
+<h1>Contact Us</h1>
+<a href=mailto:jeeves@madburyclub.com>{{site.meta['contact']}}</a>
+</div>
+</div>
+</footer>
+<script type=text/javascript src=/js/all.js></script>
+<script type=text/javascript src=//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js></script><script type=text/javascript>(function(a){window.fnames=new Array();window.ftypes=new Array();fnames[0]="EMAIL";ftypes[0]="email";fnames[1]="FNAME";ftypes[1]="text";fnames[2]="LNAME";ftypes[2]="text"}(jQuery));var $mcj=jQuery.noConflict(true);</script>
+</body>
+</html>

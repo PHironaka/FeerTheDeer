@@ -1,0 +1,24 @@
+{% capture content %}
+</div>
+<div class="page-name">
+<div class="tmc-16">
+<h2>Now Showing:</h2>
+<h1>Archives</h1>
+<p>The following are a somewhat all encompassing collection of The Madbury Club’s public works. Including, but not limited to, editorial and film efforts. </p> </div>
+</div>
+</header>
+<section class="content">
+<div class="tmc-16">
+{% for post in site.posts %}
+{% if post.taxonomy['set'].all contains 'archives' %}
+<div class="tmc-archives">
+<h1>EXPERIMENT:</h1> <h2>{{post.meta['experiment']}}</h2>
+<a class="read-more" href="{{post.url}}"><h1 class="title">{{post.title}}</h1></a>
+<p>{{post.{{meta['note']}}</p>
+</div>
+{% endif %}
+{% endfor %}
+</div>
+</section>
+{% endcapture %}
+{% include 'layouts/default' %}
