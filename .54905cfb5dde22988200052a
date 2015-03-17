@@ -1,12 +1,12 @@
 ---
-time: 1426573043
+time: 1426573329
 inventory:
   /index/index.html:
-    md5: 9ae200623debfc265efd5f73deeb8a28
-    time: 1426573013
+    md5: ce73edba68b6dfe1031b59a2ef3c4ddf
+    time: 1426573296
   /index.html:
-    md5: 9ae200623debfc265efd5f73deeb8a28
-    time: 1426573013
+    md5: ce73edba68b6dfe1031b59a2ef3c4ddf
+    time: 1426573296
   /works/index.html:
     md5: 28874a0e38c6e4cf61d24388c367681e
     time: 1426573013
@@ -83,8 +83,8 @@ inventory:
     md5: 34ec08d835339d7bd137b1fefe975385
     time: 1426533341
   /works/archive/index.html:
-    md5: b03585a5de51a230870b4bd832ab9a74
-    time: 1426573019
+    md5: 8d0ac0bfbdc21f8e81316a2df40217a1
+    time: 1426573303
   /works/tags/index.html:
     md5: 23a83efc405cf1af7ad2afe3e19bda36
     time: 1426533342
@@ -176,32 +176,32 @@ inventory:
     md5: f0b45c600f9d532389fe08fe8d33d3b2
     time: 1426533345
   /the-club/phillip-t-annand/index.html:
-    md5: 42c511f15043e442694c76b1282c265f
-    time: 1426533349
+    md5: 9e136f883cbd77c5b3bac22855f086ef
+    time: 1426573311
   /the-club/hyun-kim/index.html:
-    md5: 1cbef66da8e8b93795beb062f0f5698e
-    time: 1426533350
+    md5: cac87fd9ffc4b3ce5f411d3a3cc4d6cd
+    time: 1426573311
   /the-club/marcus-arman/index.html:
     md5: f27c62e05883b4bdf9abb96394529338
     time: 1426533350
   /the-club/peter-hironaka/index.html:
-    md5: fe94dbf444d428674fd66ef94869fc0e
-    time: 1426533350
+    md5: 7dfce10c87cd43af231011e74a57b85d
+    time: 1426573312
   /the-club/darryl-richardson/index.html:
-    md5: 683d5843f946b50e3e1e36a609d378db
-    time: 1426533350
+    md5: 26a94933b1ad22b49be55f1b032387bb
+    time: 1426573312
   /the-club/ellington-hammond/index.html:
-    md5: 4e0001db9d564420c5b486910d91a652
-    time: 1426533351
+    md5: a6060d75e4c6904eda5fd150152ddc24
+    time: 1426573313
   /the-club/vincent-picone/index.html:
-    md5: 8d3462f2dfa6c6eca457df821f39d4b1
-    time: 1426533352
+    md5: 57fb2c67850d5ee434bb6b9fc2d59196
+    time: 1426573315
   /the-club/tone/index.html:
-    md5: 774ca3b7cf85ccce8d656280fc633c96
-    time: 1426533353
+    md5: 0c6473c11ff34d826f983bb0ccdc2ec8
+    time: 1426573316
   /the-club/bryan-stevenson/index.html:
-    md5: 8555bc3345f306d9033ab0be50e36dcf
-    time: 1426533354
+    md5: 8cf00f938908fd6b488e260e468ad95d
+    time: 1426573317
   /the-club/archive/index.html:
     md5: 428b27a74c58d08dc6c11fa7f596d59c
     time: 1426533355
@@ -212,14 +212,14 @@ inventory:
     md5: febdea567056149557f64dd5a072ff85
     time: 1426227118
   /works/features/index.html:
-    md5: d53a62486b69503ad5ed60b4db70bda5
-    time: 1426533355
-  /works/features/roosevelt-surveyance/index.html:
-    md5: c3e982a1d7bc6ed1a579c3111ef5e912
-    time: 1426533356
+    md5: 7417b5cb25b0720f1ec59f468808c15c
+    time: 1426573317
   /works/features/nylon-expeditions-a-madbury-editorial-experiment/index.html:
     md5: 8c4987a3d2d7342e649c1a022956b201
     time: 1426533356
+  /works/features/roosevelt-surveyance/index.html:
+    md5: 6bab40bc83b72ea16401e6d7ac69854b
+    time: 1426573318
   /works/features/moonstompin-a-planetary-recon/index.html:
     md5: 555619577ebe38f568de27c04f2342b2
     time: 1426533356
@@ -241,6 +241,15 @@ inventory:
   /works/features/tags/ellington-hammond/index.html:
     md5: 30ca483dbaaaaa5d04b1d6ad59e166e1
     time: 1426533356
+  /works/features/tags/tone/index.html:
+    md5: af29ac0b6ec7f873fb0dc2287992b2e8
+    time: 1426573319
+  /works/features/tags/hyun-kim/index.html:
+    md5: b6d3219dccf65fa3bf7f68122b36596d
+    time: 1426573319
+  /works/features/tags/vinny-picone/index.html:
+    md5: bb7ae199c00d564020d20cda16af6fc3
+    time: 1426573319
   /works/features/tags/holy-coast/index.html:
     md5: 6ab50f02f329ae65f728e0e5ab32ec5b
     time: 1426533357
@@ -377,11 +386,11 @@ inventory:
     md5: 195e2c621dae2c5c279ebc9308c3e0ee
     time: 1426227127
   /sitemap.xml:
-    md5: 341682146b56fc6f3a2b1d1883bef8e7
-    time: 1426573042
+    md5: b0118b5b34fbcdff317669db43875969
+    time: 1426573326
   /feed.xml:
-    md5: 3b86650504100f6dbd8ee237ca1073e3
-    time: 1426573042
+    md5: d5bac35b76699f90e926c863244baa20
+    time: 1426573326
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
