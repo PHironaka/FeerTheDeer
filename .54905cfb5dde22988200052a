@@ -1,5 +1,5 @@
 ---
-time: 1426540352
+time: 1426550943
 inventory:
   /index/index.html:
     md5: 73610965e409df27d3c3734043e8c528
@@ -26,8 +26,8 @@ inventory:
     md5: 2f57ea408af0f35131395715c322067b
     time: 1426533337
   /works/native-shoes-and-hypebeast-presents-benjamin-trollins/index.html:
-    md5: ff4a4a959c3c277b108f7003e6fbca37
-    time: 1426533337
+    md5: fdce25f73bf03a00ef3cb2c340ad2ebb
+    time: 1426550915
   /works/native-shoes/index.html:
     md5: d1238535f34f128dd38985329ea259b1
     time: 1426533337
@@ -377,11 +377,11 @@ inventory:
     md5: 195e2c621dae2c5c279ebc9308c3e0ee
     time: 1426227127
   /sitemap.xml:
-    md5: 6ad2047df4098314b0e1246c971108e0
-    time: 1426539490
+    md5: 55e2a4c39c2b905ead5c357f2ddbcbdf
+    time: 1426550942
   /feed.xml:
-    md5: 5944c44e9babb864cdc83ded719def55
-    time: 1426540351
+    md5: e2495ebcce5c7c26cc35ec3cb7f37ac9
+    time: 1426550942
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
