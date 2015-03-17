@@ -1,5 +1,5 @@
 ---
-time: 1426606345
+time: 1426606528
 inventory:
   /index/index.html:
     md5: ce73edba68b6dfe1031b59a2ef3c4ddf
@@ -83,8 +83,8 @@ inventory:
     md5: 34ec08d835339d7bd137b1fefe975385
     time: 1426533341
   /works/archive/index.html:
-    md5: d71bfe10c31f5ea62c828897c12209fb
-    time: 1426606319
+    md5: 8888254c59cfa6d3ec96a76060b85f97
+    time: 1426606506
   /works/tags/index.html:
     md5: 23a83efc405cf1af7ad2afe3e19bda36
     time: 1426533342
@@ -176,8 +176,8 @@ inventory:
     md5: f0b45c600f9d532389fe08fe8d33d3b2
     time: 1426533345
   /the-club/phillip-t-annand/index.html:
-    md5: 995ee7b0366772f0536017a8c05ad936
-    time: 1426606327
+    md5: 22494694358c9e2201a351e2d379df5c
+    time: 1426606513
   /the-club/hyun-kim/index.html:
     md5: 177ae7985258fa5af008b2517be49eee
     time: 1426605896
@@ -191,17 +191,17 @@ inventory:
     md5: 26a94933b1ad22b49be55f1b032387bb
     time: 1426573312
   /the-club/ellington-hammond/index.html:
-    md5: 710818f291153cd7dbb033dfd638b746
-    time: 1426605898
+    md5: 6b8aec62464e99fb6596576fc324d2d9
+    time: 1426606515
   /the-club/vincent-picone/index.html:
-    md5: a98d292f21c604f9676112f873f10287
-    time: 1426605899
+    md5: 8fe2f10dc98958c0bec51ec35f8830f2
+    time: 1426606517
   /the-club/tone/index.html:
     md5: 16892e00d99807ff3b3bd6e8c06a0572
     time: 1426573429
   /the-club/bryan-stevenson/index.html:
-    md5: e44ef598f46ec2600bb67cce4eef9e73
-    time: 1426606332
+    md5: ab0fb948489565fccde8552d0e7e8402
+    time: 1426606518
   /the-club/archive/index.html:
     md5: 428b27a74c58d08dc6c11fa7f596d59c
     time: 1426533355
@@ -212,8 +212,8 @@ inventory:
     md5: febdea567056149557f64dd5a072ff85
     time: 1426227118
   /works/features/index.html:
-    md5: 771b8cd444b07d3f47b6a0d5cf4ad1c8
-    time: 1426573431
+    md5: b9be90191d75a58875320c17eff01cdc
+    time: 1426606519
   /works/features/nylon-expeditions-a-madbury-editorial-experiment/index.html:
     md5: 8c4987a3d2d7342e649c1a022956b201
     time: 1426533356
@@ -305,8 +305,8 @@ inventory:
     md5: 009942c795183bd9f15c2fbee16be3a0
     time: 1426606338
   /works/spreads/the-brooklyn-circus-fall-holiday-made-in-america-2010-lookbook/index.html:
-    md5: 8ebdaf4ecdf567089b5c69754f37acd5
-    time: 1426606338
+    md5: cade8e60e393d6d3b729a5b7adac4c37
+    time: 1426606524
   /works/spreads/crab-chowder-and-conversation-with-chip-tha-ripper/index.html:
     md5: e7cfd0c406aa5118981120b4490d5b61
     time: 1426606338
@@ -389,8 +389,8 @@ inventory:
     md5: 4e68a00bd7a522abfe1f13b2574a5127
     time: 1426606341
   /feed.xml:
-    md5: a664e0426878b6aed47dcc47602a1295
-    time: 1426606341
+    md5: fd428b0864a4c5c229c149b26746254f
+    time: 1426606527
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
