@@ -1,5 +1,5 @@
 ---
-time: 1426573329
+time: 1426573441
 inventory:
   /index/index.html:
     md5: ce73edba68b6dfe1031b59a2ef3c4ddf
@@ -83,8 +83,8 @@ inventory:
     md5: 34ec08d835339d7bd137b1fefe975385
     time: 1426533341
   /works/archive/index.html:
-    md5: 8d0ac0bfbdc21f8e81316a2df40217a1
-    time: 1426573303
+    md5: 4764a1a08e14d222bc8ee02ad38989d0
+    time: 1426573417
   /works/tags/index.html:
     md5: 23a83efc405cf1af7ad2afe3e19bda36
     time: 1426533342
@@ -176,11 +176,11 @@ inventory:
     md5: f0b45c600f9d532389fe08fe8d33d3b2
     time: 1426533345
   /the-club/phillip-t-annand/index.html:
-    md5: 9e136f883cbd77c5b3bac22855f086ef
-    time: 1426573311
+    md5: 70604e8764ffdb7fdc9bc59f5278ad65
+    time: 1426573425
   /the-club/hyun-kim/index.html:
-    md5: cac87fd9ffc4b3ce5f411d3a3cc4d6cd
-    time: 1426573311
+    md5: fc83b9b3f7ebea485c1917373fb96302
+    time: 1426573425
   /the-club/marcus-arman/index.html:
     md5: f27c62e05883b4bdf9abb96394529338
     time: 1426533350
@@ -191,17 +191,17 @@ inventory:
     md5: 26a94933b1ad22b49be55f1b032387bb
     time: 1426573312
   /the-club/ellington-hammond/index.html:
-    md5: a6060d75e4c6904eda5fd150152ddc24
-    time: 1426573313
+    md5: f1919320ed1bf272ea00d39da67b7f65
+    time: 1426573426
   /the-club/vincent-picone/index.html:
-    md5: 57fb2c67850d5ee434bb6b9fc2d59196
-    time: 1426573315
+    md5: 0804c4f81429bbe53ab2850535b94820
+    time: 1426573428
   /the-club/tone/index.html:
-    md5: 0c6473c11ff34d826f983bb0ccdc2ec8
-    time: 1426573316
+    md5: 16892e00d99807ff3b3bd6e8c06a0572
+    time: 1426573429
   /the-club/bryan-stevenson/index.html:
-    md5: 8cf00f938908fd6b488e260e468ad95d
-    time: 1426573317
+    md5: 7feccc72267414ae758fd4cad973a274
+    time: 1426573430
   /the-club/archive/index.html:
     md5: 428b27a74c58d08dc6c11fa7f596d59c
     time: 1426533355
@@ -212,14 +212,14 @@ inventory:
     md5: febdea567056149557f64dd5a072ff85
     time: 1426227118
   /works/features/index.html:
-    md5: 7417b5cb25b0720f1ec59f468808c15c
-    time: 1426573317
+    md5: 771b8cd444b07d3f47b6a0d5cf4ad1c8
+    time: 1426573431
   /works/features/nylon-expeditions-a-madbury-editorial-experiment/index.html:
     md5: 8c4987a3d2d7342e649c1a022956b201
     time: 1426533356
   /works/features/roosevelt-surveyance/index.html:
-    md5: 6bab40bc83b72ea16401e6d7ac69854b
-    time: 1426573318
+    md5: 6dfc09770ca53fd5519854dddfc9e940
+    time: 1426573431
   /works/features/moonstompin-a-planetary-recon/index.html:
     md5: 555619577ebe38f568de27c04f2342b2
     time: 1426533356
@@ -389,8 +389,8 @@ inventory:
     md5: b0118b5b34fbcdff317669db43875969
     time: 1426573326
   /feed.xml:
-    md5: d5bac35b76699f90e926c863244baa20
-    time: 1426573326
+    md5: 585093d9c30b55282bedc002541a8659
+    time: 1426573439
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
