@@ -1,5 +1,5 @@
 ---
-time: 1427321292
+time: 1427321514
 inventory:
   /index/index.html:
     md5: 759fcfa068ecab54913b5db60f02c972
@@ -8,8 +8,8 @@ inventory:
     md5: 759fcfa068ecab54913b5db60f02c972
     time: 1427321261
   /works/index.html:
-    md5: 5de5c6b1e16bb73a5516b6d34268d748
-    time: 1427321194
+    md5: f5ef21c35531f2f41d6e995c4b1cbef3
+    time: 1427321487
   /works/nike-basketball-instagram/index.html:
     md5: a30a36f18804561e258d3c6c801d8c00
     time: 1427321194
@@ -158,8 +158,8 @@ inventory:
     md5: 4e9cf6abb96e36064cbeedb1d66a7044
     time: 1427321109
   /works/index/index.html:
-    md5: 4951ada1ca3a88764ecf664e100b769a
-    time: 1427321109
+    md5: 5692e86b4b87da1a58f5f094d26e05ee
+    time: 1427321494
   /works/index/post/index.html:
     md5: 1a27e9f2083709c776471aff25346602
     time: 1427321109
@@ -212,8 +212,8 @@ inventory:
     md5: be1b5a31b110064794e07ae2bfd81170
     time: 1427321212
   /factory/index.html:
-    md5: aca04c24500c3fd6d66c35f715063085
-    time: 1426610688
+    md5: 2f61ff40bae4b38a5c5a8f1dc6041f22
+    time: 1427321504
   /works/features/index.html:
     md5: bf28d6d0c2a98ba4d5bac8c915405015
     time: 1427321281
@@ -425,8 +425,8 @@ inventory:
     md5: cc1f1cb58584fee281de89d8f940c062
     time: 1427321221
   /feed.xml:
-    md5: 22560adfd2fbd7b4740b04ca1fb02e97
-    time: 1427321291
+    md5: 5b0c63a63d379e6cfb453895214ab1ab
+    time: 1427321513
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -682,66 +682,12 @@ inventory:
   /assets/hjgjgh.jpg:
     md5: e850ea7ceae9938fc2f899d33074b9c9
     time: 1427321139
-  /_site/assets/css/style.css:
-    md5: 51af40360b9a73e9a7d67362543a52d9
-    time: 1427321139
-  /_site/assets/img/favicon.ico:
-    md5: 3195a1b1eb15360dbd29ace8e0f4763b
-    time: 1427321139
-  /_site/assets/img/TMCBLACK.svg:
-    md5: e80df969f5c46396464d550b4a2340bd
-    time: 1427321139
-  /_site/assets/img/tmcbwLogo.svg:
-    md5: 3f2fd190aa8176ef97b758ebc7a5150f
-    time: 1427321140
-  /_site/assets/img/tmclogo.svg:
-    md5: 84a8272bfd63cb754f9b72b1aa86fb54
-    time: 1427321140
-  /_site/assets/style.css:
-    md5: c4e79732dc5ca12b0a0e021cd7844f4f
-    time: 1427321140
-  /_site/config.ru:
-    md5: af7025fab73b4511cdf1b5461875df06
-    time: 1427321140
-  /_site/Gemfile:
+  /Gemfile:
     md5: 4724f808f2642dd10cfe1d41a7fbfd6c
-    time: 1427321141
-  /_site/Gemfile.lock:
+    time: 1427321513
+  /Gemfile.lock:
     md5: 258d87e94c33e949aabd126c33db635d
-    time: 1427321141
-  /_site/npm-debug.log:
-    md5: 374c69e8f1c0a3f04596566f2b04716e
-    time: 1427321141
-  /_site/sass/ie.scss:
-    md5: 9496473067040385831bb6cccbd68627
-    time: 1427321141
-  /_site/sass/mixins.scss:
-    md5: a2e39c34e0c6eabcaaaeeb25c7c0694d
-    time: 1427321141
-  /_site/sass/print.scss:
-    md5: 4583ffae7a2f26754f6b3d0f10655e8b
-    time: 1427321142
-  /_site/sass/reset.scss:
-    md5: 4618d5637ea621530597bec55c26f02d
-    time: 1427321142
-  /_site/sass/screen.scss:
-    md5: 14dd5d026ce9f2cd8be485599fc14ba0
-    time: 1427321142
-  /_site/stylesheets/ie.css:
-    md5: 9496473067040385831bb6cccbd68627
-    time: 1427321142
-  /_site/stylesheets/mixins.css:
-    md5: d41d8cd98f00b204e9800998ecf8427e
-    time: 1427321142
-  /_site/stylesheets/print.css:
-    md5: 4583ffae7a2f26754f6b3d0f10655e8b
-    time: 1427321142
-  /_site/stylesheets/reset.css:
-    md5: 9d506627cfe1acf7458ce113ea66714b
-    time: 1427321143
-  /_site/stylesheets/screen.css:
-    md5: d554e5eb06c04b642eebc0f739439e5a
-    time: 1427321143
+    time: 1427321513
   /img/deer.png:
     md5: 1e45c82fc9c7484b0325cb91efdfa8aa
     time: 1426234053
@@ -836,8 +782,8 @@ inventory:
     md5: b77bb70e806cca2ec63004471486e37c
     time: 1427321144
   /stylesheets/base.css:
-    md5: 7dbd5dcd658aec778427412209549db3
-    time: 1427321144
+    md5: 1067dade86f913466ee1f9aa16d4eb97
+    time: 1427321513
   /stylesheets/reset.css:
     md5: 9d506627cfe1acf7458ce113ea66714b
     time: 1426235251
