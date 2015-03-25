@@ -1,0 +1,111 @@
+/* The Intergalactic Madbury Club™
+ * Dorm Room Sensibilities since 2010. Two Times Platinum Shuffleboard Committee.
+ * Fear the Deer, Respect The Stripe.
+*/
+
+@import "reset";
+
+$defaultFont: Playfair Display, serif;
+$primaryColor: #333;
+$font-size: 1em;
+$navFont: 1.2em;
+$float-position: left;
+$display: inline-block;
+$size: 100%;
+$break-small: 320px;
+$break-large: 1100px;
+
+ body {
+ font-family: $defaultFont;
+ font-size: 1.2em;
+ color: $primaryColor;
+ margin: 0;
+ 
+ }
+ 
+.flexible {
+  padding: 0;
+  text-align: center;
+ 
+ 
+  li {
+    background: #CCC;
+    min-width: 12em;
+    margin: .5em;
+    padding: .5em;
+    display: inline-block; /* non-flexbox browsers */
+  }
+}
+ 
+ .site-title {
+ 	float:$float-position;
+ 	width: 6.6em;
+ 	height: 6.6em;
+ 	display: $display;
+ 	text-indent: -9999px;
+ 	background: url("/assets/img/TMCBLACK.svg") no-repeat center;
+ 	background-size:$size;
+ 	}
+ 
+ .wrap{
+ margin-left: 22em;
+ max-width: 58em;
+ overflow: hidden;
+ }
+ 
+ .tmc-16 {
+ 	max-width: 67.875rem;
+ 	margin: 0 auto;
+ 	padding: 0 1rem;
+ 	@media screen and (max-width: $break-large) {
+ 	  max-width: 63.875rem;
+ 	} }
+ 
+ .tmc-100{
+   width: 100%;
+   height: 15.875rem;
+   font-size: 0.85em; 
+ }
+ 
+ .content{
+   float: $float-position;
+   width: 65%;
+  @media screen and (max-width: $break-small) {
+     width: 100px;
+     float: none;
+   }
+   @media screen and (min-width: $break-large) {
+     float: right;
+   } }
+ 	
+ 	
+ .page-menu {
+   margin: 0 0 30px;
+   float: $float-position;
+   
+   li, li {
+   list-style: none;
+   color: $primaryColor;
+   float: $float-position;
+   border-top: 12px solid $primaryColor;
+   margin: 0 1em;
+   padding: 0.5em 0 0;
+   width: 7em;
+   }
+   
+   
+ }
+  
+ span.nav {
+ 	font-size: .6em;
+ 	font-style: italic;
+ }
+ 
+ /* Content */
+ 
+ .content-title{
+ font-size: 1.2em;
+   
+ }
+ 
+ 

@@ -1,0 +1,165 @@
+@charset "UTF-8";
+/* The Intergalactic Madbury Club™
+ * Dorm Room Sensibilities since 2010. Two Times Platinum Shuffleboard Committee.
+ * Fear the Deer, Respect The Stripe.
+*/
+/* line 2, ../sass/reset.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 23, ../sass/reset.scss */
+ol, ul, li {
+  list-style: none;
+}
+
+/* line 27, ../sass/reset.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 32, ../sass/reset.scss */
+a img {
+  border: none;
+}
+
+/* line 36, ../sass/reset.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 40, ../sass/reset.scss */
+a {
+  text-decoration: none;
+}
+
+/* line 45, ../sass/reset.scss */
+img, video, object {
+  max-width: 100%;
+}
+
+/* line 18, ../sass/screen.scss */
+body {
+  font-family: Playfair Display, serif;
+  font-size: 1.2em;
+  color: #333;
+  margin: 0;
+}
+
+/* line 26, ../sass/screen.scss */
+.flexible {
+  padding: 0;
+  text-align: center;
+}
+/* line 31, ../sass/screen.scss */
+.flexible li {
+  background: #CCC;
+  min-width: 12em;
+  margin: .5em;
+  padding: .5em;
+  display: inline-block;
+  /* non-flexbox browsers */
+}
+
+/* line 40, ../sass/screen.scss */
+.site-title {
+  float: left;
+  width: 6.6em;
+  height: 6.6em;
+  display: inline-block;
+  text-indent: -9999px;
+  background: url("/assets/img/TMCBLACK.svg") no-repeat center;
+  background-size: 100%;
+}
+
+/* line 50, ../sass/screen.scss */
+.wrap {
+  margin-left: 22em;
+  max-width: 58em;
+  overflow: hidden;
+}
+
+/* line 56, ../sass/screen.scss */
+.tmc-16 {
+  max-width: 67.875rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+@media screen and (max-width: 1100px) {
+  /* line 56, ../sass/screen.scss */
+  .tmc-16 {
+    max-width: 63.875rem;
+  }
+}
+
+/* line 64, ../sass/screen.scss */
+.tmc-100 {
+  width: 100%;
+  height: 15.875rem;
+  font-size: 0.85em;
+}
+
+/* line 70, ../sass/screen.scss */
+.content {
+  float: left;
+  width: 65%;
+}
+@media screen and (max-width: 320px) {
+  /* line 70, ../sass/screen.scss */
+  .content {
+    width: 100px;
+    float: none;
+  }
+}
+@media screen and (min-width: 1100px) {
+  /* line 70, ../sass/screen.scss */
+  .content {
+    float: right;
+  }
+}
+
+/* line 82, ../sass/screen.scss */
+.page-menu {
+  margin: 0 0 30px;
+  float: left;
+}
+/* line 86, ../sass/screen.scss */
+.page-menu li, .page-menu li {
+  list-style: none;
+  color: #333;
+  float: left;
+  border-top: 12px solid #333;
+  margin: 0 1em;
+  padding: 0.5em 0 0;
+  width: 7em;
+}
+
+/* line 99, ../sass/screen.scss */
+span.nav {
+  font-size: .6em;
+  font-style: italic;
+}
+
+/* Content */
+/* line 106, ../sass/screen.scss */
+.content-title {
+  font-size: 1.2em;
+}
