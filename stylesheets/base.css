@@ -239,7 +239,7 @@ h2.title{font-size:2em;font-family:arial;font-weight:700;float:left;margin-right
 header{width:100%;max-width:100%;margin:0 auto;position:absolute;overflow:hidden;top:0;z-index:10;height:22em}
 header .site-title{float:left;width:20em;margin-left:-4em}
 header .page-menu{display:block;margin-left:50.226658%;width:57.29137%}
-header .page-menu li{list-style:none;float:left;margin:0 1em;padding:.5em 0 0;width:7em}
+header .page-menu li{list-style:none;float:left;margin:0 1em;padding:.5em 0 0;width:7em; border-top:10px solid;}
 header .page-menu li a{font-size:1.4em;border-bottom:1px solid;padding-bottom:.3em}
 header .page-menu li a:hover{color:#fff;-moz-transition:all .5s ease-out;-o-transition:all .5s ease-out;-webkit-transition:all .5s ease-out;transition:all .5s ease-out}
 header .page-menu li span.nav{font-size:.6em;font-style:italic;line-height:1}
