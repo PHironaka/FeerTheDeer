@@ -1,5 +1,5 @@
 ---
-time: 1427387475
+time: 1427387560
 inventory:
   /index/index.html:
     md5: 6fb07565fa2131b32b6766668822e582
@@ -218,8 +218,8 @@ inventory:
     md5: 2f61ff40bae4b38a5c5a8f1dc6041f22
     time: 1427321504
   /works/features/index.html:
-    md5: c319870362c38c269435cbd7680e20d6
-    time: 1427387467
+    md5: 3b990de2e6c62c4578506cfe694f0eaa
+    time: 1427387551
   /works/features/native-shoes-native-tongue-issue-i-ss15-campaign/index.html:
     md5: 75af7477f383345453280f63989e1c29
     time: 1427321282
@@ -227,8 +227,8 @@ inventory:
     md5: e0af635a9e7a4691f4fd7539a117c223
     time: 1427387467
   /works/features/roosevelt-surveyance/index.html:
-    md5: 6bf29246960b65a342fc3d53de8d9cd1
-    time: 1427321122
+    md5: c5d968c3f43fcdba973ddfe4aa23fcf6
+    time: 1427387552
   /works/features/moonstompin-a-planetary-recon/index.html:
     md5: 9076990c138873f3fbaea45452ebee22
     time: 1427321122
@@ -428,8 +428,8 @@ inventory:
     md5: 18a35c727a52bdc28565e4ce3f0485e6
     time: 1427378041
   /feed.xml:
-    md5: 9d9ae74ae5513dc03bb3625773181e11
-    time: 1427387475
+    md5: 6a6c16db77af5c110943f9a9b39c0369
+    time: 1427387559
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
