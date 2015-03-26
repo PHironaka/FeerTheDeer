@@ -1,5 +1,5 @@
 ---
-time: 1427406773
+time: 1427407421
 inventory:
   /index/index.html:
     md5: 6fb07565fa2131b32b6766668822e582
@@ -688,12 +688,12 @@ inventory:
   /assets/54ff35915dde22a9ea001210-1.jpg:
     md5: 25d3ef325cd01fcd3767f61fa9eaa68b
     time: 1427377923
-  /config.ru:
-    md5: af7025fab73b4511cdf1b5461875df06
-    time: 1427406773
   /Gemfile:
     md5: 4724f808f2642dd10cfe1d41a7fbfd6c
     time: 1427321513
+  /Gemfile.lock:
+    md5: 258d87e94c33e949aabd126c33db635d
+    time: 1427407421
   /img/deer.png:
     md5: 1e45c82fc9c7484b0325cb91efdfa8aa
     time: 1426234053
