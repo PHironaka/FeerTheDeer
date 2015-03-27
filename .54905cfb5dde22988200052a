@@ -1,5 +1,5 @@
 ---
-time: 1427408775
+time: 1427420373
 inventory:
   /index/index.html:
     md5: e42eb24581162ef40d322890fa1bf8a3
@@ -221,8 +221,8 @@ inventory:
     md5: 307323d7b03fb3e1dd94079593e32065
     time: 1427408736
   /works/features/native-shoes-native-tongue-issue-i-ss15-campaign/index.html:
-    md5: 978e65531fe2beb3bd0b68f1b63a5110
-    time: 1427408736
+    md5: 2d4bb304d2f04b1a28133be78109bf20
+    time: 1427420365
   /works/features/nylon-expeditions-a-madbury-editorial-experiment/index.html:
     md5: 38dae5191e998191175bc196cc24fc2f
     time: 1427408737
@@ -428,8 +428,8 @@ inventory:
     md5: 36c806c36b728925c1f14f9c5f3830bc
     time: 1427407551
   /feed.xml:
-    md5: 09adc10c2dc09f2170619116df66fa63
-    time: 1427408753
+    md5: b9af1e0c63e027b3077dcc5e6580272a
+    time: 1427420373
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -1720,9 +1720,6 @@ inventory:
   /assets/baby.jpg:
     md5: 1729af33076ce0fed78cb571a5ff31cf
     time: 1426178527
-  /assets/80sbb.jpg:
-    md5: 45fd5151a7da2c0b61ae88deb1a43091
-    time: 1427321146
   /assets/SR12-1.jpg:
     md5: f907d70e72896f83327166cb0f9df9ad
     time: 1425588976
