@@ -1,5 +1,5 @@
 ---
-time: 1427741403
+time: 1427781849
 inventory:
   /index/index.html:
     md5: a0ebd09ac1708e94c1dc4f4cddbd49b0
@@ -215,8 +215,8 @@ inventory:
     md5: aca04c24500c3fd6d66c35f715063085
     time: 1427406756
   /works/features/index.html:
-    md5: 6e3ff7e1ff723d36c5c13c1cb910aecc
-    time: 1427740961
+    md5: 738cdf72751e57c1c10d70da06bc1fb0
+    time: 1427781832
   /works/features/native-shoes-native-tongue-issue-i-ss15-campaign/index.html:
     md5: 2eb62f05413bb0c6fb889ea6d974fae9
     time: 1427740961
@@ -224,8 +224,8 @@ inventory:
     md5: e99a84c9ccabadc43854800e6cb7ca9d
     time: 1427741395
   /works/features/nylon-expeditions-a-madbury-editorial-experiment/index.html:
-    md5: ebfa0e6471e01237c6590a94fbd03761
-    time: 1427740961
+    md5: 8a64b98d7c990b60884cda5ae8cbb3ac
+    time: 1427781832
   /works/features/roosevelt-surveyance/index.html:
     md5: 743655fb0d6218233bd4bab32b9cced3
     time: 1427740961
@@ -434,8 +434,8 @@ inventory:
     md5: 752f884d663e84f3913097c783972f65
     time: 1427740970
   /feed.xml:
-    md5: 12b8bccf806ec967154ac5f942470c3e
-    time: 1427741403
+    md5: ff13410039ea5f4c6edd39868a9e953b
+    time: 1427781842
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -829,6 +829,45 @@ inventory:
   /assets/tumblr_nfm120ztZL1qba77vo5_1280.jpg:
     md5: 078ee955debd78cc1fc9d6f013f2fb0c
     time: 1427740973
+  /assets/MG_1616.jpg:
+    md5: 25ea562f5ebaf19b1778a24a40fa9924
+    time: 1427781843
+  /assets/IMG_5571.jpg:
+    md5: 017921b628cbb03136358156fa1acc6a
+    time: 1427781843
+  /assets/551.jpg:
+    md5: aada2b7a37573d3d500a49b274b3737f
+    time: 1427781843
+  /assets/IMG_5572.jpg:
+    md5: 7ef17af8bd490e0527d74e29e1bfb5eb
+    time: 1427781844
+  /assets/IMG_5574.jpg:
+    md5: 78581618861bf97ed56bef8749b40147
+    time: 1427781844
+  /assets/MG_1444.jpg:
+    md5: 7e4baf5107b15fe9047d980d7f374edb
+    time: 1427781844
+  /assets/MG_1496.jpg:
+    md5: 05254cbc3187a0b3dc9a04c532ee529d
+    time: 1427781844
+  /assets/MG_1585.jpg:
+    md5: 3b8896d7850bb13167703cdeded38c97
+    time: 1427781845
+  /assets/MG_1522.jpg:
+    md5: 24a6e30819c4fec0262036a50de359ff
+    time: 1427781845
+  /assets/MG_1595-1.jpg:
+    md5: a0af2e11ebd58148fe020e5d726ada5e
+    time: 1427781845
+  /assets/MG_1602.jpg:
+    md5: 5521d704e6c57debd06342f12c57ac02
+    time: 1427781846
+  /assets/IMG_5574-1.jpg:
+    md5: 588008203b54bc9200ba319d4a623994
+    time: 1427781846
+  /assets/IMG_557f4.jpg:
+    md5: 588008203b54bc9200ba319d4a623994
+    time: 1427781846
   /assets/04_21.jpg:
     md5: cc1b7c83f09497ec37fca57d918e5994
     time: 1425588947
