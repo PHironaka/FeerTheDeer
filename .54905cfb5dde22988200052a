@@ -1,5 +1,5 @@
 ---
-time: 1427781849
+time: 1427784300
 inventory:
   /index/index.html:
     md5: a0ebd09ac1708e94c1dc4f4cddbd49b0
@@ -215,8 +215,8 @@ inventory:
     md5: aca04c24500c3fd6d66c35f715063085
     time: 1427406756
   /works/features/index.html:
-    md5: 738cdf72751e57c1c10d70da06bc1fb0
-    time: 1427781832
+    md5: 6292a5cee86c47042e532f72c58da8ea
+    time: 1427784286
   /works/features/native-shoes-native-tongue-issue-i-ss15-campaign/index.html:
     md5: 2eb62f05413bb0c6fb889ea6d974fae9
     time: 1427740961
@@ -227,8 +227,8 @@ inventory:
     md5: 8a64b98d7c990b60884cda5ae8cbb3ac
     time: 1427781832
   /works/features/roosevelt-surveyance/index.html:
-    md5: 743655fb0d6218233bd4bab32b9cced3
-    time: 1427740961
+    md5: 33d4c3bd0720ff3d861fe7da690b29e1
+    time: 1427784287
   /works/features/moonstompin-a-planetary-recon/index.html:
     md5: f84d6be1985e2d683564f6e23899bc21
     time: 1427740962
@@ -434,8 +434,8 @@ inventory:
     md5: 752f884d663e84f3913097c783972f65
     time: 1427740970
   /feed.xml:
-    md5: ff13410039ea5f4c6edd39868a9e953b
-    time: 1427781842
+    md5: 0b73e4bea9b277307c7c7b3d1ab4d19e
+    time: 1427784294
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -868,6 +868,39 @@ inventory:
   /assets/IMG_557f4.jpg:
     md5: 588008203b54bc9200ba319d4a623994
     time: 1427781846
+  /assets/62.jpg:
+    md5: 2be815cb60ed6edfd44b19b73fd92aa9
+    time: 1427784295
+  /assets/54.jpg:
+    md5: adacf112f1ecb3d3387bba594050b45a
+    time: 1427784295
+  /assets/IMG_5582.jpg:
+    md5: a9c2ebf73949b950b5a130c852b26f59
+    time: 1427784295
+  /assets/IMG_5587.jpg:
+    md5: 70acdf4f53470a8b7aa1bd9c43a4f933
+    time: 1427784295
+  /assets/IMG_5586.jpg:
+    md5: b90ef1a914d97084b6a7243e071a2383
+    time: 1427784296
+  /assets/IMG_5588.jpg:
+    md5: c7dd7aab24df7e07c8ad4b1a69a74d95
+    time: 1427784296
+  /assets/IMG_5589.jpg:
+    md5: d07acc2941ef67152e1bb515e487c599
+    time: 1427784297
+  /assets/IMG_5591.jpg:
+    md5: b12d37d447f1be37605f105605c6ec33
+    time: 1427784297
+  /assets/IMG_5590.jpg:
+    md5: 19829c787539af59dd50f56298e06329
+    time: 1427784297
+  /assets/IMG_5593-1.jpg:
+    md5: 49f7ea17f6b135361079120e3b926030
+    time: 1427784297
+  /assets/IMG_5595.jpg:
+    md5: 0a96ebd16dc75cc76a8d8761e5e8e014
+    time: 1427784298
   /assets/04_21.jpg:
     md5: cc1b7c83f09497ec37fca57d918e5994
     time: 1425588947
