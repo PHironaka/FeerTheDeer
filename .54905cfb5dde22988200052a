@@ -1,5 +1,5 @@
 ---
-time: 1427784300
+time: 1428338370
 inventory:
   /index/index.html:
     md5: a0ebd09ac1708e94c1dc4f4cddbd49b0
@@ -76,6 +76,9 @@ inventory:
   /works/gourmet-footwear-spring-2011-collection/index.html:
     md5: ba88a45f578d15e26d6409b89bd3e77f
     time: 1427408716
+  /works/the-madbury-club-native-shoes-common-cl/index.html:
+    md5: 2809ff8ec369597712cd536a2dd371a8
+    time: 1428338343
   /works/native-ss15-moon-mission/index.html:
     md5: 777661705019304e5b7b95e277843120
     time: 1427408717
@@ -215,14 +218,14 @@ inventory:
     md5: aca04c24500c3fd6d66c35f715063085
     time: 1427406756
   /works/features/index.html:
-    md5: 6292a5cee86c47042e532f72c58da8ea
-    time: 1427784286
+    md5: be83c3f4b439975f9d344c7a1d0d106d
+    time: 1428338356
   /works/features/native-shoes-native-tongue-issue-i-ss15-campaign/index.html:
     md5: 2eb62f05413bb0c6fb889ea6d974fae9
     time: 1427740961
   /works/features/10-deep-town/index.html:
-    md5: e99a84c9ccabadc43854800e6cb7ca9d
-    time: 1427741395
+    md5: 80df719a03f75bf9e343ba76e33b6f0a
+    time: 1428338357
   /works/features/nylon-expeditions-a-madbury-editorial-experiment/index.html:
     md5: 8a64b98d7c990b60884cda5ae8cbb3ac
     time: 1427781832
@@ -434,8 +437,8 @@ inventory:
     md5: 752f884d663e84f3913097c783972f65
     time: 1427740970
   /feed.xml:
-    md5: 0b73e4bea9b277307c7c7b3d1ab4d19e
-    time: 1427784294
+    md5: e691fd28621d83e7e587374b34a59af6
+    time: 1428338365
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -901,6 +904,9 @@ inventory:
   /assets/IMG_5595.jpg:
     md5: 0a96ebd16dc75cc76a8d8761e5e8e014
     time: 1427784298
+  /assets/VP_TMC_NSW_03.30.2015_0418.jpg:
+    md5: 80a498d239cbf9b564245a986a29379f
+    time: 1428338366
   /assets/04_21.jpg:
     md5: cc1b7c83f09497ec37fca57d918e5994
     time: 1425588947
@@ -1078,6 +1084,9 @@ inventory:
   /assets/TMC_10Deep_Del2_Final_14.jpg:
     md5: e03f439d7aa31ff45ef5db484ba437f0
     time: 1427740974
+  /assets/VP_TMC_NSW_03.30.2015_0398.jpg:
+    md5: d6f29a0afda2e11b1b0fbc3c80b0682a
+    time: 1428338366
   /assets/SR1.jpg:
     md5: 87ad18d7fa34d901ef1dedd223bd40e0
     time: 1425588954
@@ -1240,6 +1249,9 @@ inventory:
   /assets/TMC_10Deep_Del2_Final_7.jpg:
     md5: b4c975dfef888473c865423fefe20626
     time: 1427740974
+  /assets/VP_TMC_NSW_03.30.2015_0372.jpg:
+    md5: 53d3b59b244810ec9f15c4a9d23af628
+    time: 1428338367
   /assets/SR4.jpg:
     md5: bca5272d307128b300470c7779160b55
     time: 1425588960
@@ -1393,6 +1405,9 @@ inventory:
   /assets/TMC_10Deep_Del2_Final_8.jpg:
     md5: 4429360ef508e2a4385f5596376b2ba7
     time: 1427740974
+  /assets/VP_TMC_NSW_03.30.2015_0412.jpg:
+    md5: 108adc25ac7959715c1606565166099b
+    time: 1428338367
   /assets/03_23.jpg:
     md5: a98886cf798911ae3d2a6c5e21ea32f0
     time: 1425588964
@@ -1531,6 +1546,9 @@ inventory:
   /assets/TMC_10Deep_Del2_Final_1.jpg:
     md5: d0f233e5fb424feb028ba1a5f732cb1b
     time: 1427740974
+  /assets/VP_TMC_NSW_03.30.2015_0476.jpg:
+    md5: b118ee5093e18d65d9b07f16ce5ce871
+    time: 1428338368
   /assets/SR6.jpg:
     md5: 6357cc5b528337bd3e6b1e5694cb2519
     time: 1425588970
