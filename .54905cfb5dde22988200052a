@@ -1,5 +1,5 @@
 ---
-time: 1428338370
+time: 1428338474
 inventory:
   /index/index.html:
     md5: a0ebd09ac1708e94c1dc4f4cddbd49b0
@@ -224,8 +224,8 @@ inventory:
     md5: 2eb62f05413bb0c6fb889ea6d974fae9
     time: 1427740961
   /works/features/10-deep-town/index.html:
-    md5: 80df719a03f75bf9e343ba76e33b6f0a
-    time: 1428338357
+    md5: 304294f370ba47ec2fda4955c71dca12
+    time: 1428338459
   /works/features/nylon-expeditions-a-madbury-editorial-experiment/index.html:
     md5: 8a64b98d7c990b60884cda5ae8cbb3ac
     time: 1427781832
@@ -437,8 +437,8 @@ inventory:
     md5: 752f884d663e84f3913097c783972f65
     time: 1427740970
   /feed.xml:
-    md5: e691fd28621d83e7e587374b34a59af6
-    time: 1428338365
+    md5: a7f3c4d83ad066d6b0f3943c209593c1
+    time: 1428338474
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
