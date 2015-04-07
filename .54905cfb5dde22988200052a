@@ -1,5 +1,5 @@
 ---
-time: 1428423762
+time: 1428423869
 inventory:
   /index/index.html:
     md5: 21effe0076ae930e22a5b6e299e69f65
@@ -8,8 +8,8 @@ inventory:
     md5: 21effe0076ae930e22a5b6e299e69f65
     time: 1428423712
   /works/index.html:
-    md5: a6252c2a4c673c1b644c81578fdbfee3
-    time: 1428423712
+    md5: e6984f72f3df7c38c1f5d10ba6f6aeca
+    time: 1428423837
   /works/cosmic-exploration-with-chet-brinkwater-takara-bunyon/index.html:
     md5: 6f277116ee8070dc0089b7962c0f59ed
     time: 1427408709
@@ -86,8 +86,8 @@ inventory:
     md5: 85dc844f2441f73b472cb92e0525415d
     time: 1427408710
   /works/archive/index.html:
-    md5: 96fe0b5d00db79d138b1524436b2e1c7
-    time: 1428423718
+    md5: c0f2256260e890a53afc2d9a278c8c6e
+    time: 1428423843
   /works/tags/index.html:
     md5: fa0acb55750f4ddf2978e8c05069e0d2
     time: 1427408718
@@ -161,8 +161,8 @@ inventory:
     md5: 57c14994bb5293976456c2961d4728cc
     time: 1427408722
   /works/index/index.html:
-    md5: 68ec25aaff87020368c9503e44556692
-    time: 1428423720
+    md5: 70136128ac2a4b1bdaacea7b028cb3fc
+    time: 1428423845
   /works/index/post/index.html:
     md5: a7f0c64bada39b2721615d20d4f0e54a
     time: 1427408722
@@ -182,11 +182,11 @@ inventory:
     md5: 539c484d1ce8dd19fcaee5394d5fc0d7
     time: 1427408724
   /the-club/phillip-t-annand/index.html:
-    md5: af18aa5c575150db22e29eaeefb5002b
-    time: 1428423726
+    md5: 6fe641df9ac2183e410bcbcf1fbed8f7
+    time: 1428423851
   /the-club/hyun-kim/index.html:
-    md5: 0ca787aea0ba70a6c348625510bfd5d9
-    time: 1428423726
+    md5: c81fbcbaa2c59dcbbe1485c96f59cc3f
+    time: 1428423851
   /the-club/marcus-arman/index.html:
     md5: fbd76e2c6ee721ca2c27d7d69c234672
     time: 1428423726
@@ -221,26 +221,26 @@ inventory:
     md5: 5f80bbc0c6625a6f44fd1c5150e68f13
     time: 1428423732
   /works/features/native-shoes-native-tongue-issue-i-ss15-campaign/index.html:
-    md5: c3de936e1b1c9ad788d38cf29e0b23e3
-    time: 1428423733
+    md5: 5b072bf37bbefb449b0ff07c178a8ba9
+    time: 1428423857
   /works/features/10-deep-town/index.html:
-    md5: acc75185ac448137ae57c63b66f96464
-    time: 1428423733
+    md5: 2f3c8d0e9e0bf77d58438c80403e820d
+    time: 1428423857
   /works/features/10-deep-vctry-holiday-2014-lookbook/index.html:
     md5: c4489e3288b8bc872acb60f587efb04c
     time: 1428423733
   /works/features/10-deep-core-holiday-2014-lookbook/index.html:
-    md5: 5357a2a7d8f1367e055651daaeb10794
-    time: 1428423733
+    md5: 3da3ac3d3734847ab0063c5bfd237a2c
+    time: 1428423857
   /works/features/nylon-expeditions-a-madbury-editorial-experiment/index.html:
-    md5: 7bc0a7e93ca58e7e5cc19bbf833fc71f
-    time: 1428423733
+    md5: 66ec2186345927353f086948902c970d
+    time: 1428423858
   /works/features/roosevelt-surveyance/index.html:
-    md5: d4aa4f13f31e52121a4d08a8532a952d
-    time: 1428423734
+    md5: cdcc9e8b1e9a10892d83d8a2b42e9461
+    time: 1428423858
   /works/features/moonstompin-a-planetary-recon/index.html:
-    md5: 88087e1ce67c2361d9b031ab4b856153
-    time: 1428423734
+    md5: 643a2549601ebf70f61697813d8cba1e
+    time: 1428423858
   /works/features/archive/index.html:
     md5: 2102864983d5d6f46b605cfea6c22629
     time: 1427408738
@@ -443,8 +443,8 @@ inventory:
     md5: 752f884d663e84f3913097c783972f65
     time: 1427740970
   /feed.xml:
-    md5: 0473bf9c862707b06ee8e8d73bbd4243
-    time: 1428423743
+    md5: 3258276a686657292eb2d08367b15d1b
+    time: 1428423866
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
