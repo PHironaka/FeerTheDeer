@@ -1,5 +1,5 @@
 ---
-time: 1428424628
+time: 1428424813
 inventory:
   /index/index.html:
     md5: 7c58c23e54173cfe3115880774f2fc7a
@@ -194,8 +194,8 @@ inventory:
     md5: 3680beabfad4aa4e99814c9f9ce657c4
     time: 1428424325
   /the-club/darryl-richardson/index.html:
-    md5: 20b5c5bb253419050aa270b998143b97
-    time: 1428423727
+    md5: 2590fad20ae237a0d51ccf2bbf2a8e98
+    time: 1428424798
   /the-club/ellington-hammond/index.html:
     md5: 59dbeaa15f5c56a400a4b33f11267cb8
     time: 1428424326
@@ -221,8 +221,8 @@ inventory:
     md5: b985156aa0739fd8977b2a544215810b
     time: 1428424330
   /works/features/native-shoes-native-tongue-issue-i-ss15-campaign/index.html:
-    md5: b09362d2acf4d97317af1675c8426de1
-    time: 1428424330
+    md5: cb5e94d558fec66c3d8d788457bfc729
+    time: 1428424803
   /works/features/10-deep-town/index.html:
     md5: 49e30ebdc3a22f0105a131e36e386e98
     time: 1428424331
@@ -268,12 +268,12 @@ inventory:
   /works/features/tags/native/index.html:
     md5: cf321af94beeb101032c43e9f030ecd6
     time: 1427408739
-  /works/features/tags/hyun-kim/index.html:
-    md5: 81ada0269c62c842e1b91a12f24cd526
-    time: 1427408740
   /works/features/tags/darryl-richardson/index.html:
     md5: 9805db781ea2b277300b9799431a2253
     time: 1427740963
+  /works/features/tags/hyun-kim/index.html:
+    md5: 81ada0269c62c842e1b91a12f24cd526
+    time: 1427408740
   /works/features/tags/10-deep/index.html:
     md5: b43d2c844ba9250a5eda96122ba579b4
     time: 1427740963
@@ -443,8 +443,8 @@ inventory:
     md5: 856011efe902c7de960fce1a88854e25
     time: 1428424627
   /feed.xml:
-    md5: 9077300b18e6cbd738d36f79bd0dd889
-    time: 1428424627
+    md5: 1eb7c22c1d7531bbe3ad9a482aadd456
+    time: 1428424813
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
