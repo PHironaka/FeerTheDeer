@@ -1,15 +1,15 @@
 ---
-time: 1428338474
+time: 1428423762
 inventory:
   /index/index.html:
-    md5: a0ebd09ac1708e94c1dc4f4cddbd49b0
-    time: 1427740943
+    md5: 21effe0076ae930e22a5b6e299e69f65
+    time: 1428423712
   /index.html:
-    md5: a0ebd09ac1708e94c1dc4f4cddbd49b0
-    time: 1427740943
+    md5: 21effe0076ae930e22a5b6e299e69f65
+    time: 1428423712
   /works/index.html:
-    md5: b21fd3c74b0f20a6d2f35f5b795da9d9
-    time: 1427740943
+    md5: a6252c2a4c673c1b644c81578fdbfee3
+    time: 1428423712
   /works/cosmic-exploration-with-chet-brinkwater-takara-bunyon/index.html:
     md5: 6f277116ee8070dc0089b7962c0f59ed
     time: 1427408709
@@ -86,8 +86,8 @@ inventory:
     md5: 85dc844f2441f73b472cb92e0525415d
     time: 1427408710
   /works/archive/index.html:
-    md5: 306214d034c6ddfa47b36f34a254e4a8
-    time: 1427740948
+    md5: 96fe0b5d00db79d138b1524436b2e1c7
+    time: 1428423718
   /works/tags/index.html:
     md5: fa0acb55750f4ddf2978e8c05069e0d2
     time: 1427408718
@@ -161,8 +161,8 @@ inventory:
     md5: 57c14994bb5293976456c2961d4728cc
     time: 1427408722
   /works/index/index.html:
-    md5: 553838c360789c4c60e0806776bb30ff
-    time: 1427740950
+    md5: 68ec25aaff87020368c9503e44556692
+    time: 1428423720
   /works/index/post/index.html:
     md5: a7f0c64bada39b2721615d20d4f0e54a
     time: 1427408722
@@ -182,59 +182,65 @@ inventory:
     md5: 539c484d1ce8dd19fcaee5394d5fc0d7
     time: 1427408724
   /the-club/phillip-t-annand/index.html:
-    md5: 13897006a0c0eb8ef381f8d634c41b03
-    time: 1427740955
+    md5: af18aa5c575150db22e29eaeefb5002b
+    time: 1428423726
   /the-club/hyun-kim/index.html:
-    md5: b64731957848095e7da14a0b4ccdc151
-    time: 1427740955
+    md5: 0ca787aea0ba70a6c348625510bfd5d9
+    time: 1428423726
   /the-club/marcus-arman/index.html:
-    md5: b753d81762c671a170df9cc24a6397bc
-    time: 1427408729
+    md5: fbd76e2c6ee721ca2c27d7d69c234672
+    time: 1428423726
   /the-club/peter-hironaka/index.html:
-    md5: b46778e14b74464013b881e37722701e
-    time: 1427408730
+    md5: d067c735234ecbc88ad9d45dc98dd811
+    time: 1428423727
   /the-club/darryl-richardson/index.html:
-    md5: c557af46062bffa8daa2cd66d9a1bada
-    time: 1427740956
+    md5: 20b5c5bb253419050aa270b998143b97
+    time: 1428423727
   /the-club/ellington-hammond/index.html:
-    md5: 5ad5837d1bcc80d8cc1f12e634c10014
-    time: 1427408731
+    md5: fcc932c8982a2f0c9bd2b22c8ba6ea93
+    time: 1428423727
   /the-club/vincent-picone/index.html:
-    md5: 6477172c143d9bda478c84226d045adb
-    time: 1427740958
+    md5: 795b91075125c2f98bc912076bdb9d1e
+    time: 1428423729
   /the-club/tone/index.html:
-    md5: c683e357d7802f567ad27dbf8a891b88
-    time: 1427740959
+    md5: 15ff4085d1a5d54cf19bf4cd334de879
+    time: 1428423730
   /the-club/bryan-stevenson/index.html:
-    md5: 8f94912f2c148fbfde9d0646323ee6af
-    time: 1427408735
+    md5: 6bb3e307c062d37a28e546ba4c7b493e
+    time: 1428423731
   /the-club/archive/index.html:
-    md5: d34a560eeceea74020d256f1c0737770
-    time: 1427408735
+    md5: 84546cf0e8f136565f91a5239f9480d9
+    time: 1428423732
   /the-club/tags/index.html:
-    md5: be21fa029b5c7c5d7d7b3a82cac149d5
-    time: 1427408736
+    md5: 6f7e455dfddaf70fd4bb48fce088e134
+    time: 1428423732
   /factory/index.html:
     md5: aca04c24500c3fd6d66c35f715063085
     time: 1427406756
   /works/features/index.html:
-    md5: be83c3f4b439975f9d344c7a1d0d106d
-    time: 1428338356
+    md5: 5f80bbc0c6625a6f44fd1c5150e68f13
+    time: 1428423732
   /works/features/native-shoes-native-tongue-issue-i-ss15-campaign/index.html:
-    md5: 2eb62f05413bb0c6fb889ea6d974fae9
-    time: 1427740961
+    md5: c3de936e1b1c9ad788d38cf29e0b23e3
+    time: 1428423733
   /works/features/10-deep-town/index.html:
-    md5: 304294f370ba47ec2fda4955c71dca12
-    time: 1428338459
+    md5: acc75185ac448137ae57c63b66f96464
+    time: 1428423733
+  /works/features/10-deep-vctry-holiday-2014-lookbook/index.html:
+    md5: c4489e3288b8bc872acb60f587efb04c
+    time: 1428423733
+  /works/features/10-deep-core-holiday-2014-lookbook/index.html:
+    md5: 5357a2a7d8f1367e055651daaeb10794
+    time: 1428423733
   /works/features/nylon-expeditions-a-madbury-editorial-experiment/index.html:
-    md5: 8a64b98d7c990b60884cda5ae8cbb3ac
-    time: 1427781832
+    md5: 7bc0a7e93ca58e7e5cc19bbf833fc71f
+    time: 1428423733
   /works/features/roosevelt-surveyance/index.html:
-    md5: 33d4c3bd0720ff3d861fe7da690b29e1
-    time: 1427784287
+    md5: d4aa4f13f31e52121a4d08a8532a952d
+    time: 1428423734
   /works/features/moonstompin-a-planetary-recon/index.html:
-    md5: f84d6be1985e2d683564f6e23899bc21
-    time: 1427740962
+    md5: 88087e1ce67c2361d9b031ab4b856153
+    time: 1428423734
   /works/features/archive/index.html:
     md5: 2102864983d5d6f46b605cfea6c22629
     time: 1427408738
@@ -437,8 +443,8 @@ inventory:
     md5: 752f884d663e84f3913097c783972f65
     time: 1427740970
   /feed.xml:
-    md5: a7f3c4d83ad066d6b0f3943c209593c1
-    time: 1428338474
+    md5: 0473bf9c862707b06ee8e8d73bbd4243
+    time: 1428423743
   /assets/06_19.jpg:
     md5: 998bcf29429f00dc43aa9c1bc3343819
     time: 1425588904
@@ -907,6 +913,45 @@ inventory:
   /assets/VP_TMC_NSW_03.30.2015_0418.jpg:
     md5: 80a498d239cbf9b564245a986a29379f
     time: 1428338366
+  /assets/VP_TMC_10Deep_HolidayLookbook_Victory_11.15.2014_0256.jpg:
+    md5: 27324ab8b1bb7b7d09c3577f9a8eb55a
+    time: 1428423743
+  /assets/TMC_10Deep_Core_Holiday_6.jpg:
+    md5: 0c549f454fba2cb11dfd6352ca2dbba5
+    time: 1428423744
+  /assets/TMC_10DEEP_Gram_2.jpg:
+    md5: 422b80686bf3eb99421c114ba007e7f7
+    time: 1428423744
+  /assets/TMC_10DEEP_Gram_1.jpg:
+    md5: 12d6b5dcd6897478ac419a202fdc948c
+    time: 1428423744
+  /assets/TMC_10DEEP_Gram_3.jpg:
+    md5: 33bd4eb0ef84a3aba948310a94078ba2
+    time: 1428423745
+  /assets/TMC_10DEEP_Gram_8.jpg:
+    md5: a8b6869d8bb981ae2bfb9c2e93433a66
+    time: 1428423745
+  /assets/TMC_10DEEP_Gram_11.jpg:
+    md5: 8cd2a0d4ebb94f8e4efe0b1249aaad37
+    time: 1428423745
+  /assets/TMC_10DEEP_Gram_10.jpg:
+    md5: 12d9e2e86e0a0c19d521c9b21d3a184f
+    time: 1428423746
+  /assets/2014_TMC_Tone_10Deep_Nov15_1967.jpg:
+    md5: 21c22cc281d249672a2a1f75e4feab76
+    time: 1428423746
+  /assets/2014_TMC_Tone_10Deep_Nov15_2035.jpg:
+    md5: d6e0b1fd2d55c2c48d5dec64d4fe71a1
+    time: 1428423747
+  /assets/2014_TMC_Tone_10Deep_Nov15_2036.jpg:
+    md5: 083bf1f13849002b30698bc815a02762
+    time: 1428423747
+  /assets/tumblr_nfk08cASQd1qba77vo2_1280.jpg:
+    md5: 3d891f09c25e25d9960a10c16607924e
+    time: 1428423748
+  /assets/2014_TMC_Tone_10Deep_Nov15_1598.jpg:
+    md5: fb6b016c704f6c89e6c84a2bbd0fd199
+    time: 1428423748
   /assets/04_21.jpg:
     md5: cc1b7c83f09497ec37fca57d918e5994
     time: 1425588947
@@ -1087,6 +1132,12 @@ inventory:
   /assets/VP_TMC_NSW_03.30.2015_0398.jpg:
     md5: d6f29a0afda2e11b1b0fbc3c80b0682a
     time: 1428338366
+  /assets/VP_TMC_10Deep_HolidayLookbook_Victory_11.15.2014_0265.jpg:
+    md5: 2799a7ae638b1fca6f499e08a200cbf5
+    time: 1428423749
+  /assets/TMC_10Deep_Core_Holiday_14.jpg:
+    md5: 1e3cbe59d8478d3c8c6a9cab3c0597a7
+    time: 1428423749
   /assets/SR1.jpg:
     md5: 87ad18d7fa34d901ef1dedd223bd40e0
     time: 1425588954
@@ -1252,6 +1303,12 @@ inventory:
   /assets/VP_TMC_NSW_03.30.2015_0372.jpg:
     md5: 53d3b59b244810ec9f15c4a9d23af628
     time: 1428338367
+  /assets/VP_TMC_10Deep_HolidayLookbook_Victory_11.15.2014_0322.jpg:
+    md5: a32885ba5494187f0ec397c86ee2847b
+    time: 1428423749
+  /assets/TMC_10Deep_Core_Holiday_28.jpg:
+    md5: 25a868e1f6eaa474a153bcdb9b12ed39
+    time: 1428423750
   /assets/SR4.jpg:
     md5: bca5272d307128b300470c7779160b55
     time: 1425588960
@@ -1408,6 +1465,12 @@ inventory:
   /assets/VP_TMC_NSW_03.30.2015_0412.jpg:
     md5: 108adc25ac7959715c1606565166099b
     time: 1428338367
+  /assets/VP_TMC_10Deep_HolidayLookbook_Victory_11.15.2014_0537-Edit.jpg:
+    md5: 7de4fe65a8946428804435539be27379
+    time: 1428423750
+  /assets/TMC_10Deep_Core_Holiday_3.jpg:
+    md5: 33a471662cd20a7e506e8993d9d88ae9
+    time: 1428423750
   /assets/03_23.jpg:
     md5: a98886cf798911ae3d2a6c5e21ea32f0
     time: 1425588964
@@ -1549,6 +1612,12 @@ inventory:
   /assets/VP_TMC_NSW_03.30.2015_0476.jpg:
     md5: b118ee5093e18d65d9b07f16ce5ce871
     time: 1428338368
+  /assets/VP_TMC_10Deep_HolidayLookbook_Victory_11.15.2014_0718-Edit.jpg:
+    md5: 83d20e3e256a249779d18750d1739664
+    time: 1428423751
+  /assets/TMC_10Deep_Core_Holiday_7.jpg:
+    md5: 0815e14b303be6561898b1d38704ae4b
+    time: 1428423751
   /assets/SR6.jpg:
     md5: 6357cc5b528337bd3e6b1e5694cb2519
     time: 1425588970
