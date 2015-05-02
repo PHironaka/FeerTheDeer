@@ -1,5 +1,5 @@
 ---
-time: 1430533639
+time: 1430533707
 inventory:
   "/index/index.html":
     md5: 59f42a8e2659a4e3039093f9ffb6dfed
@@ -952,6 +952,24 @@ inventory:
   "/assets/2014_TMC_Tone_10Deep_Nov15_1598.jpg":
     md5: fb6b016c704f6c89e6c84a2bbd0fd199
     time: 1428423748
+  "/background-photo-mobile-devices.jpg":
+    md5: 17c2b7603a8a967af619e6cdb5488e5b
+    time: 1430533705
+  "/favicon.ico":
+    md5: 3195a1b1eb15360dbd29ace8e0f4763b
+    time: 1430533705
+  "/presentational-only.css":
+    md5: 563f4d6c8f2cc7efdf443a814bf20404
+    time: 1430533705
+  "/presentational-only.js":
+    md5: 3348cb395d89c010c6e7e48e9bd57816
+    time: 1430533705
+  "/responsive-full-background-image.css":
+    md5: 8f38110e88c5aa23f78eace5461b4967
+    time: 1430533705
+  "/background-photo.jpg":
+    md5: 9100f1c0bfb834d8d49e86ab516c3011
+    time: 1430533705
   "/assets/04_21.jpg":
     md5: cc1b7c83f09497ec37fca57d918e5994
     time: 1425588947
